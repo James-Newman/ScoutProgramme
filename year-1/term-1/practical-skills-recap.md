@@ -4,7 +4,7 @@
 
 **Fits the term because:** revisits every core skill from the term — pitching, hygiene, first aid awareness, kit — as a single circuit, closing any gaps before the badge sign-offs at the end of term.
 
-**Badge focus:** no new requirement — consolidates the requirements already covered in [Tent Pitching: Outdoor Practical](tent-pitching-outdoor-practical.md), [Camp Hygiene & Food Safety](camp-hygiene-and-food-safety.md), [Outdoor Safety & Risk Awareness](outdoor-safety-and-risk-awareness.md), and [Fire Safety & Camp Cooking Prep](fire-safety-and-camp-cooking.md).
+**Badge focus:** no new requirement — consolidates the requirements already covered in [Tent Pitching](tent-pitching.md), [Site Layout & Design](site-layout-design.md), [Camp Hygiene & Food Safety](camp-hygiene-and-food-safety.md), [Outdoor Safety & Risk Awareness](outdoor-safety-and-risk-awareness.md), and [Fire Safety & Camp Cooking Prep](fire-safety-and-camp-cooking.md).
 
 ## Running order
 

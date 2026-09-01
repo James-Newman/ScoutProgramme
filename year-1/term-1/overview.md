@@ -14,9 +14,9 @@ The optional weekend camp that carries the Nights Away and Hikes Away progressio
 | :-- | :-- | :-- |
 | 1 | [Welcome Session](welcome-session.md) | None — generic opening session, reused every term |
 | 2 | [Camp Kit & Personal Equipment](camp-kit-and-personal-equipment.md) | Optional extra: rucksack packing |
-| 3 | [Tent Pitching: Theory & Indoor Practice](tent-pitching-theory-and-indoor-practice.md) | Builds towards: pitch and strike a tent |
-| 4 | [Tent Pitching: Outdoor Practical](tent-pitching-outdoor-practical.md) | Pitch and strike a tent (sign-off) |
-| 5 | [Campsite Selection & Site Layout](campsite-selection-and-site-layout.md) | Lead/help set up a well-organised site |
+| 3 | [Tent Pitching](tent-pitching.md) | Pitch and strike a tent (sign-off) |
+| 4 | [Campsite Selection](campsite-selection.md) | None — builds the judgement for the following session |
+| 5 | [Site Layout & Design](site-layout-design.md) | Lead/help set up a well-organised site |
 | 6 | [Camp Hygiene & Food Safety](camp-hygiene-and-food-safety.md) | Explain personal and campsite hygiene |
 | 7 | [Outdoor Safety & Risk Awareness](outdoor-safety-and-risk-awareness.md) | Identify accidents/incidents and respond appropriately, plus the general safety induction |
 | 8 | [Fire Safety & Camp Cooking Prep](fire-safety-and-camp-cooking.md) | Light a fire/stove and cook and serve a meal safely |
