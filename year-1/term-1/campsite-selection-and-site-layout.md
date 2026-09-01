@@ -1,8 +1,12 @@
 # Campsite Selection & Site Layout
 
 **Term:** Year 1, Term 1 — Campcraft & Outdoor Skills
+
 **Fits the term because:** pitching a single tent is only half the skill — this session scales that up to laying out a whole patrol site, which is what Scouts will actually do at the weekend camp.
-**Badge focus:** Outdoor Challenge Award requirement to lead, or help lead, a group to set up a well-organised site including sleeping tents, food and equipment stores, a fire or stove, kitchen, and eating area.
+
+**Badge focus:** Outdoor Challenge Award requirement — lead, or help lead, a well-organised site.
+
+> "Lead, or help to lead, a group of Scouts to set up a well-organised site. It should include sleeping tents, food and equipment stores, a fire or stove, kitchen and eating area."
 
 ## Running order
 

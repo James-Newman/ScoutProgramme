@@ -1,8 +1,12 @@
 # Weekend Camp Preparation
 
 **Term:** Year 1, Term 1 — Campcraft & Outdoor Skills
+
 **Fits the term because:** this is where everything the term has built — kit, pitching, site layout, hygiene, safety, cooking — comes together into a concrete plan for the optional weekend camp.
-**Badge focus:** contributes to the Outdoor Challenge Award's optional-extras list (menu planning), and rehearses the pitching, site layout, and kit skills from earlier sessions that the camp itself will draw on.
+
+**Badge focus:** Outdoor Challenge Award optional extra — menu planning. It's one of the "complete at least four" tasks, and this session also rehearses the pitching, site layout, and kit skills from earlier sessions that the camp itself will draw on.
+
+> "Plan a balanced menu for a short camp."
 
 ## Running order
 

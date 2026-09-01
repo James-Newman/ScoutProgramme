@@ -1,8 +1,22 @@
 # Badge Review & Sign-Off
 
 **Term:** Year 1, Term 1 — Campcraft & Outdoor Skills
+
 **Fits the term because:** closes out the term by recognising what's been achieved and formally signing off the term's badge.
-**Badge focus:** Outdoor Challenge Award (Part 1: Campcraft) sign-off and presentation.
+
+**Badge focus:** Outdoor Challenge Award (Part 1: Campcraft) sign-off and presentation, against the requirements covered this term:
+
+> "With others, pitch and strike your tent."
+>
+> "Lead, or help to lead, a group of Scouts to set up a well-organised site. It should include sleeping tents, food and equipment stores, a fire or stove, kitchen and eating area."
+>
+> "Find out why personal and campsite hygiene is important. What should you do to be hygienic?"
+>
+> "Find out what accidents and incidents can happen outdoors or during your camp. Show how you would deal with them."
+>
+> "Prepare and light an open fire or set up a suitable stove. Use it to prepare, cook and serve a meal safely."
+>
+> Three of the "complete at least four" optional extras: "Show how to pack a rucksack correctly, with appropriate kit for the camp or event." / "Plan a balanced menu for a short camp." / "Take part in a campfire or other entertainment."
 
 ## Running order
 

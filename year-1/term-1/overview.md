@@ -25,4 +25,14 @@ The optional weekend camp that carries the Nights Away and Hikes Away progressio
 | 11 | [Camp Debrief & Skills Consolidation](camp-debrief-and-skills-consolidation.md) | Closes gaps from earlier sessions |
 | 12 | [Badge Review & Sign-Off](badge-review-and-sign-off.md) | Outdoor Challenge Award (Part 1) presentation |
 
-The remaining Outdoor Challenge Award requirements — the Countryside Code, a pioneering camp gadget, tool safety with an axe/saw/knife, and the running total of eight nights away (four camping) — are picked up later in the programme, principally in Year 4, Term 1 (Part 2: Wilderness & Consolidation).
+The remaining Outdoor Challenge Award requirements are picked up later in the programme, principally in Year 4, Term 1 (Part 2: Wilderness & Consolidation):
+
+> "Take an active part in at least eight nights away as a Scout. Four of the nights should be camping."
+>
+> "Understand the three points of the Countryside Code. Show what action you can take to follow the code."
+>
+> "Using knots that you have learned, build a simple pioneering project, object or camp gadget."
+>
+> "Explore the environment of your camp and make sure you know where everything is. Respect the environment you are in and, at the end of the camp, leave the site as you found it."
+>
+> "Show how to use an axe, saw or knife safely. You can choose any or all of these tools."

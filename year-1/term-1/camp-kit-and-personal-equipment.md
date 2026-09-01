@@ -1,8 +1,12 @@
 # Camp Kit & Personal Equipment
 
 **Term:** Year 1, Term 1 — Campcraft & Outdoor Skills
+
 **Fits the term because:** before Scouts can pitch a tent or cook on camp, they need to know what to bring and how to carry it — the practical starting point for the term's campcraft focus.
-**Badge focus:** contributes to the Outdoor Challenge Award's optional-extras list (rucksack packing), one of the four extras Scouts need to complete across their time working on the award.
+
+**Badge focus:** Outdoor Challenge Award optional extra — rucksack packing. It's one of the "complete at least four" tasks (alongside the menu planning in [Weekend Camp Preparation](weekend-camp-preparation.md) and the campfire entertainment in [Fire Safety & Camp Cooking Prep](fire-safety-and-camp-cooking.md)).
+
+> "Show how to pack a rucksack correctly, with appropriate kit for the camp or event."
 
 ## Running order
 

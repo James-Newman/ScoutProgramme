@@ -1,8 +1,12 @@
 # Tent Pitching: Outdoor Practical
 
 **Term:** Year 1, Term 1 — Campcraft & Outdoor Skills
+
 **Fits the term because:** this is where the term's core campcraft skill gets proven for real, outdoors, ahead of the weekend camp.
-**Badge focus:** Outdoor Challenge Award requirement — "with others, pitch and strike your tent." This session is where that requirement is practically demonstrated and logged.
+
+**Badge focus:** Outdoor Challenge Award requirement — pitch and strike a tent. This session is where it's practically demonstrated and signed off.
+
+> "With others, pitch and strike your tent."
 
 ## Running order
 

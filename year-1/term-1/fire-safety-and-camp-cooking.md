@@ -1,8 +1,16 @@
 # Fire Safety & Camp Cooking Prep
 
 **Term:** Year 1, Term 1 — Campcraft & Outdoor Skills
+
 **Fits the term because:** fire and cooking skills are the last big practical building block before the weekend camp, tying together the safety and hygiene habits built in the previous two sessions.
-**Badge focus:** Outdoor Challenge Award requirement to prepare and light an open fire or set up a suitable stove, and use it to prepare, cook and serve a meal safely.
+
+**Badge focus:** Outdoor Challenge Award requirement — fire/stove and cooking.
+
+> "Prepare and light an open fire or set up a suitable stove. Use it to prepare, cook and serve a meal safely."
+
+The campfire entertainment taster at the end of this session also covers one of the "complete at least four" optional extras:
+
+> "Take part in a campfire or other entertainment."
 
 ## Running order
 

@@ -1,8 +1,12 @@
 # Tent Pitching: Theory & Indoor Practice
 
 **Term:** Year 1, Term 1 — Campcraft & Outdoor Skills
+
 **Fits the term because:** tent pitching is the term's headline campcraft skill; this session builds the understanding needed before Scouts pitch for real outdoors next week.
-**Badge focus:** builds towards the Outdoor Challenge Award requirement to pitch and strike a tent with others — the practical sign-off happens in [Tent Pitching: Outdoor Practical](tent-pitching-outdoor-practical.md).
+
+**Badge focus:** builds towards an Outdoor Challenge Award requirement — the practical sign-off happens next in [Tent Pitching: Outdoor Practical](tent-pitching-outdoor-practical.md).
+
+> "With others, pitch and strike your tent."
 
 ## Running order
 

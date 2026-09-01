@@ -1,8 +1,12 @@
 # Outdoor Safety & Risk Awareness
 
 **Term:** Year 1, Term 1 — Campcraft & Outdoor Skills
+
 **Fits the term because:** outdoor safety is the third of the term's stated core goals, and sits alongside tent pitching and hygiene as the foundation for everything Scouts do outdoors this term and beyond.
-**Badge focus:** Outdoor Challenge Award requirement to identify potential outdoor and camping accidents or incidents and demonstrate appropriate responses.
+
+**Badge focus:** Outdoor Challenge Award requirement — accidents and incidents.
+
+> "Find out what accidents and incidents can happen outdoors or during your camp. Show how you would deal with them."
 
 ## Running order
 

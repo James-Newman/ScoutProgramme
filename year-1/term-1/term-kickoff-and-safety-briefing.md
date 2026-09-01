@@ -1,8 +1,10 @@
 # Term Kickoff & Safety Briefing
 
 **Term:** Year 1, Term 1 — Campcraft & Outdoor Skills
+
 **Fits the term because:** sets up patrols, the term's badge goals, and the outdoor safety expectations that every later campcraft session depends on.
-**Badge focus:** no specific Outdoor Challenge Award requirement — this session lays the safety groundwork the rest of the term builds on, and gives a first look at the requirements Scouts will be working towards.
+
+**Badge focus:** no specific Outdoor Challenge Award requirement this session — it lays the safety groundwork the rest of the term builds on, and gives a first look at the requirements Scouts will be working towards.
 
 Like every term's opening session, this one is deliberately light on planning — a quick welcome and reform of patrols, then straight into games. The one addition this term is the safety induction, since it's foundational for everything that follows.
 

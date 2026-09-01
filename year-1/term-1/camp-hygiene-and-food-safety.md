@@ -1,8 +1,12 @@
 # Camp Hygiene & Food Safety
 
 **Term:** Year 1, Term 1 — Campcraft & Outdoor Skills
+
 **Fits the term because:** hygiene is one of the term's three stated core goals alongside tent pitching and outdoor safety, and it's easy to skip in favour of the more exciting practical skills — this session makes sure it doesn't get missed.
-**Badge focus:** Outdoor Challenge Award requirement to explain the importance of personal and campsite hygiene and describe appropriate practices.
+
+**Badge focus:** Outdoor Challenge Award requirement — personal and campsite hygiene.
+
+> "Find out why personal and campsite hygiene is important. What should you do to be hygienic?"
 
 ## Running order
 

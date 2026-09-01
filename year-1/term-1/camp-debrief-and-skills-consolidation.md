@@ -1,8 +1,10 @@
 # Camp Debrief & Skills Consolidation
 
 **Term:** Year 1, Term 1 — Campcraft & Outdoor Skills
+
 **Fits the term because:** turns the weekend camp experience into learning, addressing gaps before the term's badge work is signed off.
-**Badge focus:** no new requirement — closes out any Outdoor Challenge Award requirements from earlier sessions that individual Scouts haven't yet demonstrated.
+
+**Badge focus:** no new requirement — closes out any of this term's Outdoor Challenge Award requirements that individual Scouts haven't yet demonstrated.
 
 ## Running order
 
