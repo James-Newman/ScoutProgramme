@@ -24,9 +24,9 @@ Notices, patrol flags, opening.
 
 ### Camp trail trivia (25 min)
 
-A last group recap, played as a board-game-style trail: lay out the term trail poster from [Term Kickoff & Safety Briefing](term-kickoff-and-safety-briefing.md) on the floor as a path of numbered squares, and move a token along it patrol by patrol as they answer questions pulled from across the term (tent parts, hygiene rules, first aid kit contents, fire safety). First patrol to reach the campfire square at the end wins, but the real point is the recap along the way.
+A last group recap, played as a quickfire team quiz: split into patrols and fire questions pulled from across the term (tent parts, hygiene rules, first aid kit contents, fire safety), first patrol to buzz in or hands-up gets to answer, points on a simple scoreboard. No props needed beyond a question list and something to keep score on — a whiteboard is enough.
 
-**Materials:** term trail poster, question cards, patrol tokens.
+**Materials:** question list, whiteboard for scoring.
 
 ### Sign-off stations (40 min)
 
@@ -40,9 +40,9 @@ A celebratory rerun of the group's favourite game or two from across the term (t
 
 ### Badge presentation (10 min)
 
-A short, proper ceremony: roll call by patrol, each Scout called up individually to receive their Outdoor Challenge Award (Part 1) badge and any activity badges earned this term, patrol applause. Open the sealed term-goal postcards from session one here too, so patrols can see whether they got where they set out to.
+A short, proper ceremony: roll call by patrol, each Scout called up individually to receive their Outdoor Challenge Award (Part 1) badge and any activity badges earned this term, patrol applause.
 
-**Materials:** badges/certificates, sealed term-goal postcards.
+**Materials:** badges/certificates.
 
 ### Term 2 teaser (5 min)
 
