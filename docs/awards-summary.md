@@ -20,9 +20,9 @@ Rendered view of [`data/awards.yaml`](../data/awards.yaml). By consistently show
 
 ## 3. Activity Badges (Completed Within Specific Terms)
 
-- **Paddle Sports Activity Badge** (Year 1, Term 1)
 - **Environmental Conservation Activity Badge** (Year 1, Term 2)
 - **Pioneer Activity Badge** (Year 1, Term 3)
+- **Paddle Sports Activity Badge** (Year 1, Term 3)
 - **Scientist Activity Badge** *or* **Artist Activity Badge** (Year 2, Term 2)
 - **Hiker Activity Badge** (Year 2, Term 3)
 - **Chef Activity Badge** (Year 3, Term 1)
@@ -36,6 +36,6 @@ Rendered view of [`data/awards.yaml`](../data/awards.yaml). By consistently show
 
 - **Nights Away Staged Activity Badge** — Attained automatically by Scouts who choose to attend the optional weekend camps (+2 nights per term).
 - **Hikes Away Staged Activity Badge** — Attained automatically by Scouts who choose to attend the optional term night hikes and lightweight expeditions.
-- **Time on the Water Staged Activity Badge** — Accumulated by Scouts who choose to attend early autumn and summer paddleboarding sessions.
+- **Time on the Water Staged Activity Badge** — Accumulated by Scouts who choose to attend the summer paddleboarding sessions.
 - **Navigator Staged Activity Badge (Stage 3/4)** — Earned in Year 2, Term 1.
 - **Emergency Aid Staged Activity Badge (Stage 3/4)** — Earned in Year 3, Term 1.

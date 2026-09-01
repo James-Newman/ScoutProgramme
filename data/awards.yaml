@@ -42,11 +42,11 @@ challenge_awards:
       - "Year 3, Term 3"
 
 activity_badges:
-  - name: "Paddle Sports Activity Badge"
-    earned: "Year 1, Term 1"
   - name: "Environmental Conservation Activity Badge"
     earned: "Year 1, Term 2"
   - name: "Pioneer Activity Badge"
+    earned: "Year 1, Term 3"
+  - name: "Paddle Sports Activity Badge"
     earned: "Year 1, Term 3"
   - name: "Scientist Activity Badge or Artist Activity Badge"
     earned: "Year 2, Term 2"
@@ -76,8 +76,8 @@ staged_activity_badges:
       term night hikes and lightweight expeditions.
   - name: "Time on the Water Staged Activity Badge"
     notes: >-
-      Accumulated by Scouts who choose to attend early autumn and summer
-      paddleboarding sessions.
+      Accumulated by Scouts who choose to attend the summer paddleboarding
+      sessions.
   - name: "Navigator Staged Activity Badge (Stage 3/4)"
     earned: "Year 2, Term 1"
   - name: "Emergency Aid Staged Activity Badge (Stage 3/4)"
