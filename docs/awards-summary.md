@@ -8,7 +8,7 @@ Rendered view of [`data/awards.yaml`](../data/awards.yaml). By consistently show
 
 ## 2. Nine Challenge Awards (In-Meeting Core)
 
-- **Outdoor Challenge Award** — Completed in two parts across Year 1, Term 1 and Year 4, Term 1.
+- **Outdoor Challenge Award** — Earned in Year 1, Term 1. Every fixed requirement is covered that term except Nights Away, which is a cumulative total (at least eight nights away, four camping) that continues to accumulate afterward, crossing the threshold around Year 2, Term 1.
 - **Global Issues Challenge Award** — Earned in Year 1, Term 2 (with a Cycle 2 refresher in Year 4, Term 2).
 - **Adventure Challenge Award** — Earned in Year 1, Term 3.
 - **Team Leader Challenge Award** — Earned in Year 2, Term 1.

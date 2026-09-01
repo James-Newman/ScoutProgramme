@@ -19,6 +19,12 @@ Every term's 12 weeks therefore break down as: 1 Welcome Session + 1 Night Hike 
 
 The `docs/*.md` files are rendered views of the `data/*.yaml` files. When changing the programme, edit the YAML first and update the corresponding doc to match.
 
+## Status
+
+`year-1/term-1/` is the first term planned in full session-level detail, and the template for how every other term should eventually look. The other 11 terms currently exist only at the summary level in `data/terms.yaml` (theme, core goals, badges, staged progression) — no `year-<N>/term-<N>/` directory yet.
+
+**Keep `data/*.yaml` and `docs/*.md` in sync with the session-level detail at all times.** When a term's session files change in a way that affects what's actually earned or covered that term — a badge gets fully covered, a requirement moves to a different term, staged progression changes — update `data/terms.yaml` and `data/awards.yaml` (and the corresponding `docs/*.md` rendering) in the same piece of work, not as a follow-up. The summary-level files should always describe what the detailed session plans actually do, never what they used to do.
+
 ## Source
 
 Converted from the original planning document: [UK Scout 4-Year Program Plan](https://docs.google.com/document/d/1dEWD9er0wP04b8CBeQ2GrCP8pQHZMMAqY8jL9BzbvQ4/edit).

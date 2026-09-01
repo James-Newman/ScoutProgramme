@@ -12,8 +12,14 @@ top_award:
 challenge_awards:
   - name: "Outdoor Challenge Award"
     earned:
-      - "Year 1, Term 1 (Part 1: Campcraft)"
-      - "Year 4, Term 1 (Part 2: Wilderness & Consolidation)"
+      - "Year 1, Term 1"
+    notes: >-
+      All fixed requirements are covered in Year 1, Term 1 (see
+      year-1/term-1/) except Nights Away, which is an explicitly
+      cumulative requirement (at least eight nights away, four camping)
+      that no single term can complete alone — it continues
+      accumulating via each term's camp and crosses the threshold
+      around Year 2, Term 1.
   - name: "Global Issues Challenge Award"
     earned:
       - "Year 1, Term 2"
