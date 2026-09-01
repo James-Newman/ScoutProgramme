@@ -4,9 +4,9 @@ Term summary: [`data/terms.yaml`](../../data/terms.yaml) (year 1, term 1) · [`d
 
 Core goals: tent pitching, basic camp hygiene, and outdoor safety.
 Badges earned: **Outdoor Challenge Award (Part 1: Campcraft)**.
-Optional staged progression: Nights Away (2), Hikes Away (1) — via the Session 10 weekend camp.
+Optional staged progression: Nights Away (2), Hikes Away (1).
 
-This is the itemised 12-session breakdown for the term. Sessions 2–9 form the core badge content block; the weekend camp (Session 10) is where the optional Nights Away and Hikes Away progression is picked up.
+This is the itemised 12-session breakdown for the term's weekly meetings. The optional weekend camp that carries the Nights Away and Hikes Away progression is scheduled separately by leaders during or around the term and isn't tied to a specific session below, so it can move without making this breakdown wrong. Sessions 9 and 11 are best run either side of it, whenever it falls.
 
 | # | Session Focus | Details |
 | :-- | :-- | :-- |
@@ -19,6 +19,6 @@ This is the itemised 12-session breakdown for the term. Sessions 2–9 form the 
 | 7 | Outdoor safety & risk awareness | Weather awareness, appropriate clothing, what's in a basic first aid kit. |
 | 8 | Fire safety & camp cooking prep | Stoves vs. open fires, controlled fire-lighting practice, simple camp menus. |
 | 9 | Weekend camp preparation | Kit check, patrol roles for camp, menu planning, route plan for the short hike. |
-| 10 | **Optional weekend camp** | Off-site camp applying tent pitching, hygiene, and safety skills; short hike included. Counts toward Nights Away (2) and Hikes Away (1). |
-| 11 | Camp debrief & skills consolidation | Review what went well, revisit any tricky skills, patrol feedback. |
+| 10 | Practical skills recap | Patrol relay/challenge revisiting tent pitching, hygiene, and safety skills covered so far. |
+| 11 | Camp debrief & skills consolidation | Review what went well on camp, revisit any tricky skills, patrol feedback. |
 | 12 | Badge review & sign-off | Recap quiz/games, individual sign-off conversations, Outdoor Challenge Award (Part 1) presentation, term close. |
