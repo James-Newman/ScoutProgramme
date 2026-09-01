@@ -8,6 +8,7 @@ A 4-year, 12-term continuous cyclical programme plan for a UK Scout Troop (ages 
 - `data/awards.yaml` — the full award catalogue: the top award, the nine challenge awards, the activity badges, and the staged activity badges, each cross-referenced to the term(s) they're earned in.
 - `docs/timeline.md` — human-readable rendering of the term-by-term timeline.
 - `docs/awards-summary.md` — human-readable rendering of the award catalogue.
+- `year-<N>/term-<N>/overview.md` — itemised, session-by-session breakdown for a given term (one file per week of the 12-week framework), added as terms get planned in detail. See `year-1/term-1/overview.md` for the first example.
 
 The `docs/*.md` files are rendered views of the `data/*.yaml` files. When changing the programme, edit the YAML first and update the corresponding doc to match.
 
