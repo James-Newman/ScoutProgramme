@@ -4,7 +4,7 @@
 
 **Fits the term because:** before Scouts can pitch a tent or cook on camp, they need to know what to bring and how to carry it — the practical starting point for the term's campcraft focus.
 
-**Badge focus:** Outdoor Challenge Award optional extra — rucksack packing. It's one of the "complete at least four" tasks (alongside the menu planning in [Weekend Camp Preparation](weekend-camp-preparation.md) and the campfire entertainment in [Fire Safety & Camp Cooking Prep](fire-safety-and-camp-cooking.md)).
+**Badge focus:** Outdoor Challenge Award optional extra — rucksack packing. It's one of the "complete at least four" tasks (alongside the menu planning at [Camp](camp.md) and the campfire entertainment in [Fire Safety & Camp Cooking Prep](fire-safety-and-camp-cooking.md)).
 
 > "Show how to pack a rucksack correctly, with appropriate kit for the camp or event."
 
@@ -52,7 +52,7 @@ Run this as a mock formal inspection, played for laughs — a leader takes on an
 
 ### Patrol kit checklist (10 min)
 
-Each patrol writes up their own kit checklist for the weekend camp on a single sheet, splitting who's bringing shared items (stove, first aid kit, tent poles) so nothing gets duplicated or missed. Hand these in — they get handed back in [Weekend Camp Preparation](weekend-camp-preparation.md) for the final check.
+Each patrol writes up their own kit checklist for the weekend camp on a single sheet, splitting who's bringing shared items (stove, first aid kit, tent poles) so nothing gets duplicated or missed. Hand these in — they get handed back for the final kit check on arrival at [Camp](camp.md).
 
 ### Close (10 min)
 

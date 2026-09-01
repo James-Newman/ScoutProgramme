@@ -60,6 +60,6 @@ Notices, thought for the week, home.
 
 ## Notes
 
-- Needs outdoor space (field, garden, or campsite) and good weather contingency — if postponed, swap with [Campsite Selection](campsite-selection.md), since that session doesn't need outdoor ground the way this one does.
+- Needs outdoor space (field, garden, or campsite) and good weather contingency — if postponed, swap with [Site Layout & Design](site-layout-design.md), since that session's design task is paper-based and doesn't need outdoor ground the way this one does.
 - Have spare tents rigged nearby in case of breakages so no patrol loses practice time.
 - One tent per small group of four to six, as recommended by the Pitch a patrol tent activity guidance — they don't need to match.

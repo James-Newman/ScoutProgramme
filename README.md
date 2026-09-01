@@ -11,6 +11,10 @@ A 4-year, 12-term continuous cyclical programme plan for a UK Scout Troop (ages 
 - `year-<N>/term-<N>/overview.md` — itemised, session-by-session breakdown for a given term (indexes one file per weekly meeting), added as terms get planned in detail. See `year-1/term-1/overview.md` for the first example.
 - `year-<N>/term-<N>/<session-name>.md` — full delivery plan for a single weekly meeting: a 2-hour running order, how it fits the term's theme, which badge requirement (if any) it targets, and facilitation detail for each activity. Named for what's delivered (e.g. `tent-pitching.md`), not numbered, since the order lives in that term's `overview.md`.
 - `welcome-session.md` — every term's opening session, always the same shape (welcome, icebreaker, Scouts agree their own rules for the term, then Scout-chosen games) and deliberately generic so it can be copied into any future term's opening slot with only the term name changed.
+- `end-of-term-fun-and-games.md` — every term's closing session: a short badge presentation, then Taskmaster-style challenges. Same reuse convention as `welcome-session.md`.
+- `night-hike.md`, `camp.md`, `external-activity.md` — the other three fixed slots every term's 12 weeks includes. Each replaces that week's normal hall meeting rather than sitting alongside it, and follows a different running-order shape (multi-hour or multi-day) than the standard 2-hour session template. Content is term-specific (what the camp/hike/activity actually involves), but every term needs exactly one of each.
+
+Every term's 12 weeks therefore break down as: 1 Welcome Session + 1 Night Hike + 1 Camp + 1 External Activity + 1 End of Term Fun & Games (five fixed slots, same shape every term) + 7 weeks of the term's own badge content.
 
 The `docs/*.md` files are rendered views of the `data/*.yaml` files. When changing the programme, edit the YAML first and update the corresponding doc to match.
 

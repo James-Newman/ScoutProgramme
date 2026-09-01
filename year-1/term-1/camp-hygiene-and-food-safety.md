@@ -61,4 +61,5 @@ Notices, thought for the week, home.
 ## Notes
 
 - Needs a UV lamp and fluorescent lotion/powder for the hand-washing game — check with the district or a local supplier if the group doesn't own one.
-- This is a good session to also confirm any dietary requirements or allergies ahead of the weekend camp menu planning in [Weekend Camp Preparation](weekend-camp-preparation.md).
+- This is a good session to also confirm any dietary requirements or allergies ahead of the menu planning that happens on arrival at [Camp](camp.md).
+- Leaders should note engagement with the hygiene discussion and quiz — the requirement is explaining hygiene practices, which this session's content already evidences.

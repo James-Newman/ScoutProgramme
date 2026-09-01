@@ -42,7 +42,7 @@ In pairs, Scouts sort a shuffled deck of laminated site photo cards into "good p
 
 ### Field walk: pick your spot (35 min)
 
-Take the whole group outside — the meeting field, a garden, or a nearby green space. Each patrol walks the space and picks a spot they'd pitch on for real, then has to justify it to a leader on the spot: why here and not ten metres over there? This is the first time this term the selection judgement gets applied to real ground rather than a photo, ahead of doing it for real next week in [Tent Pitching](tent-pitching.md).
+Take the whole group outside — the meeting field, a garden, or a nearby green space. Each patrol walks the space and picks a spot they'd pitch on for real, then has to justify it to a leader on the spot: why here and not ten metres over there? This is the first time this term the selection judgement gets applied to real ground rather than a photo, feeding straight into next week's [Site Layout & Design](site-layout-design.md).
 
 ### Compare and debate (15 min)
 

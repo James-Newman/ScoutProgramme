@@ -2,7 +2,7 @@
 
 **Term:** Year 1, Term 1 — Campcraft & Outdoor Skills
 
-**Fits the term because:** fire and cooking skills are the last big practical building block before the weekend camp, tying together the safety and hygiene habits built in the previous two sessions.
+**Fits the term because:** fire and cooking skills are the last big practical building block before the weekend camp, tying together the safety and hygiene habits built in [Outdoor Safety & Risk Awareness](outdoor-safety-and-risk-awareness.md) and [Camp Hygiene & Food Safety](camp-hygiene-and-food-safety.md).
 
 **Badge focus:** Outdoor Challenge Award requirement — fire/stove and cooking.
 
@@ -61,4 +61,5 @@ Notices, thought for the week, home.
 ## Notes
 
 - Needs an outdoor space cleared for fire lighting, water/fire extinguisher on hand, and a completed fire risk assessment per group policy.
-- The campfire entertainment taster also counts towards the Outdoor Challenge Award's optional-extras list alongside the rucksack packing from [Camp Kit & Personal Equipment](camp-kit-and-personal-equipment.md) and the menu planning in [Weekend Camp Preparation](weekend-camp-preparation.md).
+- The campfire entertainment taster also counts towards the Outdoor Challenge Award's optional-extras list alongside the rucksack packing from [Camp Kit & Personal Equipment](camp-kit-and-personal-equipment.md) and the menu planning that happens on arrival at [Camp](camp.md).
+- Leaders should note who prepared, cooked, and served safely during this session — combined with the same skills repeated for real at [Camp](camp.md), this is the evidence for the fire/stove requirement.

@@ -38,7 +38,7 @@ No performing required — this runs as a set of small-group card tasks with the
 
 ### First aid kit Kim's game (25 min)
 
-[First aid kit Kim's game](https://www.scouts.org.uk/activities/first-aid-kit-catch-up/) — lay out the contents of a first aid kit on a tray, cover it after a set viewing time, and have patrols write down everything they remember. This activity is explicitly designed to run in the weeks leading up to a camp or night away, which is exactly where it sits in the term.
+[First aid kit Kim's game](https://www.scouts.org.uk/activities/first-aid-kit-catch-up/) — lay out the contents of a first aid kit on a tray, cover it after a set viewing time, and have patrols write down everything they remember. This activity is explicitly designed to run in the weeks leading up to a camp or night away, and this session sits just before the term's [Night Hike](night-hike.md).
 
 **Materials:** first aid kit and contents, tray, cover sheet.
 
@@ -64,4 +64,5 @@ Notices, thought for the week, home.
 
 ## Notes
 
-- The First Aid Kit activity is explicitly designed to run in the weeks leading up to a camp or night away — this slot, roughly two weeks before the weekend camp, is a good fit.
+- This session sits right before the [Night Hike](night-hike.md) so the buddy system and STOP mnemonic are fresh when they're actually needed outdoors, in the dark.
+- Leaders should note engagement with the first aid and scenario activities — combined with how Scouts actually apply the buddy system and STOP mnemonic on the Night Hike and at [Camp](camp.md), this is the evidence for the accidents-and-incidents requirement.
