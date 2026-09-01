@@ -22,16 +22,14 @@ Each session's plan links to real activities from [scouts.org.uk/activities](htt
 | 8 | [Camp Hygiene & Food Safety](camp-hygiene-and-food-safety.md) | Explain personal and campsite hygiene |
 | 9 | [Fire Safety & Camp Cooking Prep](fire-safety-and-camp-cooking.md) | Light a fire/stove and cook and serve a meal safely |
 | 10 | [External Activity](external-activity.md) (placeholder) | None, by design — a fun outing unrelated to the term's theme |
-| 11 | [Camp](camp.md) | Proves everything covered so far; this term's Nights Away (2) opportunity; requirement log finalised here |
+| 11 | [Camp](camp.md) | Proves everything covered so far; this term's Nights Away (2) opportunity; pioneering gadget (optional/time-permitting); requirement log finalised here |
 | 12 | [End of Term Fun & Games](end-of-term-fun-and-games.md) | Outdoor Challenge Award (Part 1) presentation |
 
-The remaining Outdoor Challenge Award requirements are picked up later in the programme, principally in Year 4, Term 1 (Part 2: Wilderness & Consolidation):
+Nights Away is the one requirement no single term can complete alone — it's a running total ("at least eight nights away, four camping"), and one camp a term (2 nights) crosses that threshold naturally early in Year 2, not through any one term's effort. The pioneering-gadget requirement is covered this term after all (see [Camp](camp.md)), since the group's already covered knots and it costs nothing extra to fold in.
 
-> "Take an active part in at least eight nights away as a Scout. Four of the nights should be camping."
->
+The remaining Outdoor Challenge Award requirements are deferred to Year 4, Term 1 (Part 2: Wilderness & Consolidation):
+
 > "Understand the three points of the Countryside Code. Show what action you can take to follow the code."
->
-> "Using knots that you have learned, build a simple pioneering project, object or camp gadget."
 >
 > "Explore the environment of your camp and make sure you know where everything is. Respect the environment you are in and, at the end of the camp, leave the site as you found it."
 >

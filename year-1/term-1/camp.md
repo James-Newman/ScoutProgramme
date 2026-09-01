@@ -4,9 +4,11 @@
 
 **Fits the term because:** every skill from the term — kit, pitching, site layout, hygiene, safety, fire and cooking — gets used for real here, over a full weekend, rather than in a two-hour slice of it.
 
-**Badge focus:** the practical proving ground for everything already covered this term, and this term's Nights Away (2) staged-progression opportunity.
+**Badge focus:** the practical proving ground for everything already covered this term, this term's Nights Away (2) staged-progression opportunity, and (time allowing) the pioneering-gadget requirement.
 
 > "Take an active part in at least eight nights away as a Scout. Four of the nights should be camping."
+
+> "Using knots that you have learned, build a simple pioneering project, object or camp gadget."
 
 This isn't a standard 2-hour hall session — it replaces one week's meeting with a residential weekend (typically Friday evening to Sunday afternoon). Adjust the running order to the site and travel involved.
 
@@ -17,7 +19,7 @@ This isn't a standard 2-hour hall session — it replaces one week's meeting wit
 | Friday, arrival | Arrive, pitch camp (patrol tents + mess tent), settle in |
 | Friday evening | Menu confirmation & final kit check, informal games |
 | Saturday morning | Site set-up finished, camp routine (chores rota) established |
-| Saturday, daytime | Patrol-led activities drawing on the term's skills; leaders walk the site informally |
+| Saturday, daytime | Camp gadget build (optional/time-permitting), plus patrol-led activities; leaders walk the site informally |
 | Saturday evening | Cook and serve dinner as a patrol; campfire |
 | Sunday morning | Strike camp, patrol chores, pack away |
 | Sunday, before departure | Debrief circle & requirement log |
@@ -32,7 +34,11 @@ Patrols pitch their own tents and the mess tent on arrival, applying [Tent Pitch
 
 ### Saturday: camp in full swing
 
-The bulk of the weekend is patrol-run: chores rota, cooking, and whatever patrol-led activities leaders want to run (games, a short walk, badge work from other terms). Leaders walk the site during the day, informally checking the layout against the [Site Layout & Design](site-layout-design.md) requirement (sleeping tents, stores, fire/stove, kitchen, eating area) and noting which Scouts are actively involved in running it.
+Since the group already knows its knots from earlier work, give each patrol an hour to build a simple camp gadget — a washing-up stand, a tripod for a kettle, a camp gateway — using knots rather than instructions. This is genuinely optional: if the weekend's running behind, drop it without it costing anything else, since it's the one requirement this term that isn't load-bearing for the rest of the programme.
+
+The rest of the weekend is patrol-run: chores rota, cooking, and whatever other patrol-led activities leaders want to run (games, a short walk, badge work from other terms). Leaders walk the site during the day, informally checking the layout against the [Site Layout & Design](site-layout-design.md) requirement (sleeping tents, stores, fire/stove, kitchen, eating area) and noting which Scouts are actively involved in running it.
+
+**Materials (gadget build):** spare poles/sticks, camp rope/cord, whatever the patrol's chosen gadget needs.
 
 ### Saturday evening: cook, serve, campfire
 
@@ -40,7 +46,7 @@ Patrols cook and serve their evening meal — the real-world version of the [Fir
 
 ### Sunday: strike camp and debrief
 
-Patrols strike and pack away camp, then a short debrief circle before parents arrive: what went well, what was hard, one thing each patrol would do differently next time. This is also when leaders finalise the term's Outdoor Challenge Award requirement log — pitching, site layout, hygiene, safety, and fire/cooking should all have been seen for real over the weekend, on top of whatever was already logged in earlier sessions.
+Patrols strike and pack away camp, then a short debrief circle before parents arrive: what went well, what was hard, one thing each patrol would do differently next time. This is also when leaders finalise the term's Outdoor Challenge Award requirement log — pitching, site layout, hygiene, safety, and fire/cooking should all have been seen for real over the weekend, on top of whatever was already logged in earlier sessions, plus the gadget build if it happened.
 
 ## Notes
 
