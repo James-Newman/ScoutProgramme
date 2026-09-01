@@ -4,7 +4,7 @@
 
 **Fits the term because:** before Scouts can pitch a tent or cook on camp, they need to know what to bring and how to carry it — the practical starting point for the term's campcraft focus.
 
-**Badge focus:** Outdoor Challenge Award optional extra — rucksack packing. It's one of the "complete at least four" tasks (alongside the menu planning at [Camp](camp.md) and the campfire entertainment in [Fire Safety & Camp Cooking Prep](fire-safety-and-camp-cooking.md)).
+**Badge focus:** Outdoor Challenge Award optional extra — rucksack packing. It's one of the "complete at least four" tasks, alongside the menu planning at [Camp](camp.md) and the campfire entertainment and backwoods meal in [Fire Safety & Camp Cooking Prep](fire-safety-and-camp-cooking.md) — four extras in total this term.
 
 > "Show how to pack a rucksack correctly, with appropriate kit for the camp or event."
 
