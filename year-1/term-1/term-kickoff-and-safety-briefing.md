@@ -35,14 +35,13 @@ Reform patrols for the year and vote in Patrol Leaders and Assistant Patrol Lead
 
 ### Outdoor safety induction (20 min)
 
-This is the one that needs to land properly, so don't do it as a straight talk — run it as a spot-the-mistake performance:
+No performing required — this runs as a set of small-group card tasks with the Scouts doing the work, not the leaders:
 
-1. **The bad example skit (5 min).** Two leaders act out a deliberately terrible mini-scene: one leader wanders off from the group to "look at something cool" without saying anything, doesn't check in, and gets "lost." Ham it up — Scouts love watching adults get it wrong.
-2. **Spot the mistake (5 min).** Ask patrols to shout out everything the leader did wrong. Write their answers on a whiteboard as they land: didn't tell anyone, went off alone, no buddy, didn't have a whistle, etc. You're building the rules from what they already noticed, not lecturing them.
-3. **Buddy check drill (5 min).** Explain the buddy system, then rehearse it as a game: call out "Buddy check!" at random over the next few sessions (and on camp) — Scouts must grab their buddy's arm and both shout "Here!" within five seconds. Practice it twice now so it's already a reflex before the outdoor tent-pitching session.
-4. **STOP mnemonic with actions (5 min).** Teach what to do if lost as a physical chant: **S**top (freeze on the spot), **T**hink (tap your head), **O**bserve (hand shielding eyes, look around), **P**lan (thumbs up). Get the whole room doing the actions together, then cold-call a couple of Scouts to run through it solo for a cheer.
+1. **Hazard spotting cards (8 min).** Give each patrol 4–5 printed scenario cards, one bad-practice situation per card: "wanders off from the group to look at something, doesn't tell anyone," "goes exploring at dusk with no torch," "ignores the weather forecast and heads out without a coat," "leaves the whistle/kit behind." Patrols discuss each card for a minute and note what's wrong and what should happen instead, then one patrol reads back each card and its answer to the room. You're building the rules from what they work out, not lecturing them.
+2. **Buddy check drill (6 min).** Explain the buddy system in plain terms, then rehearse the check itself as a simple call-and-response, like a register: call out "Buddy check!" — Scouts grab their buddy's arm and both shout "Here!" within five seconds. Run it two or three times now so it's already familiar before you start using it for real over the rest of the term (and on camp).
+3. **STOP card sequencing (6 min).** Hand each patrol a shuffled set of four cards, each with one word and a one-line description: **S**top ("stay where you are"), **T**hink ("what do you know, what do you need"), **O**bserve ("look around for a landmark or a way back"), **P**lan ("decide what to do, then do it"). Patrols race to put them in the right order, then the room reads the sequence aloud together once. Leave the STOP poster up on the wall as a reference for the rest of the term.
 
-**Materials:** whiteboard/flip chart, a whistle.
+**Materials:** hazard scenario cards (printed, reusable), STOP sequencing cards, a STOP poster for the wall, a whistle for the buddy check.
 
 ### Campsite party games (55 min)
 
