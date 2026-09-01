@@ -1,0 +1,175 @@
+# 4-year, 12-term programme timeline for a UK Scout Troop (ages 10-14).
+# Each term is a 12-week framework with a 6-7 week core badge content block,
+# so completion fits within a single term even during shortened school terms.
+
+terms:
+  - year: 1
+    term: 1
+    season: Autumn
+    theme: "Campcraft & Water Adventure"
+    core_goals: >-
+      Tent pitching, basic camp hygiene, outdoor safety, and autumn
+      paddleboarding.
+    badges_earned:
+      - "Outdoor Challenge Award (Part 1: Campcraft)"
+      - "Paddle Sports Activity Badge"
+    optional_progression:
+      - "Nights Away (2)"
+      - "Hikes Away (1)"
+      - "Time on the Water"
+
+  - year: 1
+    term: 2
+    season: Spring
+    theme: "Global Citizens & Conservation"
+    core_goals: >-
+      Explore international cultures, waste reduction, energy conservation,
+      and community environmental impact through games.
+    badges_earned:
+      - "Global Issues Challenge Award"
+      - "Environmental Conservation Activity Badge"
+    optional_progression:
+      - "Nights Away (+2)"
+      - "Hikes Away (+1)"
+
+  - year: 1
+    term: 3
+    season: Summer
+    theme: "Pioneering & Outdoor Survival"
+    core_goals: >-
+      Knot-tying, building simple structures, fire-lighting, outdoor cooking,
+      and summer paddleboarding.
+    badges_earned:
+      - "Adventure Challenge Award"
+      - "Pioneer Activity Badge"
+    optional_progression:
+      - "Nights Away (+2)"
+      - "Time on the Water"
+
+  - year: 2
+    term: 1
+    season: Autumn
+    theme: "Navigation & Patrol Leadership"
+    core_goals: >-
+      Map reading, compass work, using OS maps on the night hike, and
+      introducing older Scouts to leading smaller tasks.
+    badges_earned:
+      - "Team Leader Challenge Award"
+      - "Navigator Staged Activity Badge (Stage 3/4)"
+    optional_progression:
+      - "Nights Away (+2)"
+      - "Hikes Away (+1)"
+      - "Time on the Water"
+
+  - year: 2
+    term: 2
+    season: Spring
+    theme: "Creative Makers & Communicators"
+    core_goals: >-
+      Problem-solving, building gadgets, simple science experiments, and
+      theatrical/creative communication challenges.
+    badges_earned:
+      - "Creative Challenge Award"
+      - "Scientist Activity Badge or Artist Activity Badge"
+    optional_progression:
+      - "Nights Away (+2)"
+      - "Hikes Away (+1)"
+
+  - year: 2
+    term: 3
+    season: Summer
+    theme: "The Lightweight Expedition"
+    core_goals: >-
+      Planning routes, packing rucksacks, country code, and executing a
+      lightweight hike-and-camp weekend.
+    badges_earned:
+      - "Expedition Challenge Award"
+      - "Hiker Activity Badge"
+    optional_progression:
+      - "Nights Away (+2)"
+      - "Hikes Away (+2)"
+      - "Time on the Water"
+
+  - year: 3
+    term: 1
+    season: Autumn
+    theme: "Practical Skills & Self-Reliance"
+    core_goals: >-
+      First aid scenarios, emergency response, basic DIY/repairs, and
+      cooking on open stoves.
+    badges_earned:
+      - "Skills Challenge Award"
+      - "Chef Activity Badge"
+      - "Emergency Aid Staged Activity Badge (Stage 3/4)"
+    optional_progression:
+      - "Ongoing Nights & Hikes Away"
+
+  - year: 3
+    term: 2
+    season: Spring
+    theme: "Teamwork & Problem Solving"
+    core_goals: >-
+      Cooperative team games, non-verbal communication challenges, and
+      patrol-led mini-projects.
+    badges_earned:
+      - "Teamwork Challenge Award"
+      - "Communicator Activity Badge"
+    optional_progression:
+      - "Nights Away (+2)"
+      - "Hikes Away (+1)"
+
+  - year: 3
+    term: 3
+    season: Summer
+    theme: "Target Sports & Personal Challenge"
+    core_goals: >-
+      Air rifle and pistol marksmanship, range safety discipline, personal
+      scoring targets, and individual challenge goal-setting.
+    badges_earned:
+      - "Personal Challenge Award"
+      - "Master at Arms Activity Badge (Air Rifle / Pistol Shooting)"
+    optional_progression:
+      - "Nights Away (+2)"
+      - "Time on the Water"
+
+  - year: 4
+    term: 1
+    season: Autumn
+    theme: "Advanced Bushcraft & Wilderness"
+    core_goals: >-
+      Natural shelter building, foraging awareness, advanced firecraft, and
+      outdoor survival consolidation.
+    badges_earned:
+      - "Outdoor Challenge Award (Part 2: Wilderness & Consolidation)"
+      - "Survival Skills Activity Badge"
+    optional_progression:
+      - "Nights Away (+2)"
+      - "Hikes Away (+1)"
+
+  - year: 4
+    term: 2
+    season: Spring
+    theme: "World Cultures & Digital Media"
+    core_goals: >-
+      International Scouting customs, photography during hikes, and creating
+      digital content for the troop.
+    badges_earned:
+      - "Global Issues Challenge Award (Cycle 2 / Refresher)"
+      - "Photographer Activity Badge"
+    optional_progression:
+      - "Nights Away (+2)"
+      - "Hikes Away (+1)"
+
+  - year: 4
+    term: 3
+    season: Summer
+    theme: "Expedition Leadership & Gold Celebration"
+    core_goals: >-
+      Older Scouts take leadership roles on the weekend expedition; final
+      sign-offs for departing Scouts.
+    badges_earned:
+      - "Expedition Challenge Award (Cycle 2 / Senior Roles)"
+      - "Campers Activity Badge"
+      - "Chief Scout's Gold Award (Sign-off & Presentation)"
+    optional_progression:
+      - "Final Stage Sign-offs"
