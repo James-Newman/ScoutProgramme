@@ -6,7 +6,7 @@ Core goals: tent pitching, basic camp hygiene, and outdoor safety.
 Badges earned: **Outdoor Challenge Award (Part 1: Campcraft)**.
 Optional staged progression: Nights Away (2), Hikes Away (1).
 
-Every term's 12 weeks follow the same shape: one [Welcome Session](welcome-session.md), one [Night Hike](night-hike.md), one [Camp](camp.md), one [External Activity](external-activity.md), and one [End of Term Fun & Games](end-of-term-fun-and-games.md) session — five fixed slots that are the same kind of session every term, regardless of theme. The other seven weeks carry the term's actual badge content, running the standard 2-hour hall format (10 min welcome, 1 hour 40 core content, 10 min close). The Night Hike, Camp, and External Activity sessions replace that week's hall meeting rather than sitting alongside it, so the term still totals 12 weeks.
+Every term's 12 weeks follow the same shape: one [Welcome Session](welcome-session.md), one [Night Hike](night-hike.md), one [Camp](camp.md), one [External Activity](external-activity.md), and one [End of Term Fun & Games](end-of-term-fun-and-games.md) session — five fixed slots that are the same kind of session every term, regardless of theme. The External Activity is deliberately unrelated to the term's badge content — a booked, purely-for-fun outing (paddleboarding, a climbing wall, volleyball courts, and so on) that varies term to term. The other seven weeks carry the term's actual badge content, running the standard 2-hour hall format (10 min welcome, 1 hour 40 core content, 10 min close). The Night Hike, Camp, and External Activity sessions replace that week's hall meeting rather than sitting alongside it, so the term still totals 12 weeks.
 
 Each session's plan links to real activities from [scouts.org.uk/activities](https://www.scouts.org.uk/activities/) where one exists, and states which [Outdoor Challenge Award](https://www.scouts.org.uk/scouts/awards/outdoor/) requirement, if any, it targets — check the live award page before formally signing anything off, since requirement wording is occasionally updated by the Scout Association.
 
@@ -21,7 +21,7 @@ Each session's plan links to real activities from [scouts.org.uk/activities](htt
 | 7 | [Night Hike](night-hike.md) | None — this term's Hikes Away (1) opportunity |
 | 8 | [Camp Hygiene & Food Safety](camp-hygiene-and-food-safety.md) | Explain personal and campsite hygiene |
 | 9 | [Fire Safety & Camp Cooking Prep](fire-safety-and-camp-cooking.md) | Light a fire/stove and cook and serve a meal safely |
-| 10 | [External Activity](external-activity.md) | Deepens fire/site skills; optional extra opportunity |
+| 10 | [External Activity](external-activity.md) (placeholder) | None, by design — a fun outing unrelated to the term's theme |
 | 11 | [Camp](camp.md) | Proves everything covered so far; this term's Nights Away (2) opportunity; requirement log finalised here |
 | 12 | [End of Term Fun & Games](end-of-term-fun-and-games.md) | Outdoor Challenge Award (Part 1) presentation |
 
