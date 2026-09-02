@@ -80,6 +80,12 @@ rather than sitting alongside it, so the term still totals 12 weeks.
 - **Verify links resolve and YAML parses** after any edit — grep for markdown links
   against the filesystem, and validate YAML (e.g. `ruby -ryaml -e '...'` or a Python
   yaml loader) before committing.
+- **Every term's `overview.md` ends with a material inventory.** Pull every
+  `**Materials:**` line from that term's session files, consolidate, and quantify for
+  the group's stated maximum of 6 patrols (e.g. "6 patrol tents", not "1 tent per
+  patrol"), grouped into sensible categories with a link back to which session(s) use
+  each item. Regenerate this whenever a session's materials change — don't let it
+  drift from what the session files actually say.
 
 ## Badge-accuracy discipline
 

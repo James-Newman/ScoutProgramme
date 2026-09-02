@@ -38,3 +38,86 @@ Every fixed requirement of the Outdoor Challenge Award bar one is covered this t
 - Explore and respect the camp environment — [Camp](camp.md)
 
 **Nights Away is the one requirement no single term can complete alone.** It's a running total — "at least eight nights away, four camping" — and one camp a term (2 nights) crosses that threshold naturally early in Year 2, not through any one term's effort. That's not a gap in this plan; it's the Scout Association's own requirement being explicitly cumulative, the same way it would be for any troop running one camp per term.
+
+## Material inventory
+
+Quantities below assume the group's maximum of 6 patrols; scale down proportionally for a smaller group. Anything not listed (venue, transport, consent forms, risk assessments) is covered in each session's own Notes, not here. [External Activity](external-activity.md) has no fixed materials — it depends entirely on what's booked.
+
+### Tents & camping equipment
+
+| Item | Quantity | Used in |
+| :-- | :-- | :-- |
+| Patrol tents | 6 | [Tent Pitching](tent-pitching.md), [Camp](camp.md) |
+| Mess tent | 1 | [Tent Pitching](tent-pitching.md), [Camp](camp.md) |
+| Mallets | 6, plus spares | [Tent Pitching](tent-pitching.md) |
+| Ground sheets | 6 | [Tent Pitching](tent-pitching.md) |
+| Spare rigged tent (for breakages) | 1–2 | [Tent Pitching](tent-pitching.md) |
+| Camp rope/cord | 6 patrols' worth | [Camp](camp.md) (gadget build) |
+| Spare poles/sticks | 6 patrols' worth | [Camp](camp.md) (gadget build) |
+
+### Fire & cooking
+
+| Item | Quantity | Used in |
+| :-- | :-- | :-- |
+| Firewood | Enough for 6 fires | [Fire Safety & Camp Cooking Prep](fire-safety-and-camp-cooking.md) |
+| Matches/firesteels | 6 | [Fire Safety & Camp Cooking Prep](fire-safety-and-camp-cooking.md) |
+| Water/fire bucket | 6 (one per fire) | [Fire Safety & Camp Cooking Prep](fire-safety-and-camp-cooking.md) |
+| Biscuit dough ingredients | 6 patrols' worth | [Fire Safety & Camp Cooking Prep](fire-safety-and-camp-cooking.md) |
+| Sticks (dough-wrap + feathering) | 6 patrols' worth | [Fire Safety & Camp Cooking Prep](fire-safety-and-camp-cooking.md) |
+| Simple cooking ingredients | 6 patrols' worth | [Fire Safety & Camp Cooking Prep](fire-safety-and-camp-cooking.md) |
+| Plates/tongs | 6 sets | [Fire Safety & Camp Cooking Prep](fire-safety-and-camp-cooking.md) |
+| Fixed-blade knives | 1 per Scout, or enough to rotate through small groups | [Fire Safety & Camp Cooking Prep](fire-safety-and-camp-cooking.md) |
+| Gloves (if group policy requires) | 1 per Scout | [Fire Safety & Camp Cooking Prep](fire-safety-and-camp-cooking.md) |
+
+### Kit, packing & hygiene
+
+| Item | Quantity | Used in |
+| :-- | :-- | :-- |
+| Rucksacks | 6 (one full kit's worth per patrol) | [Camp Kit & Personal Equipment](camp-kit-and-personal-equipment.md) |
+| Borrowed/group camp kit to pack | 6 patrols' worth | [Camp Kit & Personal Equipment](camp-kit-and-personal-equipment.md) |
+| Kit list bingo cards | 1 per Scout | [Camp Kit & Personal Equipment](camp-kit-and-personal-equipment.md) |
+| Bingo clue sheet | 1 | [Camp Kit & Personal Equipment](camp-kit-and-personal-equipment.md) |
+| Green/red cards | 1 pair per Scout | [Camp Kit & Personal Equipment](camp-kit-and-personal-equipment.md) |
+| Kit item list & scenario cards | 1 set | [Camp Kit & Personal Equipment](camp-kit-and-personal-equipment.md) |
+| Name tapes/labels, marker pens | 1 per Scout | [Camp Kit & Personal Equipment](camp-kit-and-personal-equipment.md) |
+| Clipboard | 1 | [Camp Kit & Personal Equipment](camp-kit-and-personal-equipment.md) |
+| UV lamp, fluorescent lotion/powder | 1 | [Camp Hygiene & Food Safety](camp-hygiene-and-food-safety.md) |
+| Hygiene true/false statement list | 1 | [Camp Hygiene & Food Safety](camp-hygiene-and-food-safety.md) |
+| Toilets/rubbish/waste scenario cards | 6 sets | [Camp Hygiene & Food Safety](camp-hygiene-and-food-safety.md) |
+| Wash kit items + decoys (mixed pile) | 1 shared pile | [Camp Hygiene & Food Safety](camp-hygiene-and-food-safety.md) |
+| Menu planning sheets | 6 | [Camp](camp.md) |
+
+### Safety & first aid
+
+| Item | Quantity | Used in |
+| :-- | :-- | :-- |
+| Hazard scenario cards | 6 sets | [Outdoor Safety & Risk Awareness](outdoor-safety-and-risk-awareness.md) |
+| STOP sequencing cards | 6 sets | [Outdoor Safety & Risk Awareness](outdoor-safety-and-risk-awareness.md) |
+| STOP poster (for the wall) | 1 | [Outdoor Safety & Risk Awareness](outdoor-safety-and-risk-awareness.md) |
+| Whistles | 1 per Scout (min. 1 per patrol) | [Outdoor Safety & Risk Awareness](outdoor-safety-and-risk-awareness.md), [Night Hike](night-hike.md) |
+| First aid kit + contents, tray, cover sheet | 1 | [Outdoor Safety & Risk Awareness](outdoor-safety-and-risk-awareness.md) |
+| Emergency scenario cards + bingo grids | 6 sets | [Outdoor Safety & Risk Awareness](outdoor-safety-and-risk-awareness.md) |
+| Mixed clothing pile + weather cards | 1 shared pile, 1 set | [Outdoor Safety & Risk Awareness](outdoor-safety-and-risk-awareness.md) |
+| Route map(s) | 1 master, plus copies | [Night Hike](night-hike.md) |
+| Torches, spare batteries | 1 per Scout | [Night Hike](night-hike.md) |
+
+### Site & design materials
+
+| Item | Quantity | Used in |
+| :-- | :-- | :-- |
+| Campsite photos/video | 1 set | [Campsite Selection](campsite-selection.md) |
+| Laminated site photo cards | 1 deck per pair of Scouts | [Campsite Selection](campsite-selection.md) |
+| Blank grid sheets + counters/stickers | 6 sets | [Site Layout & Design](site-layout-design.md) |
+| Scorecards | 6 | [Site Layout & Design](site-layout-design.md) |
+
+### Craft, stationery & misc
+
+| Item | Quantity | Used in |
+| :-- | :-- | :-- |
+| Paper/flip chart | 6 (one per patrol) | [Welcome Session](welcome-session.md) |
+| Pens | 6+ | [Welcome Session](welcome-session.md) and others above |
+| Badges/certificates | 1 per Scout earning one | [End of Term Fun & Games](end-of-term-fun-and-games.md) |
+| Small tent (Taskmaster challenge) | 1 | [End of Term Fun & Games](end-of-term-fun-and-games.md) |
+| Curtained box of camp items | 1 | [End of Term Fun & Games](end-of-term-fun-and-games.md) |
+| Tent pegs & string | Several | [End of Term Fun & Games](end-of-term-fun-and-games.md) |
+| Colander & water | 1–2 | [End of Term Fun & Games](end-of-term-fun-and-games.md) |
