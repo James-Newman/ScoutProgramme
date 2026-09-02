@@ -30,7 +30,7 @@ Notices, patrol flags, opening.
 
 Rather than read out a kit list, turn it into bingo. Hand each Scout a card with nine kit items in a grid (sleeping bag, torch, waterproofs, spare socks, etc.). Read out clues instead of item names — "you'll wish you had this if you need the loo at 2am" (torch), "your feet will thank you for a spare pair" (socks) — and Scouts cross off as they guess. First to a line shouts "camp!" instead of "house." This gets the full kit list covered with the group actively guessing rather than being talked at.
 
-**Materials:** bingo cards, clue sheet.
+**Materials:** [bingo cards and clue sheet](../../resources/kit-list-bingo-cards.md).
 
 ### Practice packing an expedition rucksack (30 min)
 
@@ -42,7 +42,7 @@ Rather than read out a kit list, turn it into bingo. Hand each Scout a card with
 
 [Everything you need, nothing you don't](https://www.scouts.org.uk/activities/everything-you-need-nothing-you-don-t/) — read out a scenario (a weekend camp, a day hike, a rainy paddleboarding session) and a list of possible items. For each item, patrols hold up a green or red card for "pack it" or "leave it," then justify a few of their answers. Points for correct calls, bonus points for the best justification of a tricky one (does a hairdryer count? no).
 
-**Materials:** green/red cards, item list, scenario cards.
+**Materials:** green/red cards, [item list and scenario](../../resources/camp-kit-scenario-cards.md).
 
 ### Kit inspection parade (20 min)
 

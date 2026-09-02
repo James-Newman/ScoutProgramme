@@ -43,81 +43,87 @@ Every fixed requirement of the Outdoor Challenge Award bar one is covered this t
 
 Quantities below assume the group's maximum of 6 patrols; scale down proportionally for a smaller group. Anything not listed (venue, transport, consent forms, risk assessments) is covered in each session's own Notes, not here. [External Activity](external-activity.md) has no fixed materials — it depends entirely on what's booked.
 
+The **Resource** column links to a ready-made version: a file in [`resources/`](../../resources/) we've written, or a real official download. Where it says **Source it**, the item is physical equipment (or genuinely local/photo-based content) that can't be "made" — it needs sourcing, buying, or borrowing instead.
+
 ### Tents & camping equipment
 
-| Item | Quantity | Used in |
-| :-- | :-- | :-- |
-| Patrol tents | 6 | [Tent Pitching](tent-pitching.md), [Camp](camp.md) |
-| Mess tent | 1 | [Tent Pitching](tent-pitching.md), [Camp](camp.md) |
-| Mallets | 6, plus spares | [Tent Pitching](tent-pitching.md) |
-| Ground sheets | 6 | [Tent Pitching](tent-pitching.md) |
-| Spare rigged tent (for breakages) | 1–2 | [Tent Pitching](tent-pitching.md) |
-| Camp rope/cord | 6 patrols' worth | [Camp](camp.md) (gadget build) |
-| Spare poles/sticks | 6 patrols' worth | [Camp](camp.md) (gadget build) |
+| Item | Quantity | Used in | Resource |
+| :-- | :-- | :-- | :-- |
+| Patrol tents | 6 | [Tent Pitching](tent-pitching.md), [Camp](camp.md) | Source it |
+| Mess tent | 1 | [Tent Pitching](tent-pitching.md), [Camp](camp.md) | Source it |
+| Mallets | 6, plus spares | [Tent Pitching](tent-pitching.md) | Source it |
+| Ground sheets | 6 | [Tent Pitching](tent-pitching.md) | Source it |
+| Spare rigged tent (for breakages) | 1–2 | [Tent Pitching](tent-pitching.md) | Source it |
+| Camp rope/cord | 6 patrols' worth | [Camp](camp.md) (gadget build) | Source it |
+| Spare poles/sticks | 6 patrols' worth | [Camp](camp.md) (gadget build) | Source it |
 
 ### Fire & cooking
 
-| Item | Quantity | Used in |
-| :-- | :-- | :-- |
-| Firewood | Enough for 6 fires | [Fire Safety & Camp Cooking Prep](fire-safety-and-camp-cooking.md) |
-| Matches/firesteels | 6 | [Fire Safety & Camp Cooking Prep](fire-safety-and-camp-cooking.md) |
-| Water/fire bucket | 6 (one per fire) | [Fire Safety & Camp Cooking Prep](fire-safety-and-camp-cooking.md) |
-| Biscuit dough ingredients | 6 patrols' worth | [Fire Safety & Camp Cooking Prep](fire-safety-and-camp-cooking.md) |
-| Sticks (dough-wrap + feathering) | 6 patrols' worth | [Fire Safety & Camp Cooking Prep](fire-safety-and-camp-cooking.md) |
-| Simple cooking ingredients | 6 patrols' worth | [Fire Safety & Camp Cooking Prep](fire-safety-and-camp-cooking.md) |
-| Plates/tongs | 6 sets | [Fire Safety & Camp Cooking Prep](fire-safety-and-camp-cooking.md) |
-| Fixed-blade knives | 1 per Scout, or enough to rotate through small groups | [Fire Safety & Camp Cooking Prep](fire-safety-and-camp-cooking.md) |
-| Gloves (if group policy requires) | 1 per Scout | [Fire Safety & Camp Cooking Prep](fire-safety-and-camp-cooking.md) |
+| Item | Quantity | Used in | Resource |
+| :-- | :-- | :-- | :-- |
+| Firewood | Enough for 6 fires | [Fire Safety & Camp Cooking Prep](fire-safety-and-camp-cooking.md) | Source it |
+| Matches/firesteels | 6 | [Fire Safety & Camp Cooking Prep](fire-safety-and-camp-cooking.md) | Source it |
+| Water/fire bucket | 6 (one per fire) | [Fire Safety & Camp Cooking Prep](fire-safety-and-camp-cooking.md) | Source it |
+| Biscuit dough ingredients | 6 patrols' worth | [Fire Safety & Camp Cooking Prep](fire-safety-and-camp-cooking.md) | Source it |
+| Sticks (dough-wrap + feathering) | 6 patrols' worth | [Fire Safety & Camp Cooking Prep](fire-safety-and-camp-cooking.md) | Source it |
+| Simple cooking ingredients | 6 patrols' worth | [Fire Safety & Camp Cooking Prep](fire-safety-and-camp-cooking.md) | Source it |
+| Plates/tongs | 6 sets | [Fire Safety & Camp Cooking Prep](fire-safety-and-camp-cooking.md) | Source it |
+| Fixed-blade knives | 1 per Scout, or enough to rotate through small groups | [Fire Safety & Camp Cooking Prep](fire-safety-and-camp-cooking.md) | Source it |
+| Gloves (if group policy requires) | 1 per Scout | [Fire Safety & Camp Cooking Prep](fire-safety-and-camp-cooking.md) | Source it |
 
 ### Kit, packing & hygiene
 
-| Item | Quantity | Used in |
-| :-- | :-- | :-- |
-| Rucksacks | 6 (one full kit's worth per patrol) | [Camp Kit & Personal Equipment](camp-kit-and-personal-equipment.md) |
-| Borrowed/group camp kit to pack | 6 patrols' worth | [Camp Kit & Personal Equipment](camp-kit-and-personal-equipment.md) |
-| Kit list bingo cards | 1 per Scout | [Camp Kit & Personal Equipment](camp-kit-and-personal-equipment.md) |
-| Bingo clue sheet | 1 | [Camp Kit & Personal Equipment](camp-kit-and-personal-equipment.md) |
-| Green/red cards | 1 pair per Scout | [Camp Kit & Personal Equipment](camp-kit-and-personal-equipment.md) |
-| Kit item list & scenario cards | 1 set | [Camp Kit & Personal Equipment](camp-kit-and-personal-equipment.md) |
-| Name tapes/labels, marker pens | 1 per Scout | [Camp Kit & Personal Equipment](camp-kit-and-personal-equipment.md) |
-| Clipboard | 1 | [Camp Kit & Personal Equipment](camp-kit-and-personal-equipment.md) |
-| UV lamp, fluorescent lotion/powder | 1 | [Camp Hygiene & Food Safety](camp-hygiene-and-food-safety.md) |
-| Hygiene true/false statement list | 1 | [Camp Hygiene & Food Safety](camp-hygiene-and-food-safety.md) |
-| Toilets/rubbish/waste scenario cards | 6 sets | [Camp Hygiene & Food Safety](camp-hygiene-and-food-safety.md) |
-| Wash kit items + decoys (mixed pile) | 1 shared pile | [Camp Hygiene & Food Safety](camp-hygiene-and-food-safety.md) |
-| Menu planning sheets | 6 | [Camp](camp.md) |
+| Item | Quantity | Used in | Resource |
+| :-- | :-- | :-- | :-- |
+| Rucksacks | 6 (one full kit's worth per patrol) | [Camp Kit & Personal Equipment](camp-kit-and-personal-equipment.md) | Source it |
+| Borrowed/group camp kit to pack | 6 patrols' worth | [Camp Kit & Personal Equipment](camp-kit-and-personal-equipment.md) | Source it |
+| Kit list bingo cards | 1 per Scout | [Camp Kit & Personal Equipment](camp-kit-and-personal-equipment.md) | [`kit-list-bingo-cards.md`](../../resources/kit-list-bingo-cards.md) |
+| Bingo clue sheet | 1 | [Camp Kit & Personal Equipment](camp-kit-and-personal-equipment.md) | [`kit-list-bingo-cards.md`](../../resources/kit-list-bingo-cards.md) |
+| Green/red cards | 1 pair per Scout | [Camp Kit & Personal Equipment](camp-kit-and-personal-equipment.md) | Source it (plain coloured card) |
+| Kit item list & scenario cards | 1 set | [Camp Kit & Personal Equipment](camp-kit-and-personal-equipment.md) | [`camp-kit-scenario-cards.md`](../../resources/camp-kit-scenario-cards.md) |
+| Name tapes/labels, marker pens | 1 per Scout | [Camp Kit & Personal Equipment](camp-kit-and-personal-equipment.md) | Source it |
+| Clipboard | 1 | [Camp Kit & Personal Equipment](camp-kit-and-personal-equipment.md) | Source it |
+| UV lamp, fluorescent lotion/powder | 1 | [Camp Hygiene & Food Safety](camp-hygiene-and-food-safety.md) | Source it |
+| Hygiene true/false statement list | 1 | [Camp Hygiene & Food Safety](camp-hygiene-and-food-safety.md) | [`hygiene-true-or-false-statements.md`](../../resources/hygiene-true-or-false-statements.md) |
+| Toilets/rubbish/waste scenario cards | 6 sets | [Camp Hygiene & Food Safety](camp-hygiene-and-food-safety.md) | [`toilets-rubbish-waste-scenario-cards.md`](../../resources/toilets-rubbish-waste-scenario-cards.md) |
+| Wash kit items + decoys (mixed pile) | 1 shared pile | [Camp Hygiene & Food Safety](camp-hygiene-and-food-safety.md) | Source it |
+| Menu planning sheets | 6 | [Camp](camp.md) | [`menu-planning-template.md`](../../resources/menu-planning-template.md) |
 
 ### Safety & first aid
 
-| Item | Quantity | Used in |
-| :-- | :-- | :-- |
-| Hazard scenario cards | 6 sets | [Outdoor Safety & Risk Awareness](outdoor-safety-and-risk-awareness.md) |
-| STOP sequencing cards | 6 sets | [Outdoor Safety & Risk Awareness](outdoor-safety-and-risk-awareness.md) |
-| STOP poster (for the wall) | 1 | [Outdoor Safety & Risk Awareness](outdoor-safety-and-risk-awareness.md) |
-| Whistles | 1 per Scout (min. 1 per patrol) | [Outdoor Safety & Risk Awareness](outdoor-safety-and-risk-awareness.md), [Night Hike](night-hike.md) |
-| First aid kit + contents, tray, cover sheet | 1 | [Outdoor Safety & Risk Awareness](outdoor-safety-and-risk-awareness.md) |
-| Emergency scenario cards + bingo grids | 6 sets | [Outdoor Safety & Risk Awareness](outdoor-safety-and-risk-awareness.md) |
-| Mixed clothing pile + weather cards | 1 shared pile, 1 set | [Outdoor Safety & Risk Awareness](outdoor-safety-and-risk-awareness.md) |
-| Route map(s) | 1 master, plus copies | [Night Hike](night-hike.md) |
-| Torches, spare batteries | 1 per Scout | [Night Hike](night-hike.md) |
+| Item | Quantity | Used in | Resource |
+| :-- | :-- | :-- | :-- |
+| Hazard scenario cards | 6 sets | [Outdoor Safety & Risk Awareness](outdoor-safety-and-risk-awareness.md) | [`hazard-spotting-cards.md`](../../resources/hazard-spotting-cards.md) |
+| STOP sequencing cards | 6 sets | [Outdoor Safety & Risk Awareness](outdoor-safety-and-risk-awareness.md) | [`stop-sequencing-cards.md`](../../resources/stop-sequencing-cards.md) |
+| STOP poster (for the wall) | 1 | [Outdoor Safety & Risk Awareness](outdoor-safety-and-risk-awareness.md) | [`stop-poster.md`](../../resources/stop-poster.md) |
+| Whistles | 1 per Scout (min. 1 per patrol) | [Outdoor Safety & Risk Awareness](outdoor-safety-and-risk-awareness.md), [Night Hike](night-hike.md) | Source it |
+| First aid kit + contents, tray, cover sheet | 1 | [Outdoor Safety & Risk Awareness](outdoor-safety-and-risk-awareness.md) | Kit itself: source it; contents checklist: [`first-aid-kit-checklist.md`](../../resources/first-aid-kit-checklist.md) |
+| Emergency scenario cards + bingo grids | 6 sets | [Outdoor Safety & Risk Awareness](outdoor-safety-and-risk-awareness.md) | Official [Emergency Bingo PDF](https://prod-cms.scouts.org.uk/media/4583/ready-to-respond-emergency-bingo.pdf) |
+| Mixed clothing pile + weather cards | 1 shared pile, 1 set | [Outdoor Safety & Risk Awareness](outdoor-safety-and-risk-awareness.md) | Clothing: source it; cards: [`weather-cards.md`](../../resources/weather-cards.md) |
+| Route map(s) | 1 master, plus copies | [Night Hike](night-hike.md) | Source it (local to your route) |
+| Torches, spare batteries | 1 per Scout | [Night Hike](night-hike.md) | Source it |
 
 ### Site & design materials
 
-| Item | Quantity | Used in |
-| :-- | :-- | :-- |
-| Campsite photos/video | 1 set | [Campsite Selection](campsite-selection.md) |
-| Laminated site photo cards | 1 deck per pair of Scouts | [Campsite Selection](campsite-selection.md) |
-| Blank grid sheets + counters/stickers | 6 sets | [Site Layout & Design](site-layout-design.md) |
-| Scorecards | 6 | [Site Layout & Design](site-layout-design.md) |
+| Item | Quantity | Used in | Resource |
+| :-- | :-- | :-- | :-- |
+| Campsite photos/video | 1 set | [Campsite Selection](campsite-selection.md) | Source it (local photos, or an image search) |
+| Laminated site photo cards | 1 deck per pair of Scouts | [Campsite Selection](campsite-selection.md) | Source it |
+| Blank grid sheets + counters/stickers | 6 sets | [Site Layout & Design](site-layout-design.md) | [`site-design-grid.md`](../../resources/site-design-grid.md) |
+| Scorecards | 6 | [Site Layout & Design](site-layout-design.md) | [`site-inspector-scorecard.md`](../../resources/site-inspector-scorecard.md) |
 
 ### Craft, stationery & misc
 
-| Item | Quantity | Used in |
-| :-- | :-- | :-- |
-| Paper/flip chart | 6 (one per patrol) | [Welcome Session](welcome-session.md) |
-| Pens | 6+ | [Welcome Session](welcome-session.md) and others above |
-| Badges/certificates | 1 per Scout earning one | [End of Term Fun & Games](end-of-term-fun-and-games.md) |
-| Small tent (Taskmaster challenge) | 1 | [End of Term Fun & Games](end-of-term-fun-and-games.md) |
-| Curtained box of camp items | 1 | [End of Term Fun & Games](end-of-term-fun-and-games.md) |
-| Tent pegs & string | Several | [End of Term Fun & Games](end-of-term-fun-and-games.md) |
-| Colander & water | 1–2 | [End of Term Fun & Games](end-of-term-fun-and-games.md) |
+| Item | Quantity | Used in | Resource |
+| :-- | :-- | :-- | :-- |
+| Paper/flip chart | 6 (one per patrol) | [Welcome Session](welcome-session.md) | Source it |
+| Pens | 6+ | [Welcome Session](welcome-session.md) and others above | Source it |
+| Badges/certificates | 1 per Scout earning one | [End of Term Fun & Games](end-of-term-fun-and-games.md) | Order from the [Scout Store](https://shop.scouts.org.uk/volunteer-leaders/scout-outdoors-challenge-award-badge) |
+| Small tent (Taskmaster challenge) | 1 | [End of Term Fun & Games](end-of-term-fun-and-games.md) | Source it |
+| Curtained box of camp items | 1 | [End of Term Fun & Games](end-of-term-fun-and-games.md) | Source it |
+| Tent pegs & string | Several | [End of Term Fun & Games](end-of-term-fun-and-games.md) | Source it |
+| Colander & water | 1–2 | [End of Term Fun & Games](end-of-term-fun-and-games.md) | Source it |
+
+## Resources index
+
+Every printable file referenced above lives in [`resources/`](../../resources/), which also lists the real official downloads used in place of a local copy (e.g. the Emergency Bingo PDF, the Countryside Code leaflet). See [`resources/README.md`](../../resources/README.md) for the full index.

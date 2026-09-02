@@ -36,7 +36,7 @@ Patrols pitch their own tents and the mess tent on arrival, applying [Tent Pitch
 
 In the evening, each patrol works through [Plan your camp menu](https://www.scouts.org.uk/activities/plan-your-camp-menu/) for real — this is where the menu actually gets planned, not just confirmed, so allow the full activity rather than a quick check-in. Check allergies and dietary requirements one last time while there's still time to adjust before the shops shut. A final kit check catches anything left behind before Saturday.
 
-**Materials:** patrol/mess tents, camp kit, menu planning sheets.
+**Materials:** patrol/mess tents, camp kit, [menu planning sheets](../../resources/menu-planning-template.md).
 
 ### Saturday: camp in full swing
 

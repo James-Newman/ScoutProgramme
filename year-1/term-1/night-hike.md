@@ -31,7 +31,7 @@ Meet at the hall (or the walk's start point), register patrols, and run a quick 
 
 Walk the route on a map with the whole group before setting off — start point, a landmark or two, the halfway stop, the return leg. Reconfirm the buddy system and STOP mnemonic taught in [Outdoor Safety & Risk Awareness](outdoor-safety-and-risk-awareness.md) — this is the first time this term they get used for real, outdoors, in the dark, rather than as a drill.
 
-Since the route crosses real countryside, this is also the natural place for the Countryside Code: leave gates as you find them, stick to paths, take litter home, keep dogs (if any come along) under control, be considerate of other people out at night. Ask the group what they'd do in a couple of quick scenarios (a gate left open, litter on the path) rather than just reading the code out — it sticks better as a "what would you do" than a list.
+Since the route crosses real countryside, this is also the natural place for the Countryside Code: leave gates as you find them, stick to paths, take litter home, keep dogs (if any come along) under control, be considerate of other people out at night. Ask the group what they'd do in a couple of quick scenarios (a gate left open, litter on the path) rather than just reading the code out — it sticks better as a "what would you do" than a list. Official leaflets/posters are free to download from [gov.uk/countryside-code](https://www.gov.uk/countryside-code).
 
 **Materials:** route map, torches, whistles.
 

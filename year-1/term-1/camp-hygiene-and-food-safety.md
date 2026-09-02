@@ -40,13 +40,13 @@ Open with a short, deliberately vivid story (told, not read) about a real camp g
 
 Mark one side of the room "true" and the other "false." Read out a series of food hygiene statements drawn from [Scouts food hygiene guidance](https://www.scouts.org.uk/volunteers/staying-safe-and-safeguarding/safety/safe-camping-residentials-and-outdoor-skills/guidance-for-food-safety/food-hygiene/) — keeping food covered, separating raw and ready-to-eat, washing hands before handling food — and Scouts physically move to the side they think is correct before you reveal the answer. The physical commitment (you can't quietly sit on the fence) keeps everyone engaged, and it's an easy format to speed up or slow down depending on how the group's doing.
 
-**Materials:** statement list.
+**Materials:** [statement list](../../resources/hygiene-true-or-false-statements.md).
 
 ### Toilets, rubbish, and waste at camp (20 min)
 
 Talk through scenario cards in patrols — "there's no bin, what do you do with your rubbish," "you need the loo at night, what's the process," "food scraps after dinner" — with each patrol working out and presenting their answer. If space allows, do a quick practical walk-through of how the group actually sets up a wash station or latrine area at camp, rather than leaving it entirely theoretical.
 
-**Materials:** scenario cards.
+**Materials:** [scenario cards](../../resources/toilets-rubbish-waste-scenario-cards.md).
 
 ### Wash kit relay (15 min)
 

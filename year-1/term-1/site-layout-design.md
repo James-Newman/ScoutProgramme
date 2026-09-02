@@ -34,13 +34,13 @@ Quickfire round on last week's field walk and photo sort — cold-call a few Sco
 
 Give each patrol a large blank grid ("the field") and a set of card counters or stickers representing a sleeping tent, the mess tent, a food/kit store, the fire circle, and the latrine/wash area. Working from the requirement to set up "sleeping tents, food and equipment stores, a fire or stove, kitchen, and eating area," patrols physically place their counters on the grid, reasoning out loud about wind direction, slope, and distance between the fire and the tents. Treat it like a board game rather than a worksheet — get them moving pieces around and arguing about it. This is the practical evidence for the well-organised-site requirement, so note which Scouts actively led or contributed to the layout decisions as you go round.
 
-**Materials:** blank grid sheets, counters/stickers per patrol.
+**Materials:** [blank grid sheets and counter labels](../../resources/site-design-grid.md) per patrol.
 
 ### Site inspectors (25 min)
 
 Each patrol presents their layout to the room. One patrol per round plays "site inspector," using a simple scorecard (safety, practicality, tidiness) to give the presenting patrol feedback and a score out of ten, then rotate so every patrol both presents and inspects.
 
-**Materials:** scorecards.
+**Materials:** [scorecards](../../resources/site-inspector-scorecard.md).
 
 ### Scale it up (15 min)
 
