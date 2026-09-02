@@ -17,6 +17,9 @@ A 4-year, 12-term continuous cyclical programme plan for a UK Scout Troop (ages 
 
 Every term's 12 weeks therefore break down as: 1 Welcome Session + 1 Night Hike + 1 Camp + 1 External Activity + 1 End of Term Fun & Games (five fixed slots, same shape every term) + 7 weeks of the term's own badge content.
 
+- `resources/` — printable materials (cards, templates, checklists, posters) referenced from `year-1/term-1/`'s material inventory that don't already exist as an official download. See `resources/README.md` for the index and for the real official downloads used instead of a local copy.
+- `filler-sessions/` — standalone sessions for when a term runs longer than planned: each completes a full, real Scout Activity Badge in one sitting, with no term theme and no dependency on any other session. See `filler-sessions/README.md`.
+
 The `docs/*.md` files are rendered views of the `data/*.yaml` files. When changing the programme, edit the YAML first and update the corresponding doc to match.
 
 ## Status

@@ -52,6 +52,24 @@ term-specific badge content:
 Night Hike, Camp, and External Activity each replace that week's normal hall meeting
 rather than sitting alongside it, so the term still totals 12 weeks.
 
+## Filler sessions
+
+`filler-sessions/` holds standalone sessions for when a term runs longer than its
+planned content. Each one completes a full, real Scout Activity Badge in a single
+sitting, with no term theme and no dependency on any other session — they sit
+entirely outside the 12-term plan. Before adding one:
+
+- Check it isn't already earned elsewhere in `data/awards.yaml`.
+- Verify every stated requirement can genuinely be completed in one sitting with no
+  external audience, scheduled event, or take-home/multi-week component — most real
+  Activity Badges are deliberately *not* single-session, so this rules out more
+  candidates than it allows. Record which of "no adaptation," "no adaptation but
+  needs specific access" (e.g. green space), or "light adaptation" applies, and say
+  exactly what the adaptation is if there is one.
+- Follow the same header/quoting/materials conventions as term session files, plus a
+  **Badge:**, **Why it's a good filler:**, and **Adaptation needed:** line instead of
+  the term-specific `Term:`/`Fits the term because:` fields.
+
 ## Session file conventions
 
 - **Name files for what's delivered**, not numbered (`tent-pitching.md`, not
