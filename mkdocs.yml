@@ -1,0 +1,76 @@
+site_name: Scout Programme
+site_description: A 4-year, 12-term programme plan for a UK Scout Troop
+site_url: https://james-newman.github.io/ScoutProgramme/
+repo_url: https://github.com/James-Newman/ScoutProgramme
+repo_name: James-Newman/ScoutProgramme
+edit_uri: edit/main/
+
+docs_dir: mkdocs-src
+site_dir: site
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - navigation.top
+    - toc.integrate
+    - content.action.edit
+    - search.suggest
+
+markdown_extensions:
+  - tables
+  - toc:
+      permalink: true
+
+nav:
+  - Home: index.md
+  - Programme overview:
+      - Timeline: docs/timeline.md
+      - Awards summary: docs/awards-summary.md
+  - Year 1, Term 1 — Campcraft & Outdoor Skills:
+      - Overview: year-1/term-1/overview.md
+      - 1. Welcome Session: year-1/term-1/welcome-session.md
+      - 2. Camp Kit & Personal Equipment: year-1/term-1/camp-kit-and-personal-equipment.md
+      - 3. Tent Pitching: year-1/term-1/tent-pitching.md
+      - 4. Campsite Selection: year-1/term-1/campsite-selection.md
+      - 5. Site Layout & Design: year-1/term-1/site-layout-design.md
+      - 6. Outdoor Safety & Risk Awareness: year-1/term-1/outdoor-safety-and-risk-awareness.md
+      - 7. Night Hike: year-1/term-1/night-hike.md
+      - 8. Camp Hygiene & Food Safety: year-1/term-1/camp-hygiene-and-food-safety.md
+      - 9. Fire Safety & Camp Cooking Prep: year-1/term-1/fire-safety-and-camp-cooking.md
+      - 10. External Activity: year-1/term-1/external-activity.md
+      - 11. Camp: year-1/term-1/camp.md
+      - 12. End of Term Fun & Games: year-1/term-1/end-of-term-fun-and-games.md
+  - Resources:
+      - Index: resources/README.md
+      - Kit list bingo cards: resources/kit-list-bingo-cards.md
+      - Camp kit scenario cards: resources/camp-kit-scenario-cards.md
+      - Hygiene true or false statements: resources/hygiene-true-or-false-statements.md
+      - Toilets, rubbish & waste scenario cards: resources/toilets-rubbish-waste-scenario-cards.md
+      - Hazard spotting cards: resources/hazard-spotting-cards.md
+      - STOP sequencing cards: resources/stop-sequencing-cards.md
+      - STOP poster: resources/stop-poster.md
+      - Weather cards: resources/weather-cards.md
+      - First aid kit checklist: resources/first-aid-kit-checklist.md
+      - Site design grid: resources/site-design-grid.md
+      - Site inspector scorecard: resources/site-inspector-scorecard.md
+      - Menu planning template: resources/menu-planning-template.md
+  - Filler sessions:
+      - Index: filler-sessions/README.md
+      - Writer: filler-sessions/writer.md
+      - Entertainer: filler-sessions/entertainer.md
+      - Media Relations & Marketing: filler-sessions/media-relations-and-marketing.md
+      - Air Spotter: filler-sessions/air-spotter.md
+      - Local Knowledge: filler-sessions/local-knowledge.md
+      - Naturalist: filler-sessions/naturalist.md
+      - World Faiths: filler-sessions/world-faiths.md

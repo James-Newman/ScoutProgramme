@@ -43,7 +43,7 @@ Every fixed requirement of the Outdoor Challenge Award bar one is covered this t
 
 Quantities below assume the group's maximum of 6 patrols; scale down proportionally for a smaller group. Anything not listed (venue, transport, consent forms, risk assessments) is covered in each session's own Notes, not here. [External Activity](external-activity.md) has no fixed materials — it depends entirely on what's booked.
 
-The **Resource** column links to a ready-made version: a file in [`resources/`](../../resources/) we've written, or a real official download. Where it says **Source it**, the item is physical equipment (or genuinely local/photo-based content) that can't be "made" — it needs sourcing, buying, or borrowing instead.
+The **Resource** column links to a ready-made version: a file in [`resources/`](../../resources/README.md) we've written, or a real official download. Where it says **Source it**, the item is physical equipment (or genuinely local/photo-based content) that can't be "made" — it needs sourcing, buying, or borrowing instead.
 
 ### Tents & camping equipment
 
@@ -126,4 +126,4 @@ The **Resource** column links to a ready-made version: a file in [`resources/`](
 
 ## Resources index
 
-Every printable file referenced above lives in [`resources/`](../../resources/), which also lists the real official downloads used in place of a local copy (e.g. the Emergency Bingo PDF, the Countryside Code leaflet). See [`resources/README.md`](../../resources/README.md) for the full index.
+Every printable file referenced above lives in [`resources/`](../../resources/README.md), which also lists the real official downloads used in place of a local copy (e.g. the Emergency Bingo PDF, the Countryside Code leaflet). See [`resources/README.md`](../../resources/README.md) for the full index.
