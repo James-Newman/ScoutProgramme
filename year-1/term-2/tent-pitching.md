@@ -1,6 +1,6 @@
 # Tent Pitching
 
-**Term:** Year 1, Term 1 — Campcraft & Outdoor Skills
+**Term:** Year 1, Term 2 — Campcraft & Outdoor Skills
 
 **Fits the term because:** tent pitching is the term's headline campcraft skill, and this is where it's built and proven for real, outdoors, ahead of the weekend camp. A single simple requirement doesn't need a separate theory week and a separate practical week, so both live in this one session — a short recap up front, then straight outdoors.
 

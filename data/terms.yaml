@@ -2,15 +2,28 @@
 # Each term is a 12-week framework with a 6-7 week core badge content block,
 # so completion fits within a single term even during shortened school terms.
 
+# NOTE: Year 1, Term 2's previous content ("Global Citizens & Conservation" --
+# Global Issues Challenge Award + Environmental Conservation Activity Badge) was
+# displaced when the World Challenge Award moved into Term 1 and the outdoor
+# content moved into Term 2. It hasn't been re-slotted anywhere yet -- TBD.
+#
+# NOTE: the group is moving away from treating the Outdoor Challenge Award as a
+# dedicated focus-badge term at all -- the plan is to earn it passively through
+# the standing Camp/Night Hike slots every term already has, rather than one
+# term of dedicated tent-pitching/site-layout/fire-safety sessions. Term 2's
+# content (year-1/term-2/) is held as-is for now, unresolved, pending that
+# redesign -- don't treat "Outdoor Challenge Award" below as final.
+
 terms:
   - year: 1
     term: 1
     season: Autumn
-    theme: "Campcraft & Outdoor Skills"
+    theme: "Community & Global Citizenship"
     core_goals: >-
-      Tent pitching, basic camp hygiene, and outdoor safety.
+      Local community research, personal and societal beliefs and attitudes,
+      environmental action, and connecting with the wider Scout movement.
     badges_earned:
-      - "Outdoor Challenge Award"
+      - "World Challenge Award"
     optional_progression:
       - "Nights Away (2)"
       - "Hikes Away (1)"
@@ -18,13 +31,11 @@ terms:
   - year: 1
     term: 2
     season: Spring
-    theme: "Global Citizens & Conservation"
+    theme: "Campcraft & Outdoor Skills"
     core_goals: >-
-      Explore international cultures, waste reduction, energy conservation,
-      and community environmental impact through games.
+      Tent pitching, basic camp hygiene, and outdoor safety.
     badges_earned:
-      - "Global Issues Challenge Award"
-      - "Environmental Conservation Activity Badge"
+      - "Outdoor Challenge Award"
     optional_progression:
       - "Nights Away (+2)"
       - "Hikes Away (+1)"

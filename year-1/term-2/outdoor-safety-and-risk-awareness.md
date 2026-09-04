@@ -1,6 +1,6 @@
 # Outdoor Safety & Risk Awareness
 
-**Term:** Year 1, Term 1 — Campcraft & Outdoor Skills
+**Term:** Year 1, Term 2 — Campcraft & Outdoor Skills
 
 **Fits the term because:** outdoor safety is the third of the term's stated core goals, and sits alongside tent pitching and hygiene as the foundation for everything Scouts do outdoors this term and beyond. This session also carries the general safety induction (buddy system, what to do if lost) that used to sit in the opening session — it fits better here, alongside the rest of the term's safety content.
 

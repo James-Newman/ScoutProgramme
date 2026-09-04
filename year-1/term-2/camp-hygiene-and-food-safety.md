@@ -1,6 +1,6 @@
 # Camp Hygiene & Food Safety
 
-**Term:** Year 1, Term 1 — Campcraft & Outdoor Skills
+**Term:** Year 1, Term 2 — Campcraft & Outdoor Skills
 
 **Fits the term because:** hygiene is one of the term's three stated core goals alongside tent pitching and outdoor safety, and it's easy to skip in favour of the more exciting practical skills — this session makes sure it doesn't get missed.
 

@@ -1,6 +1,6 @@
 # Toilets, Rubbish & Waste — Scenario Cards
 
-Used in: [Camp Hygiene & Food Safety](../year-1/term-1/camp-hygiene-and-food-safety.md) ("Toilets, rubbish, and waste at camp", 20 min). Six cards, one per patrol.
+Used in: [Camp Hygiene & Food Safety](../year-1/term-2/camp-hygiene-and-food-safety.md) ("Toilets, rubbish, and waste at camp", 20 min). Six cards, one per patrol.
 
 Each card poses a situation; the patrol works out and presents their answer.
 
@@ -26,4 +26,4 @@ Each card poses a situation; the patrol works out and presents their answer.
 
 **Card 6 — Leaving on Sunday**
 "You're packing up to leave. What needs to happen to the pitch before you go?"
-*Discussion points: all rubbish taken with you or binned, nothing left behind (tent pegs, guy lines, litter), ground checked and left as it was found — this is also the basis of the "leave no trace" requirement covered properly at [Camp](../year-1/term-1/camp.md).*
+*Discussion points: all rubbish taken with you or binned, nothing left behind (tent pegs, guy lines, litter), ground checked and left as it was found — this is also the basis of the "leave no trace" requirement covered properly at [Camp](../year-1/term-2/camp.md).*

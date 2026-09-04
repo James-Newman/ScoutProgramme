@@ -1,6 +1,6 @@
 # Hazard Spotting Cards
 
-Used in: [Outdoor Safety & Risk Awareness](../year-1/term-1/outdoor-safety-and-risk-awareness.md) ("Safety induction: hazard cards, buddy check, STOP", 8 min). Six cards, one per patrol — each describes a bad-practice situation.
+Used in: [Outdoor Safety & Risk Awareness](../year-1/term-2/outdoor-safety-and-risk-awareness.md) ("Safety induction: hazard cards, buddy check, STOP", 8 min). Six cards, one per patrol — each describes a bad-practice situation.
 
 **Card 1**
 "A Scout wanders off from the group to look at something interesting, without telling anyone."

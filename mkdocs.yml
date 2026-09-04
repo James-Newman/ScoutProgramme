@@ -37,20 +37,34 @@ nav:
   - Programme overview:
       - Timeline: docs/timeline.md
       - Awards summary: docs/awards-summary.md
-  - Year 1, Term 1 — Campcraft & Outdoor Skills:
+  - Year 1, Term 1 — Community & Global Citizenship:
       - Overview: year-1/term-1/overview.md
       - 1. Welcome Session: year-1/term-1/welcome-session.md
-      - 2. Camp Kit & Personal Equipment: year-1/term-1/camp-kit-and-personal-equipment.md
-      - 3. Tent Pitching: year-1/term-1/tent-pitching.md
-      - 4. Campsite Selection: year-1/term-1/campsite-selection.md
-      - 5. Site Layout & Design: year-1/term-1/site-layout-design.md
-      - 6. Outdoor Safety & Risk Awareness: year-1/term-1/outdoor-safety-and-risk-awareness.md
+      - 2. Community Research: year-1/term-1/community-research.md
+      - 3. Local Knowledge (filler session): filler-sessions/local-knowledge.md
+      - 4. Beliefs, Attitudes & Values: year-1/term-1/beliefs-attitudes-and-values.md
+      - 5. World Faiths (filler session): filler-sessions/world-faiths.md
+      - 6. Naturalist (filler session): filler-sessions/naturalist.md
       - 7. Night Hike: year-1/term-1/night-hike.md
-      - 8. Camp Hygiene & Food Safety: year-1/term-1/camp-hygiene-and-food-safety.md
-      - 9. Fire Safety & Camp Cooking Prep: year-1/term-1/fire-safety-and-camp-cooking.md
+      - 8. Community & Environmental Action Day: year-1/term-1/community-and-environmental-action-day.md
+      - 9. International Issues & Connections: year-1/term-1/international-issues-and-connections.md
       - 10. External Activity: year-1/term-1/external-activity.md
       - 11. Camp: year-1/term-1/camp.md
       - 12. End of Term Fun & Games: year-1/term-1/end-of-term-fun-and-games.md
+  - Year 1, Term 2 — Campcraft & Outdoor Skills (status TBD):
+      - Overview: year-1/term-2/overview.md
+      - 1. Welcome Session: year-1/term-2/welcome-session.md
+      - 2. Camp Kit & Personal Equipment: year-1/term-2/camp-kit-and-personal-equipment.md
+      - 3. Tent Pitching: year-1/term-2/tent-pitching.md
+      - 4. Campsite Selection: year-1/term-2/campsite-selection.md
+      - 5. Site Layout & Design: year-1/term-2/site-layout-design.md
+      - 6. Outdoor Safety & Risk Awareness: year-1/term-2/outdoor-safety-and-risk-awareness.md
+      - 7. Night Hike: year-1/term-2/night-hike.md
+      - 8. Camp Hygiene & Food Safety: year-1/term-2/camp-hygiene-and-food-safety.md
+      - 9. Fire Safety & Camp Cooking Prep: year-1/term-2/fire-safety-and-camp-cooking.md
+      - 10. External Activity: year-1/term-2/external-activity.md
+      - 11. Camp: year-1/term-2/camp.md
+      - 12. End of Term Fun & Games: year-1/term-2/end-of-term-fun-and-games.md
   - Resources:
       - Index: resources/README.md
       - Kit list bingo cards: resources/kit-list-bingo-cards.md
@@ -65,6 +79,9 @@ nav:
       - Site design grid: resources/site-design-grid.md
       - Site inspector scorecard: resources/site-inspector-scorecard.md
       - Menu planning template: resources/menu-planning-template.md
+      - Flag cards: resources/flag-cards.md
+      - International issue briefing cards: resources/international-issue-briefing-cards.md
+      - Contacting Scouts abroad guide: resources/contacting-scouts-abroad-guide.md
   - Filler sessions:
       - Index: filler-sessions/README.md
       - Writer: filler-sessions/writer.md

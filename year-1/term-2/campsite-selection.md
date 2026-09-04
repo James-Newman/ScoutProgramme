@@ -1,6 +1,6 @@
 # Campsite Selection
 
-**Term:** Year 1, Term 1 — Campcraft & Outdoor Skills
+**Term:** Year 1, Term 2 — Campcraft & Outdoor Skills
 
 **Fits the term because:** before a patrol can lay out a whole site, they need to be able to judge whether the ground itself is any good — this session is the prep work for [Site Layout & Design](site-layout-design.md) the following week.
 

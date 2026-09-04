@@ -1,6 +1,6 @@
 # Kit List Bingo — Cards & Clue Sheet
 
-Used in: [Camp Kit & Personal Equipment](../year-1/term-1/camp-kit-and-personal-equipment.md) ("Kit list bingo", 15 min).
+Used in: [Camp Kit & Personal Equipment](../year-1/term-2/camp-kit-and-personal-equipment.md) ("Kit list bingo", 15 min).
 
 Item pool drawn from the official [Scouts Camp Kit List](https://shop.scouts.org.uk/journal/2024/05/17/scouts-camp-kit-list). Sixteen items, cut down to nine per card so cards differ across the room. Print one card per Scout (or share between two).
 

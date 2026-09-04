@@ -15,8 +15,15 @@ See `README.md` for the full directory layout. In short:
 - `data/*.yaml` is the source of truth for the 4-year schedule and award catalogue.
 - `docs/*.md` are rendered, human-readable views of that YAML.
 - `year-<N>/term-<N>/` holds full session-by-session delivery plans for a term, built
-  out one term at a time. **`year-1/term-1/` is the only term built out so far** and is
-  the reference example for how every other term should eventually look.
+  out one term at a time. **`year-1/term-1/` (World Challenge Award) and
+  `year-1/term-2/` (Outdoor Challenge Award content) are the two terms built out so
+  far** and are the reference examples for how every other term should eventually
+  look. Each term aims to complete exactly one badge in full, from a standing start,
+  within that single term — not spread across multiple terms. Term 2's status is
+  currently unresolved (see the note at the top of `data/terms.yaml`): the group is
+  moving away from Outdoor Challenge Award as a dedicated focus-badge term at all, in
+  favour of earning it passively through every term's standing Camp/Night Hike slots.
+  Don't resolve that redesign unprompted — it's flagged as deliberately held open.
 
 ## The most important rule: keep data and docs in sync, always
 
@@ -69,6 +76,30 @@ entirely outside the 12-term plan. Before adding one:
 - Follow the same header/quoting/materials conventions as term session files, plus a
   **Badge:**, **Why it's a good filler:**, and **Adaptation needed:** line instead of
   the term-specific `Term:`/`Fits the term because:` fields.
+
+## Passive badge completion
+
+Every term's regular content (games, camps, hikes, teamwork/leadership activities)
+sometimes advances real requirements of *other* Scouts-section badges as a side
+effect, without any dedicated session time for them. This is worth surfacing but
+easy to overclaim, so when a term is built (or revisited):
+
+- Prioritise checking badges with an obvious thematic overlap with what the term
+  already does (e.g. a term with an environmental placement is worth checking against
+  Environmental Conservation; a term with international contact is worth checking
+  against the International Activity Badge). Don't attempt an exhaustive sweep of
+  every Scouts-section badge — that's explicitly out of scope per the group's own
+  guidance, not an oversight.
+- Fetch the real requirement wording for each candidate badge before claiming
+  anything, same as for the term's focus badge.
+- Be explicit about **full vs. partial** overlap. A badge should only be described as
+  passively "earned" if every one of its requirements is genuinely met; if only some
+  requirements line up (the far more common case), say so plainly and don't record it
+  as earned in `data/awards.yaml` — partial progress lives in the term's own
+  `overview.md` under a **Passive completion** heading, not the data files.
+- This is in addition to, not instead of, each term's single focus badge — the goal
+  is still one badge started and finished within a single term, with anything else
+  picked up passively treated as a bonus, never a substitute.
 
 ## Session file conventions
 

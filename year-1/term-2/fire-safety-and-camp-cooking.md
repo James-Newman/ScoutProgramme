@@ -1,6 +1,6 @@
 # Fire Safety & Camp Cooking Prep
 
-**Term:** Year 1, Term 1 — Campcraft & Outdoor Skills
+**Term:** Year 1, Term 2 — Campcraft & Outdoor Skills
 
 **Fits the term because:** fire and cooking skills are the last big practical building block before the weekend camp, tying together the safety and hygiene habits built in [Outdoor Safety & Risk Awareness](outdoor-safety-and-risk-awareness.md) and [Camp Hygiene & Food Safety](camp-hygiene-and-food-safety.md).
 

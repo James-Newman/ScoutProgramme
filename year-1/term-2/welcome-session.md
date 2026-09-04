@@ -1,8 +1,8 @@
 # Welcome Session
 
-**Term:** Year 1, Term 1 — Community & Global Citizenship
+**Term:** Year 1, Term 2 — Campcraft & Outdoor Skills
 
-**Fits the term because:** every term opens the same way — a welcome, an icebreaker, the group setting its own expectations, and Scouts choosing how to spend the rest of the evening. Nothing here is specific to Community & Global Citizenship, which is why this session is designed to be reused unchanged (bar the term name above) as the opening session of any future term.
+**Fits the term because:** every term opens the same way — a welcome, an icebreaker, the group setting its own expectations, and Scouts choosing how to spend the rest of the evening. Nothing here is specific to Campcraft & Outdoor Skills, which is why this session is designed to be reused unchanged (bar the term name above) as the opening session of any future term.
 
 **Badge focus:** none — this session is social and administrative, not badge-linked.
 
@@ -45,3 +45,4 @@ Notices, thought for the week, home.
 ## Notes
 
 - This session is designed to be copied into any future term's opening slot with only the term name in the header changed — none of the content here is specific to this term's theme.
+- The general outdoor safety induction (buddy system, what to do if lost) that used to live in this session has moved to [Outdoor Safety & Risk Awareness](outdoor-safety-and-risk-awareness.md), since it fits better alongside the rest of the term's safety content.

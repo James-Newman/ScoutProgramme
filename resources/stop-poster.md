@@ -1,6 +1,6 @@
 # STOP Poster
 
-Used in: [Outdoor Safety & Risk Awareness](../year-1/term-1/outdoor-safety-and-risk-awareness.md) — printed large (A3 or bigger) and left on the wall for the rest of the term as a reference.
+Used in: [Outdoor Safety & Risk Awareness](../year-1/term-2/outdoor-safety-and-risk-awareness.md) — printed large (A3 or bigger) and left on the wall for the rest of the term as a reference.
 
 ---
 

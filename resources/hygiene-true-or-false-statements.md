@@ -1,6 +1,6 @@
 # Camp Hygiene True or False — Statement List
 
-Used in: [Camp Hygiene & Food Safety](../year-1/term-1/camp-hygiene-and-food-safety.md) ("True or false floor debate", 25 min). Statements are drawn from [Scouts food hygiene guidance](https://www.scouts.org.uk/volunteers/staying-safe-and-safeguarding/safety/safe-camping-residentials-and-outdoor-skills/guidance-for-food-safety/food-hygiene/).
+Used in: [Camp Hygiene & Food Safety](../year-1/term-2/camp-hygiene-and-food-safety.md) ("True or false floor debate", 25 min). Statements are drawn from [Scouts food hygiene guidance](https://www.scouts.org.uk/volunteers/staying-safe-and-safeguarding/safety/safe-camping-residentials-and-outdoor-skills/guidance-for-food-safety/food-hygiene/).
 
 Mark one side of the room "true," the other "false." Read each statement; Scouts move to the side they think is correct before the answer is revealed.
 

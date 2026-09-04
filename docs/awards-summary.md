@@ -6,10 +6,11 @@ Rendered view of [`data/awards.yaml`](../data/awards.yaml). By consistently show
 
 - **Chief Scout's Gold Award** — Presented at the end of Year 4, Term 3 after completing all required Challenge Awards and personal milestones.
 
-## 2. Nine Challenge Awards (In-Meeting Core)
+## 2. Ten Challenge Awards (In-Meeting Core)
 
-- **Outdoor Challenge Award** — Earned in Year 1, Term 1. Every fixed requirement is covered that term except Nights Away, which is a cumulative total (at least eight nights away, four camping) that continues to accumulate afterward, crossing the threshold around Year 2, Term 1.
-- **Global Issues Challenge Award** — Earned in Year 1, Term 2 (with a Cycle 2 refresher in Year 4, Term 2).
+- **World Challenge Award** — Earned in Year 1, Term 1. All 7 requirements are covered across just 4 of the term's 7 core-content sessions — see [`year-1/term-1/overview.md`](../year-1/term-1/overview.md) for how they combine.
+- **Outdoor Challenge Award** — Earned in Year 1, Term 2. Every fixed requirement is covered that term except Nights Away, which is a cumulative total (at least eight nights away, four camping) that continues to accumulate afterward, crossing the threshold around Year 2, Term 1.
+- **Global Issues Challenge Award** — Displaced from Year 1, Term 2 and not yet re-slotted (with a Cycle 2 refresher still planned for Year 4, Term 2).
 - **Adventure Challenge Award** — Earned in Year 1, Term 3.
 - **Team Leader Challenge Award** — Earned in Year 2, Term 1.
 - **Creative Challenge Award** — Earned in Year 2, Term 2.
@@ -20,7 +21,7 @@ Rendered view of [`data/awards.yaml`](../data/awards.yaml). By consistently show
 
 ## 3. Activity Badges (Completed Within Specific Terms)
 
-- **Environmental Conservation Activity Badge** (Year 1, Term 2)
+- **Environmental Conservation Activity Badge** (displaced from Year 1, Term 2; not yet re-slotted)
 - **Pioneer Activity Badge** (Year 1, Term 3)
 - **Paddle Sports Activity Badge** (Year 1, Term 3)
 - **Scientist Activity Badge** *or* **Artist Activity Badge** (Year 2, Term 2)

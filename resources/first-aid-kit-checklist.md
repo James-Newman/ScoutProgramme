@@ -1,6 +1,6 @@
 # First Aid Kit Contents Checklist
 
-Used in: [Outdoor Safety & Risk Awareness](../year-1/term-1/outdoor-safety-and-risk-awareness.md) ("First aid kit Kim's game", 25 min). Contents list based on [St John Ambulance guidance on what to put in a first aid kit](https://www.sja.org.uk/get-advice/first-aid-advice/first-aid-kit/) — check the live page for current guidance, since recommended contents are occasionally updated.
+Used in: [Outdoor Safety & Risk Awareness](../year-1/term-2/outdoor-safety-and-risk-awareness.md) ("First aid kit Kim's game", 25 min). Contents list based on [St John Ambulance guidance on what to put in a first aid kit](https://www.sja.org.uk/get-advice/first-aid-advice/first-aid-kit/) — check the live page for current guidance, since recommended contents are occasionally updated.
 
 ## Tray contents (lay these out, cover after viewing)
 

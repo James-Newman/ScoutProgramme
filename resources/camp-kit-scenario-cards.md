@@ -1,6 +1,6 @@
 # Everything You Need, Nothing You Don't — Scenario & Item List
 
-Used in: [Camp Kit & Personal Equipment](../year-1/term-1/camp-kit-and-personal-equipment.md) ("Everything you need, nothing you don't", 25 min), adapting the [official activity](https://www.scouts.org.uk/activities/everything-you-need-nothing-you-don-t/), which doesn't publish its own printable item list.
+Used in: [Camp Kit & Personal Equipment](../year-1/term-2/camp-kit-and-personal-equipment.md) ("Everything you need, nothing you don't", 25 min), adapting the [official activity](https://www.scouts.org.uk/activities/everything-you-need-nothing-you-don-t/), which doesn't publish its own printable item list.
 
 ## Scenario (read aloud)
 

@@ -1,6 +1,6 @@
 # Camp Kit & Personal Equipment
 
-**Term:** Year 1, Term 1 — Campcraft & Outdoor Skills
+**Term:** Year 1, Term 2 — Campcraft & Outdoor Skills
 
 **Fits the term because:** before Scouts can pitch a tent or cook on camp, they need to know what to bring and how to carry it — the practical starting point for the term's campcraft focus.
 

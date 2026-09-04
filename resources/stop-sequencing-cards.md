@@ -1,6 +1,6 @@
 # STOP Sequencing Cards
 
-Used in: [Outdoor Safety & Risk Awareness](../year-1/term-1/outdoor-safety-and-risk-awareness.md) ("Safety induction: hazard cards, buddy check, STOP", 6 min). Print 6 sets (one per patrol), shuffle each set before handing it out. Each set is 4 cards.
+Used in: [Outdoor Safety & Risk Awareness](../year-1/term-2/outdoor-safety-and-risk-awareness.md) ("Safety induction: hazard cards, buddy check, STOP", 6 min). Print 6 sets (one per patrol), shuffle each set before handing it out. Each set is 4 cards.
 
 | Card | Word | Description |
 | :-- | :-- | :-- |

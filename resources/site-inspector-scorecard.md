@@ -1,6 +1,6 @@
 # Site Inspector Scorecard
 
-Used in: [Site Layout & Design](../year-1/term-1/site-layout-design.md) ("Site inspectors", 25 min). One copy per patrol, per round (so up to 6 copies for a full rotation).
+Used in: [Site Layout & Design](../year-1/term-2/site-layout-design.md) ("Site inspectors", 25 min). One copy per patrol, per round (so up to 6 copies for a full rotation).
 
 ## Inspecting patrol: _______________ Presenting patrol: _______________
 

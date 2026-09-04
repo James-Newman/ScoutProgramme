@@ -1,6 +1,6 @@
 # Weather Cards
 
-Used in: [Outdoor Safety & Risk Awareness](../year-1/term-1/outdoor-safety-and-risk-awareness.md) ("Weather wear dress-off", 20 min), adapting the [Weather wear](https://www.scouts.org.uk/activities/weather-wear/) activity, which doesn't publish its own printable cards. Print and cut into individual cards; draw one at random per round.
+Used in: [Outdoor Safety & Risk Awareness](../year-1/term-2/outdoor-safety-and-risk-awareness.md) ("Weather wear dress-off", 20 min), adapting the [Weather wear](https://www.scouts.org.uk/activities/weather-wear/) activity, which doesn't publish its own printable cards. Print and cut into individual cards; draw one at random per round.
 
 | # | Card | Appropriate kit to grab |
 | :-- | :-- | :-- |

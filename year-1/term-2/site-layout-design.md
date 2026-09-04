@@ -1,6 +1,6 @@
 # Site Layout & Design
 
-**Term:** Year 1, Term 1 — Campcraft & Outdoor Skills
+**Term:** Year 1, Term 2 — Campcraft & Outdoor Skills
 
 **Fits the term because:** pitching a single tent is only half the skill — this session scales that up to laying out a whole patrol site, applying last week's ground-selection judgement from [Campsite Selection](campsite-selection.md) to what Scouts will actually do at the weekend camp.
 

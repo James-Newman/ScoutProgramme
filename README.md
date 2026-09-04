@@ -24,9 +24,17 @@ The `docs/*.md` files are rendered views of the `data/*.yaml` files. When changi
 
 ## Status
 
-`year-1/term-1/` is the first term planned in full session-level detail, and the template for how every other term should eventually look. The other 11 terms currently exist only at the summary level in `data/terms.yaml` (theme, core goals, badges, staged progression) — no `year-<N>/term-<N>/` directory yet.
+`year-1/term-1/` (World Challenge Award) and `year-1/term-2/` (Outdoor Challenge Award content) are the two terms planned in full session-level detail so far. The other 10 terms currently exist only at the summary level in `data/terms.yaml` (theme, core goals, badges, staged progression) — no `year-<N>/term-<N>/` directory yet.
+
+Two things are deliberately unresolved right now, flagged in `data/terms.yaml`:
+- Year 1, Term 2's original content ("Global Citizens & Conservation") was displaced when the World Challenge Award moved into Term 1 and the outdoor content moved into Term 2, and hasn't been re-slotted anywhere yet.
+- The group is moving away from treating the Outdoor Challenge Award as a dedicated focus-badge term at all — the intent is to earn it passively through the standing Camp/Night Hike slots every term already has, rather than a dedicated term of tent-pitching/site-layout/fire-safety sessions. `year-1/term-2/`'s content is held as-is for now pending that redesign.
 
 **Keep `data/*.yaml` and `docs/*.md` in sync with the session-level detail at all times.** When a term's session files change in a way that affects what's actually earned or covered that term — a badge gets fully covered, a requirement moves to a different term, staged progression changes — update `data/terms.yaml` and `data/awards.yaml` (and the corresponding `docs/*.md` rendering) in the same piece of work, not as a follow-up. The summary-level files should always describe what the detailed session plans actually do, never what they used to do.
+
+## Passive badge completion
+
+Every term focuses on completing one badge in full within that term — but a term's regular content (games, camps, hikes, teamwork/leadership activities) sometimes also advances real requirements of *other* Scouts-section badges, without any dedicated session time for them. When a term is built out, check whether its sessions incidentally touch other badges (prioritise obvious thematic overlaps — don't exhaustively research every Scouts-section badge), and document any genuine overlap as a **Passive completion** section in that term's `overview.md`, being explicit about whether it's a full or only partial match against the real requirement wording. See `year-1/term-1/overview.md` for the first example (Environmental Conservation Activity Badge and International Activity Badge, both partial).
 
 ## Source
 
