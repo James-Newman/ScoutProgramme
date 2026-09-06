@@ -58,6 +58,39 @@ The term's focus stays on completing the World Challenge Award in full — but t
 
 No other session this term showed a clear, defensible overlap with a real Scouts-section badge's actual requirements strong enough to report here — this is a prioritised check against badges with obvious thematic overlap (environmental, international), not an exhaustive sweep of every Scouts-section badge.
 
+## Advance preparation
+
+Pulled from each session's own Notes — everything a leader needs to organise ahead of running this term, not just on the day.
+
+### Bookings & external arrangements
+
+- **[Community & Environmental Action Day](community-and-environmental-action-day.md) placement** — contact a local nature reserve, wildlife trust, community garden, allotment association, or council environmental team **2–3 months ahead**. Confirm a genuine hands-on task, not a passive tour.
+- **[External Activity](external-activity.md)** — book a venue/provider well ahead, since popular slots get booked up. Confirm costs, transport, numbers/ratios, and any provider-specific requirements (e.g. swimming ability). Sort consent forms and payment collection with lead time.
+- **[Camp](camp.md)** site booking — well ahead of the term.
+- **[Shooting Session](shooting-session.md)** — arrange a qualified instructor and suitable range (an external provider, or a leader holding the relevant NGB qualification); confirm medical/consent requirements the provider needs.
+- **[World Faiths](../../filler-sessions/world-faiths.md)** guest speaker (if going that route rather than a video) — arrange in advance; it's the stronger option over a video tour.
+
+### Risk assessments
+
+- **[Night Hike](night-hike.md)** — a pre-walked, risk-assessed route, plus a completed risk assessment for night activities per group policy (ratios, hi-vis, torch requirements).
+- **[Camp](camp.md)** — a completed camp risk assessment.
+- **[Community & Environmental Action Day](community-and-environmental-action-day.md)** — a placement risk assessment, matched to whatever task the host organisation sets.
+- **[Little O](little-o-orienteering.md)** — a risk assessment for the specific park/woods venue (other park users, terrain hazards, boundaries, weather).
+
+### Content to source or prepare carefully
+
+- **[World Faiths](../../filler-sessions/world-faiths.md)** — a text excerpt from the faith being studied, sourced thoughtfully (ideally with input from a faith advisor or community member) — plus a video tour if no guest speaker is arranged.
+- **[Little O](little-o-orienteering.md)** — three pre-set courses of increasing difficulty in the park/woods (or check whether the local park already has a permanent orienteering course installed, which saves this work).
+- **[International Issues & Connections](international-issues-and-connections.md)** — check whether the Group already has any international Scout contacts to draw on.
+
+### Equipment & materials to source
+
+See the [material inventory](#material-inventory) below for the full, quantified list — the standouts needing advance sourcing rather than a last-minute cupboard check are patrol/mess tents and camp kit ([Camp](camp.md)), orienteering maps/symbol key/compasses/control markers ([Little O](little-o-orienteering.md)), and a flipchart of words/blindfolds ([Beliefs, Attitudes & Values](beliefs-attitudes-and-values.md)).
+
+### Stock to order
+
+- **World Challenge Award badges/certificates** — order from the [Scout Store](https://shop.scouts.org.uk/), confirming stock ahead of [End of Term Fun & Games](end-of-term-fun-and-games.md).
+
 ## Material inventory
 
 Quantities below assume the group's maximum of 6 patrols; scale down proportionally for a smaller group. Anything not listed (venue, transport, consent forms, risk assessments) is covered in each session's own Notes, not here. [External Activity](external-activity.md) has no fixed materials — it depends entirely on what's booked. [Shooting Session](shooting-session.md) has no group-owned materials either — range equipment, ammunition, and eye/ear protection are provided by the instructor/range. Filler-session materials are listed in their own files, linked below.

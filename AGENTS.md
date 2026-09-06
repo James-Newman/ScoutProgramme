@@ -241,6 +241,17 @@ easy to overclaim, so when a term is built (or revisited):
   patrol"), grouped into sensible categories with a link back to which session(s) use
   each item. Regenerate this whenever a session's materials change — don't let it
   drift from what the session files actually say.
+- **Every term's `overview.md` also includes an advance preparation checklist**,
+  alongside the material inventory. Pull every mention of a booking, a risk
+  assessment, an external arrangement, content that needs careful/advance sourcing,
+  or stock to order from that term's session files' own Notes (and Session detail
+  where relevant), and group them so leaders can see everything that needs
+  organising ahead of time in one place — bookings & external arrangements (note
+  lead time where a session specifies one, e.g. "2–3 months ahead"), risk
+  assessments, content to source/prepare carefully, equipment/materials to source,
+  and stock to order. Regenerate this whenever a session's prep requirements
+  change — don't let it drift from what the session files actually say, the same
+  discipline as the material inventory.
 - **Before finishing any session, check it against passive-progress badge
   requirements** — see "Session planning must actively hunt for passive-progress
   badge opportunities" above. This applies to every session, not just the standing
