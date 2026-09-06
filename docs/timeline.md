@@ -1,6 +1,6 @@
-# 4-Year Scout Programme Timeline (Terms 1–12)
+# 3-Year Scout Programme Timeline (Terms 1–9)
 
-Rendered view of [`data/terms.yaml`](../data/terms.yaml). This document outlines the 4-year, 12-term continuous cyclical programme plan for a UK Scout Troop (ages 10 to 14). Designed around an inclusive, attendance- and participation-based approach, Scouts achieve their core badge requirements during regular weekly meetings. Optional weekend camps, night hikes, and paddleboarding sessions provide opportunity-based staged progression.
+Rendered view of [`data/terms.yaml`](../data/terms.yaml). This document outlines the 3-year, 9-term continuous cyclical programme plan for a UK Scout Troop (ages 10 to 14). Designed around an inclusive, attendance- and participation-based approach, Scouts achieve their core badge requirements during regular weekly meetings. Optional weekend camps, night hikes, and paddleboarding sessions provide opportunity-based staged progression.
 
 Each term consists of a 12-week framework with a 6- to 7-week core badge content block, ensuring completion within a single term even during shortened school terms.
 
@@ -15,13 +15,12 @@ Each term consists of a 12-week framework with a 6- to 7-week core badge content
 | **Year 3, Term 1** *(Autumn)* | **Practical Skills & Self-Reliance**<br>First aid scenarios, emergency response, basic DIY/repairs, and cooking on open stoves. | - **Skills Challenge Award**<br>- **Chef Activity Badge**<br>- **Emergency Aid Staged Activity Badge** (Stage 3/4) | - Ongoing Nights & Hikes Away |
 | **Year 3, Term 2** *(Spring)* | **Teamwork & Problem Solving**<br>Cooperative team games, non-verbal communication challenges, and patrol-led mini-projects. | - **Teamwork Challenge Award**<br>- **Communicator Activity Badge** | - Nights Away (+2)<br>- Hikes Away (+1) |
 | **Year 3, Term 3** *(Summer)* | **Target Sports & Personal Challenge**<br>Air rifle and pistol marksmanship, range safety discipline, personal scoring targets, and individual challenge goal-setting. | - **Personal Challenge Award**<br>- **Master at Arms Activity Badge** (Air Rifle / Pistol Shooting) | - Nights Away (+2)<br>- Time on the Water |
-| **Year 4, Term 1** *(Autumn)* | **Advanced Bushcraft & Wilderness**<br>Natural shelter building, foraging awareness, advanced firecraft, and outdoor survival consolidation. | - **Survival Skills Activity Badge** | - Nights Away (+2)<br>- Hikes Away (+1) |
-| **Year 4, Term 2** *(Spring)* | **World Cultures & Digital Media**<br>International Scouting customs, photography during hikes, and creating digital content for the troop. | - **Global Issues Challenge Award** (Cycle 2 / Refresher)<br>- **Photographer Activity Badge** | - Nights Away (+2)<br>- Hikes Away (+1) |
-| **Year 4, Term 3** *(Summer)* | **Expedition Leadership & Gold Celebration**<br>Older Scouts take leadership roles on the weekend expedition; final sign-offs for departing Scouts. | - **Expedition Challenge Award** (Cycle 2 / Senior Roles)<br>- **Campers Activity Badge**<br>- **Chief Scout's Gold Award** (Sign-off & Presentation) | - Final Stage Sign-offs<br>- Time on the Water |
 
 **Notes:**
 
 - Outdoor Challenge Award, Adventure Challenge Award, and Teamwork Challenge Award are never a dedicated focus-badge term — they're earned passively across many terms instead. See `filler-sessions/README.md` and `filler-sessions/outdoor-challenge-award/README.md`.
+- The **Chief Scout's Gold Award** (the top award) isn't tied to a specific term — it's presented to each Scout individually as they complete all required Challenge Awards and personal milestones, whenever that happens to fall. See `data/awards.yaml`.
+- The programme was originally a 4-year, 12-term plan; Year 4 (Terms 10–12) was dropped when it moved to 3 years. Year 4's badges (Survival Skills Activity Badge; Global Issues Challenge Award Cycle 2/Refresher + Photographer Activity Badge; Expedition Challenge Award Cycle 2/Senior Roles + Campers Activity Badge) are dropped from the programme entirely, not re-slotted — see `data/awards.yaml`.
 - Year 1, Term 2's previous content ("Global Citizens & Conservation" — Global Issues Challenge Award + Environmental Conservation Activity Badge) hasn't been re-slotted anywhere yet.
 - Year 1, Term 3's previous content ("Pioneering & Outdoor Survival" — Pioneer Activity Badge + Paddle Sports Activity Badge) has now been re-slotted into Year 2, Term 2 and Year 2, Term 3 above.
 - Year 2's previous content (Team Leader Challenge Award + Navigator Staged Activity Badge Stage 3/4 at Term 1; Scientist/Artist Activity Badge at Term 2; Expedition Challenge Award + Hiker Activity Badge at Term 3) was displaced by the rebuild above and hasn't been re-slotted anywhere yet.

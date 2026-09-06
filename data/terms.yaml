@@ -1,4 +1,4 @@
-# 4-year, 12-term programme timeline for a UK Scout Troop (ages 10-14).
+# 3-year, 9-term programme timeline for a UK Scout Troop (ages 10-14).
 # Each term is a 12-week framework with a 6-7 week core badge content block,
 # so completion fits within a single term even during shortened school terms.
 
@@ -46,6 +46,19 @@
 # from the old Term 3. Also corrected: "Paddle Sports Activity Badge" doesn't
 # exist as a flat activity badge -- it's the "Paddle Sports Staged Activity
 # Badge" (Stages 1-4+), same pattern as Emergency Aid/Navigator.
+#
+# PIVOT: the programme moved from a 4-year, 12-term plan to a 3-year, 9-term
+# plan. Year 4 (Terms 10-12) is removed outright, not re-slotted -- it was
+# never built out beyond this summary level, so there are no session files
+# to migrate. Its badges are dropped from the programme entirely (see the
+# dropped-badges note at the top of data/awards.yaml): Survival Skills
+# Activity Badge; Global Issues Challenge Award (Cycle 2/Refresher) and
+# Photographer Activity Badge; Expedition Challenge Award (Cycle 2/Senior
+# Roles) and Campers Activity Badge. The Chief Scout's Gold Award (the top
+# award) is no longer tied to a specific term either -- it's presented to
+# each Scout individually as they complete the required Challenge Awards and
+# personal milestones, whenever that happens to fall, rather than at a
+# single end-of-programme ceremony.
 
 terms:
   - year: 1
@@ -173,46 +186,4 @@ terms:
       - "Master at Arms Activity Badge (Air Rifle / Pistol Shooting)"
     optional_progression:
       - "Nights Away (+2)"
-      - "Time on the Water"
-
-  - year: 4
-    term: 1
-    season: Autumn
-    theme: "Advanced Bushcraft & Wilderness"
-    core_goals: >-
-      Natural shelter building, foraging awareness, advanced firecraft, and
-      outdoor survival consolidation.
-    badges_earned:
-      - "Survival Skills Activity Badge"
-    optional_progression:
-      - "Nights Away (+2)"
-      - "Hikes Away (+1)"
-
-  - year: 4
-    term: 2
-    season: Spring
-    theme: "World Cultures & Digital Media"
-    core_goals: >-
-      International Scouting customs, photography during hikes, and creating
-      digital content for the troop.
-    badges_earned:
-      - "Global Issues Challenge Award (Cycle 2 / Refresher)"
-      - "Photographer Activity Badge"
-    optional_progression:
-      - "Nights Away (+2)"
-      - "Hikes Away (+1)"
-
-  - year: 4
-    term: 3
-    season: Summer
-    theme: "Expedition Leadership & Gold Celebration"
-    core_goals: >-
-      Older Scouts take leadership roles on the weekend expedition; final
-      sign-offs for departing Scouts.
-    badges_earned:
-      - "Expedition Challenge Award (Cycle 2 / Senior Roles)"
-      - "Campers Activity Badge"
-      - "Chief Scout's Gold Award (Sign-off & Presentation)"
-    optional_progression:
-      - "Final Stage Sign-offs"
       - "Time on the Water"

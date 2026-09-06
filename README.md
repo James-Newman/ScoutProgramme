@@ -1,11 +1,11 @@
 # Scout Programme
 
-A 4-year, 12-term continuous cyclical programme plan for a UK Scout Troop (ages 10–14), built around an inclusive, attendance- and participation-based approach. Scouts achieve their core badge requirements during regular weekly meetings; optional weekend camps, night hikes, and paddleboarding sessions provide opportunity-based staged progression on top of that.
+A 3-year, 9-term continuous cyclical programme plan for a UK Scout Troop (ages 10–14), built around an inclusive, attendance- and participation-based approach. Scouts achieve their core badge requirements during regular weekly meetings; optional weekend camps, night hikes, and paddleboarding sessions provide opportunity-based staged progression on top of that.
 
 ## Structure
 
-- `data/terms.yaml` — the 12-term timeline: theme, core goals, badges earned through in-meeting participation, and optional staged-progression opportunities for each term. This is the source of truth for the programme schedule.
-- `data/awards.yaml` — the full award catalogue: the top award, the nine challenge awards, the activity badges, and the staged activity badges, each cross-referenced to the term(s) they're earned in.
+- `data/terms.yaml` — the 9-term timeline: theme, core goals, badges earned through in-meeting participation, and optional staged-progression opportunities for each term. This is the source of truth for the programme schedule.
+- `data/awards.yaml` — the full award catalogue: the top award, the ten challenge awards, the activity badges, and the staged activity badges, each cross-referenced to the term(s) they're earned in.
 - `docs/timeline.md` — human-readable rendering of the term-by-term timeline.
 - `docs/awards-summary.md` — human-readable rendering of the award catalogue.
 - `year-<N>/term-<N>/overview.md` — itemised, session-by-session breakdown for a given term (indexes one file per weekly meeting) plus a **material inventory**: every additional resource the term's sessions need, consolidated and quantified for the group's maximum of 6 patrols (scale down for a smaller group). Added as terms get planned in detail. See `year-1/term-1/overview.md` for the first example.
@@ -20,15 +20,17 @@ A 4-year, 12-term continuous cyclical programme plan for a UK Scout Troop (ages 
 Every term's 12 weeks therefore break down as: 1 Welcome Session + 1 Night Hike + 1 Camp + 1 External Activity + 1 End of Term Fun & Games (five fixed slots every term, a sixth — Little O — in Autumn terms only) + the term's own badge content in the weeks left over (6 in Autumn, 7 in Spring/Summer).
 
 - `resources/` — printable materials (cards, templates, checklists, posters) referenced from a term's material inventory that don't already exist as an official download. See `resources/README.md` for the index and for the real official downloads used instead of a local copy.
-- `filler-sessions/` — standalone sessions sitting outside the 12-term plan, of two kinds: complete-in-one-sitting badges (each finishes a full, real Scout Activity Badge in a single sitting) and passive-progress badges (`outdoor-challenge-award/`, `adventure-challenge-award.md`, `teamwork-challenge-award.md` — badges the group decided to never dedicate a whole term to, earned instead across many terms via the standing fixed slots above plus these sessions). See `filler-sessions/README.md`.
+- `filler-sessions/` — standalone sessions sitting outside the 9-term plan, of two kinds: complete-in-one-sitting badges (each finishes a full, real Scout Activity Badge in a single sitting) and passive-progress badges (`outdoor-challenge-award/`, `adventure-challenge-award.md`, `teamwork-challenge-award.md` — badges the group decided to never dedicate a whole term to, earned instead across many terms via the standing fixed slots above plus these sessions). See `filler-sessions/README.md`.
 
 The `docs/*.md` files are rendered views of the `data/*.yaml` files. When changing the programme, edit the YAML first and update the corresponding doc to match.
 
 ## Status
 
-`year-1/term-1/` (World Challenge Award), `year-1/term-2/` (Emergency Aid Staged Activity Badge, Stage 3), `year-1/term-3/` (Chef Activity Badge), `year-2/term-1/` (Creative Challenge Award), `year-2/term-2/` (Pioneer Activity Badge), and `year-2/term-3/` (Paddle Sports Staged Activity Badge, Stage 1) are the terms started so far — Year 1, Term 1 in full session-level detail, all the others at framework level only (theme and badges in `data/terms.yaml` plus a placeholder `overview.md`; session-by-session detail is still to come). The other 6 terms exist only at the summary level in `data/terms.yaml` — no `year-<N>/term-<N>/` directory yet.
+`year-1/term-1/` (World Challenge Award), `year-1/term-2/` (Emergency Aid Staged Activity Badge, Stage 3), `year-1/term-3/` (Chef Activity Badge), `year-2/term-1/` (Creative Challenge Award), `year-2/term-2/` (Pioneer Activity Badge), and `year-2/term-3/` (Paddle Sports Staged Activity Badge, Stage 1) are the terms started so far — Year 1, Term 1 in full session-level detail, all the others at framework level only (theme and badges in `data/terms.yaml` plus a placeholder `overview.md`; session-by-session detail is still to come). The other 3 terms (all of Year 3) exist only at the summary level in `data/terms.yaml` — no `year-<N>/term-<N>/` directory yet.
 
 Outdoor Challenge Award, Adventure Challenge Award, and Teamwork Challenge Award are **never** a dedicated focus-badge term — earned passively instead, per `filler-sessions/`'s passive-progress badges and the standing fixed-slot guidance above. This was a deliberate group decision, not something left open to reconsider.
+
+The programme was originally a 4-year, 12-term plan. It has since moved to 3 years, 9 terms: Year 4 was dropped entirely (it had never been built out beyond the summary level, so there was no session content to migrate), and its badges — Survival Skills Activity Badge, Photographer Activity Badge, Campers Activity Badge, and Cycle 2 refreshers of the Global Issues and Expedition Challenge Awards — are dropped from the programme, not re-slotted. The Chief Scout's Gold Award (the top award) is no longer tied to a specific term either; it's presented to each Scout individually as they complete the requirements, whenever that happens to fall. See `data/terms.yaml` and `data/awards.yaml`.
 
 Several things are still flagged unresolved in `data/terms.yaml`: Year 1, Term 2's original content ("Global Citizens & Conservation," before it briefly became Outdoor Challenge Award content) hasn't been re-slotted anywhere; and Year 2's original content (Team Leader Challenge Award, Navigator Staged Activity Badge Stage 3/4, Scientist/Artist Activity Badge, Expedition Challenge Award, Hiker Activity Badge), displaced when Year 2's three terms were rebuilt around Creative Challenge/Pioneer/Paddle Sports, hasn't been re-slotted anywhere either.
 

@@ -1,13 +1,23 @@
-# Full award catalogue for the 4-year, 12-term programme.
+# Full award catalogue for the 3-year, 9-term programme.
 # A Scout who consistently attends and participates in regular weekly
-# meetings over the 12-term journey achieves this full set of awards.
+# meetings over the 9-term journey achieves this full set of awards.
+#
+# PIVOT: the programme moved from a 4-year, 12-term plan to 3-year, 9-term.
+# Year 4 badges are dropped entirely, not re-slotted (see data/terms.yaml):
+# Survival Skills Activity Badge; Photographer Activity Badge; Campers
+# Activity Badge; the Global Issues Challenge Award and Expedition Challenge
+# Award Cycle 2 refreshers that were tied to Year 4. They're removed from
+# this catalogue rather than left as "TBD, not yet re-slotted", since
+# there's no plan to bring them back into a 3-year programme.
 
 top_award:
   name: "Chief Scout's Gold Award"
-  earned: "Year 4, Term 3"
+  earned: "Passive — not tied to any specific term"
   notes: >-
-    Presented at the end of Year 4, Term 3 after completing all required
-    Challenge Awards and personal milestones.
+    Presented to each Scout individually as they complete all required
+    Challenge Awards and personal milestones, whenever that happens to
+    fall, rather than at a single end-of-programme ceremony. Previously
+    tied to the end of Year 4, Term 3, before Year 4 was dropped.
 
 challenge_awards:
   - name: "World Challenge Award"
@@ -38,7 +48,10 @@ challenge_awards:
   - name: "Global Issues Challenge Award"
     earned:
       - "TBD — displaced from Year 1, Term 2 when the World Challenge Award and Outdoor Challenge Award moved terms; not yet re-slotted (see data/terms.yaml)"
-      - "Year 4, Term 2 (Cycle 2 refresher)"
+    notes: >-
+      Its Cycle 2 refresher was previously planned for Year 4, Term 2;
+      dropped along with the rest of Year 4 when the programme moved to
+      3 years (see data/terms.yaml).
   - name: "Adventure Challenge Award"
     earned:
       - "Passive — not tied to any specific term"
@@ -64,12 +77,10 @@ challenge_awards:
   - name: "Expedition Challenge Award"
     earned:
       - "TBD — displaced from Year 2, Term 3 when that term became Paddle Sports Staged Activity Badge (Stage 1); not yet re-slotted (see data/terms.yaml)"
-      - "Year 4, Term 3 (reinforced through senior roles)"
     notes: >-
-      The Year 4, Term 3 entry was originally a "Cycle 2 / senior roles"
-      refresher of the Year 2, Term 3 award above — now that Year 2, Term 3
-      no longer earns it fresh, whether a standalone Year 4 refresher still
-      makes sense on its own needs revisiting whenever Year 4 gets rebuilt.
+      Its Cycle 2 / senior-roles refresher was previously planned for
+      Year 4, Term 3; dropped along with the rest of Year 4 when the
+      programme moved to 3 years (see data/terms.yaml).
   - name: "Skills Challenge Award"
     earned:
       - "Year 3, Term 1"
@@ -117,12 +128,6 @@ activity_badges:
     earned: "Year 3, Term 2"
   - name: "Master at Arms Activity Badge (Air Rifle / Pistol Shooting)"
     earned: "Year 3, Term 3"
-  - name: "Survival Skills Activity Badge"
-    earned: "Year 4, Term 1"
-  - name: "Photographer Activity Badge"
-    earned: "Year 4, Term 2"
-  - name: "Campers Activity Badge"
-    earned: "Year 4, Term 3"
 
 staged_activity_badges:
   - name: "Nights Away Staged Activity Badge"

@@ -6,7 +6,7 @@ Core goals: identifying different paddle craft, naming safe local canoeing/kayak
 Badges earned: **Paddle Sports Staged Activity Badge (Stage 1)**.
 Optional staged progression: Nights Away (+2), Time on the Water.
 
-**Status: framework only.** This term hasn't been built out session-by-session yet — this file just records the theme and focus badge so the rest of the 4-year plan stays consistent. See `data/terms.yaml` for the source of truth.
+**Status: framework only.** This term hasn't been built out session-by-session yet — this file just records the theme and focus badge so the rest of the 3-year plan stays consistent. See `data/terms.yaml` for the source of truth.
 
 This term resolves a TBD flag left open at the top of `data/terms.yaml`: this badge was displaced from Year 1, Term 3 when that term became Fire & Cooking, and hadn't been re-slotted anywhere until now. It was previously mis-recorded as a flat "Paddle Sports Activity Badge" — research for this term found that badge doesn't exist; it's actually a staged badge, so it's recorded here (and in `data/awards.yaml`) as Stage 1, the natural starting stage for Scouts with no prior paddle sports experience.
 

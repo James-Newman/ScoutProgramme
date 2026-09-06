@@ -1,6 +1,6 @@
 # Filler Sessions
 
-Standalone sessions for when a term runs longer than its planned content — each one sits entirely outside the 12-term plan (no theme, no term-specific badge focus) and completes a full, real Scout Activity Badge in a single ~2-hour sitting.
+Standalone sessions for when a term runs longer than its planned content — each one sits entirely outside the 9-term plan (no theme, no term-specific badge focus) and completes a full, real Scout Activity Badge in a single ~2-hour sitting.
 
 Because most real Activity Badges are deliberately *not* single-session (they require an audience, an external event, months of practice, or take-home work with a parent), the badges below were chosen after checking roughly 25 candidates against a strict bar: every stated requirement gets completed, in one sitting, with no external logistics. See each file's **Adaptation needed** line for exactly how strict that bar was met.
 
@@ -16,7 +16,7 @@ Because most real Activity Badges are deliberately *not* single-session (they re
 
 ## Why these seven and not others
 
-Badges already earned elsewhere in the 4-year plan (see `data/awards.yaml`) were excluded from consideration, along with any badge whose requirements inherently need one of: an external audience or scheduled event (Musician, Circus Skills, My Faith), months of ongoing involvement (DIY, Quartermaster, Instructor), multi-week observation (Meteorologist), specialist equipment and real-world caching (Geocaching), or a mandatory task that depends on something outside the session's control (International's JOTA/JOTI/international-link requirement).
+Badges already earned elsewhere in the 3-year plan (see `data/awards.yaml`) were excluded from consideration, along with any badge whose requirements inherently need one of: an external audience or scheduled event (Musician, Circus Skills, My Faith), months of ongoing involvement (DIY, Quartermaster, Instructor), multi-week observation (Meteorologist), specialist equipment and real-world caching (Geocaching), or a mandatory task that depends on something outside the session's control (International's JOTA/JOTI/international-link requirement).
 
 ## Using these in a term
 

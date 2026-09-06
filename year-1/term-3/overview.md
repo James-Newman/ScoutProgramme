@@ -6,7 +6,7 @@ Core goals: menu planning, shopping and food storage, cooking and serving a two-
 Badges earned: **Chef Activity Badge**.
 Optional staged progression: Nights Away (+2), Time on the Water.
 
-**Status: framework only.** This term hasn't been built out session-by-session yet — this file just records the theme and focus badge so the rest of the 4-year plan stays consistent. See `data/terms.yaml` for the source of truth.
+**Status: framework only.** This term hasn't been built out session-by-session yet — this file just records the theme and focus badge so the rest of the 3-year plan stays consistent. See `data/terms.yaml` for the source of truth.
 
 ## Badge requirements
 

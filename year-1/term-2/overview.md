@@ -6,7 +6,7 @@ Core goals: calling 999, and how to help someone who is unconscious, unconscious
 Badges earned: **Emergency Aid Staged Activity Badge (Stage 3)**.
 Optional staged progression: Nights Away (+2), Hikes Away (+1).
 
-**Status: framework only.** This term hasn't been built out session-by-session yet — this file just records the theme and focus badge so the rest of the 4-year plan stays consistent. See `data/terms.yaml` for the source of truth.
+**Status: framework only.** This term hasn't been built out session-by-session yet — this file just records the theme and focus badge so the rest of the 3-year plan stays consistent. See `data/terms.yaml` for the source of truth.
 
 ## Badge requirement
 

@@ -4,7 +4,7 @@ Instructions for any AI agent working in this repository.
 
 ## What this repo is
 
-A 4-year, 12-term programme plan for a UK Scout Troop (ages 10–14), converted from a
+A 3-year, 9-term programme plan for a UK Scout Troop (ages 10–14), converted from a
 Google Doc into git specifically so it's easier to iterate on with an AI agent. The
 plan is inclusive and attendance-based: Scouts earn core badge requirements during
 regular weekly meetings, with optional camps/hikes/water sessions layered on top as
@@ -12,7 +12,7 @@ staged progression.
 
 See `README.md` for the full directory layout. In short:
 
-- `data/*.yaml` is the source of truth for the 4-year schedule and award catalogue.
+- `data/*.yaml` is the source of truth for the 3-year schedule and award catalogue.
 - `docs/*.md` are rendered, human-readable views of that YAML.
 - `year-<N>/term-<N>/` holds full session-by-session delivery plans for a term, built
   out one term at a time. **`year-1/term-1/` (World Challenge Award), `year-1/term-2/`
@@ -86,7 +86,7 @@ hall meeting rather than sitting alongside it, so the term still totals 12 weeks
 ## Filler sessions
 
 `filler-sessions/` holds standalone sessions for when a term runs longer than its
-planned content. They sit entirely outside the 12-term plan — no term theme, and
+planned content. They sit entirely outside the 9-term plan — no term theme, and
 (within a badge) no dependency on any other term's sessions. Two distinct kinds live
 here, and it matters which one a new file is:
 
