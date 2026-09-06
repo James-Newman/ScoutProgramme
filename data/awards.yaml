@@ -60,7 +60,23 @@
 # happens to have a free week, not guaranteed for every Scout. See
 # filler-sessions/README.md.
 #
-# Only Hiker Activity Badge remains displaced/TBD after all of the above.
+# DROPPED: "Hiker Activity Badge" was never a real Scout Association badge
+# either -- like "Global Issues Challenge Award," it's a naming error, most
+# likely since the original Google Doc import. There are 79 real Activity
+# Badges for the Scouts section; the closest match is "Hill Walker Activity
+# Badge," but that's a substantially bigger commitment than what "Hiker"
+# implied -- 5 one-day journeys of 14km+ specifically in hilly country,
+# 3 of them led by a qualified permit holder, plus knowledge of the BMC's
+# "Safety on Mountains" publication. That's genuinely different from (and
+# well beyond) the group's regular Night Hikes and Hikes Away Staged
+# Activity Badge, which have no minimum distance, no hilly-terrain
+# requirement, and no permit holder involved. Rather than force-fit Hill
+# Walker in or invent hillwalking logistics the group doesn't have, it's
+# dropped from the programme entirely -- removed from activity_badges
+# below, not left as "TBD, not yet re-slotted", the same treatment as the
+# Year 4 badges above. This was the last remaining displaced/TBD badge in
+# the catalogue -- every badge now either has a genuine home or has been
+# deliberately dropped.
 #
 # GOLD AWARD GAP: RESOLVED. Expedition Challenge Award's individual-report
 # requirement is now covered -- Scouts who do the hike write it
@@ -209,8 +225,6 @@ activity_badges:
       Displaced from Year 2, Term 2 when that term became the Pioneer
       Activity Badge term; resolved here. Which of the two options each
       Scout/the term uses isn't decided yet — see the term's overview.md.
-  - name: "Hiker Activity Badge"
-    earned: "TBD — displaced from Year 2, Term 3 when that term became Paddle Sports Staged Activity Badge (Stage 1); not yet re-slotted (see data/terms.yaml)"
   - name: "Chef Activity Badge"
     earned: "Year 1, Term 3"
   - name: "Global Issues Activity Badge"

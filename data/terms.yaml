@@ -74,15 +74,16 @@
 # Challenge Award, Term 2 became Pioneer Activity Badge, and Term 3 became
 # Paddle Sports. Navigator Staged Activity Badge (Stage 3/4) from the old
 # Term 1 (Team Leader Challenge Award from that same term is now resolved
-# to passive, see above) and Hiker Activity Badge from the old Term 3
-# (Expedition Challenge Award from that same term is now resolved to
-# passive, see above) are still displaced and not yet re-slotted. Scientist
-# Activity Badge or Artist Activity Badge from the old Term 2 (Creative
-# Challenge Award itself just relocated from Term 2 to Term 1, so it isn't
-# displaced) is now resolved into Year 3, Term 2 above. Also corrected:
-# "Paddle Sports Activity Badge" doesn't exist as a flat activity badge --
-# it's the "Paddle Sports Staged Activity Badge" (Stages 1-4+), same pattern
-# as Emergency Aid/Navigator.
+# to passive, see above) is now resolved to passive too (see below).
+# Scientist Activity Badge or Artist Activity Badge from the old Term 2
+# (Creative Challenge Award itself just relocated from Term 2 to Term 1, so
+# it isn't displaced) is now resolved into Year 3, Term 2 above. Hiker
+# Activity Badge from the old Term 3 (Expedition Challenge Award from that
+# same term is now resolved to passive, see above) turned out to be a
+# naming error and has been dropped entirely -- see the DROPPED note at the
+# top of data/awards.yaml. Also corrected: "Paddle Sports Activity Badge"
+# doesn't exist as a flat activity badge -- it's the "Paddle Sports Staged
+# Activity Badge" (Stages 1-4+), same pattern as Emergency Aid/Navigator.
 #
 # PIVOT: the programme moved from a 4-year, 12-term plan to a 3-year, 9-term
 # plan. Year 4 (Terms 10-12) is removed outright, not re-slotted -- it was
