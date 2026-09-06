@@ -144,10 +144,37 @@ index needed. Header uses **Badge:**, **Why this works as a filler:**, and
 **Requirement(s) this session covers:** — and should name which requirements are
 covered passively elsewhere, not just which this file covers.
 
+## Session planning must actively hunt for passive-progress badge opportunities
+
+Outdoor Challenge Award, Adventure Challenge Award, Teamwork Challenge Award,
+Paddle Sports Staged Activity Badge (Stage 1), Master at Arms Activity Badge, and
+Navigator Staged Activity Badge (Stage 3/4) have no dedicated term — they only get
+earned if the standing fixed slots, filler sessions, and general term content
+genuinely deliver every one of their requirements between them. Unlike the
+bonus/incidental overlap covered under "Passive badge completion" below (which is
+about *other* badges the group never designed a home for), this isn't optional:
+these six badges are supposed to be guaranteed for every Scout, so if nobody
+actively checks for the opportunity while planning a session, they silently don't
+get earned.
+
+**Whenever a session is planned or revisited in detail** — a fixed slot (Welcome,
+Night Hike, Camp, External Activity), a term's own core content, or a filler
+session — check it against the requirement maps in `data/awards.yaml` and
+`filler-sessions/outdoor-challenge-award/README.md` for a genuine opportunity to
+fulfil one of these badges' remaining requirements, and structure the session to
+actually deliver it, not just brush past it. Some opportunities are already
+identified and baked into the standing-slot guidance above (Night Hike/Countryside
+Code, Camp/Nights Away, External Activity/Adventure's four-activities tally,
+Night Hike/Navigator's real routes); others will only surface once a specific
+term's real content is written, so keep checking every time a new session is
+authored, not just once when a badge was first made passive.
+
 ## Passive badge completion
 
-Every term's regular content (games, camps, hikes, teamwork/leadership activities)
-sometimes advances real requirements of *other* Scouts-section badges as a side
+This is a different, lower-stakes concept from the passive-progress check above:
+every term's regular content (games, camps, hikes, teamwork/leadership activities)
+sometimes advances real requirements of *other* Scouts-section badges — ones the
+group never designated as passive or gave any home to — as a side
 effect, without any dedicated session time for them. This is worth surfacing but
 easy to overclaim, so when a term is built (or revisited):
 
@@ -202,6 +229,10 @@ easy to overclaim, so when a term is built (or revisited):
   patrol"), grouped into sensible categories with a link back to which session(s) use
   each item. Regenerate this whenever a session's materials change — don't let it
   drift from what the session files actually say.
+- **Before finishing any session, check it against passive-progress badge
+  requirements** — see "Session planning must actively hunt for passive-progress
+  badge opportunities" above. This applies to every session, not just the standing
+  fixed slots.
 
 ## Badge-accuracy discipline
 
