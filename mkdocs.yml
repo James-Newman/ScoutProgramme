@@ -38,7 +38,7 @@ nav:
   - Programme overview:
       - Timeline: docs/timeline.md
       - Awards summary: docs/awards-summary.md
-      - "Little O (placeholder, Autumn terms)": little-o-orienteering.md
+      - "Little O (template, Autumn terms)": little-o-orienteering.md
   - Year 1:
       - Term 1 — Community & Global Citizenship:
           - Overview: year-1/term-1/overview.md
@@ -52,7 +52,7 @@ nav:
           - 8. External Activity: year-1/term-1/external-activity.md
           - 9. Shooting Session: year-1/term-1/shooting-session.md
           - 10. Camp: year-1/term-1/camp.md
-          - 11. Little O (placeholder): year-1/term-1/little-o-orienteering.md
+          - 11. Little O: year-1/term-1/little-o-orienteering.md
           - 12. End of Term Fun & Games: year-1/term-1/end-of-term-fun-and-games.md
       - Term 2 — First Aid & Emergency Response (framework only):
           - Overview: year-1/term-2/overview.md

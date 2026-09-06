@@ -249,6 +249,17 @@ activity_badges:
       AGENTS.md), a supervised air rifle/pistol range visit that recurs once
       per year across all three years. Previously pending Year 3 replan (was
       Year 3, Term 1 in the removed pre-redesign data) — see data/terms.yaml.
+  - name: "Orienteer Activity Badge"
+    earned: "Passive — not tied to any specific term"
+    notes: >-
+      Requires learning about the sport of orienteering, learning map
+      colours/symbols, orientating a map and using basic map skills
+      (including "thumbing" the map), and completing three different
+      orienteering courses. Delivered in full by the standing Little O
+      fixed slot every Autumn term includes (see AGENTS.md and
+      little-o-orienteering.md) — all four requirements, including the
+      three courses, are designed to complete in a single outing rather
+      than accumulate across years.
 
 staged_activity_badges:
   - name: "Nights Away Staged Activity Badge"

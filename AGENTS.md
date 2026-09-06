@@ -36,7 +36,9 @@ See `README.md` for the full directory layout. In short:
   term already has, plus a handful of standalone sessions in `filler-sessions/`.
   Expedition Challenge Award is passive too, but via the standing summer Camp and/or
   the autumn Grimsdyke Challenge Hike rather than a filler session, with each Scout
-  writing their own individual report independently afterward. Team Leader Challenge
+  writing their own individual report independently afterward. Orienteer Activity
+  Badge is passive via the standing Little O fixed slot every Autumn term, delivered
+  in full each time rather than accumulated across years. Team Leader Challenge
   Award and Personal Challenge Award are passive via termly leader review/discussion
   instead of a session at all. Don't propose turning any of these back into a
   dedicated term — that redesign already happened and was deliberate. All 9 real
@@ -93,8 +95,12 @@ and Shooting Session below), plus the remaining weeks for term-specific badge co
    towards the Adventure Challenge Award's "four different adventurous activities"
    tally (passive requirement 1) — see `filler-sessions/adventure-challenge-award.md`.
 6. **Little O** (`little-o-orienteering.md`) — **Autumn terms only** (Term 1 of each
-   Year). A short orienteering session in the local park, separate from the term's
-   badge work. Currently a placeholder (see the file itself).
+   Year). An orienteering session in the local park or woods, separate from the
+   term's own badge work, deliberately generic like Welcome Session and End of Term
+   Fun & Games — copy it into a new Autumn term unchanged apart from the term name.
+   Delivers the Orienteer Activity Badge in full each time it runs (learning the
+   sport and map symbols, orientating/thumbing a map, and three courses of
+   increasing difficulty in one outing) — not accumulated across years.
 7. **Shooting Session** (`shooting-session.md`) — **Autumn terms only** (Term 1 of
    each Year). A supervised air rifle/pistol range visit, deliberately generic like
    Welcome Session and End of Term Fun & Games — copy it into a new Autumn term

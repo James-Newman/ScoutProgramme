@@ -28,6 +28,7 @@ Rendered view of [`data/awards.yaml`](../data/awards.yaml). By consistently show
 - **Chef Activity Badge** (Year 1, Term 3)
 - **Global Issues Activity Badge** (Year 2, Term 3 — corrects the "Global Issues Challenge Award" naming error above, resolving the earlier displacement from Year 1, Term 2)
 - **Master at Arms Activity Badge (Air Rifle / Pistol Shooting)** — Never a dedicated term; earned passively via the group's recurring shooting sessions plus [`filler-sessions/master-at-arms-activity-badge.md`](../filler-sessions/master-at-arms-activity-badge.md) for the safety-rules requirement. Previously pending Year 3 replan.
+- **Orienteer Activity Badge** — Never a dedicated term; delivered in full by the standing Little O session every Autumn term (learning the sport and map symbols, orientating/thumbing a map, and three courses of increasing difficulty in one outing) — see `little-o-orienteering.md`.
 
 ## 4. Staged Activity Badges (Optional / Opportunity-Based Accumulation)
 

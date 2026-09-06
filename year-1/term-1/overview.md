@@ -22,7 +22,7 @@ Every term's 12 weeks follow the same shape: one [Welcome Session](welcome-sessi
 | 8 | [External Activity](external-activity.md) *(placeholder)* | None, by design — a fun outing unrelated to the term's theme |
 | 9 | [Shooting Session](shooting-session.md) | None — Master at Arms Activity Badge training-session tally |
 | 10 | [Camp](camp.md) | None — this term's Nights Away (2) opportunity; leader-supported, since campcraft skills aren't this term's focus |
-| 11 | [Little O](little-o-orienteering.md) *(placeholder)* | None currently mapped — orienteering, details still to work out |
+| 11 | [Little O](little-o-orienteering.md) | Orienteer Activity Badge — complete in full this session |
 | 12 | [End of Term Fun & Games](end-of-term-fun-and-games.md) | World Challenge Award presentation |
 
 ## Requirement coverage
@@ -60,7 +60,7 @@ No other session this term showed a clear, defensible overlap with a real Scouts
 
 ## Material inventory
 
-Quantities below assume the group's maximum of 6 patrols; scale down proportionally for a smaller group. Anything not listed (venue, transport, consent forms, risk assessments) is covered in each session's own Notes, not here. [External Activity](external-activity.md) has no fixed materials — it depends entirely on what's booked. [Shooting Session](shooting-session.md) has no group-owned materials either — range equipment, ammunition, and eye/ear protection are provided by the instructor/range. [Little O](little-o-orienteering.md) is still a placeholder, so its materials (maps, control cards/punches, whistles) aren't finalised yet. Filler-session materials are listed in their own files, linked below.
+Quantities below assume the group's maximum of 6 patrols; scale down proportionally for a smaller group. Anything not listed (venue, transport, consent forms, risk assessments) is covered in each session's own Notes, not here. [External Activity](external-activity.md) has no fixed materials — it depends entirely on what's booked. [Shooting Session](shooting-session.md) has no group-owned materials either — range equipment, ammunition, and eye/ear protection are provided by the instructor/range. Filler-session materials are listed in their own files, linked below.
 
 ### Research & reflection
 
@@ -89,6 +89,15 @@ Quantities below assume the group's maximum of 6 patrols; scale down proportiona
 | Patrol/mess tents, camp kit | 6 patrol tents + 1 mess tent | [Camp](camp.md) | Source it |
 | Route map(s) | 1 master, plus copies | [Night Hike](night-hike.md) | Source it (local to your route) |
 | Torches, spare batteries, whistles | 1 per Scout | [Night Hike](night-hike.md) | Source it |
+
+### Little O (orienteering)
+
+| Item | Quantity | Used in | Resource |
+| :-- | :-- | :-- | :-- |
+| Orienteering map-symbol key handout | 1 per Scout or pair | [Little O](little-o-orienteering.md) | Source it |
+| Orienteering maps of the park/woods | 1 per Scout or pair | [Little O](little-o-orienteering.md) | Source it (local to your venue) |
+| Compasses | 1 per Scout or pair | [Little O](little-o-orienteering.md) | Source it |
+| Control markers/punches or electronic dibbers, control cards | Enough for 3 pre-set courses | [Little O](little-o-orienteering.md) | Source it — or check for a permanent local course first |
 
 ### Craft, stationery & misc
 
