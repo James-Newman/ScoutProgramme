@@ -13,7 +13,7 @@
 # Skills, Team Leader, Teamwork). It was most likely always meant to be the
 # real "Global Issues Activity Badge" instead, now correctly named and
 # re-slotted into Year 2, Term 3 (see below). Environmental Conservation
-# Activity Badge is still displaced -- TBD.
+# Activity Badge is now resolved too, into Year 3, Term 3 (see below).
 #
 # NOTE: Year 1, Term 3's original content ("Pioneering & Outdoor Survival" --
 # Pioneer Activity Badge + Paddle Sports Activity Badge, plus Adventure Challenge
@@ -50,28 +50,35 @@
 # Year 1. All three were removed entirely rather than kept as stale,
 # known-wrong placeholder data.
 #
-# RESOLVED (partially): Year 3, Term 1 has now been re-added below with
-# Skills Challenge Award as its focus badge -- fitting back into its
-# original slot from the old pre-redesign plan, now properly verified
-# against the real badge requirements. Year 3, Terms 2 and 3 are still
-# pending replan. Of the badges that only had a home in the old, removed
+# RESOLVED: Year 3, Term 1 has now been re-added below with Skills Challenge
+# Award as its focus badge -- fitting back into its original slot from the
+# old pre-redesign plan, now properly verified against the real badge
+# requirements. Of the badges that only had a home in the old, removed
 # Year 3 data, Personal Challenge Award and Master at Arms Activity Badge
 # are now covered elsewhere (see data/awards.yaml); Communicator Activity
 # Badge is still flagged "pending Year 3 replan".
 #
-# Year 1, Term 2 and Term 3, all of Year 2, and Year 3 Term 1, below are
+# RESOLVED: Year 3, Terms 2 and 3 have now been re-added below too, with
+# Scientist Activity Badge or Artist Activity Badge and Environmental
+# Conservation Activity Badge respectively -- resolving two more
+# long-standing displacement flags (see below). Navigator Staged Activity
+# Badge (Stage 3/4), Hiker Activity Badge, and Communicator Activity Badge
+# remain displaced/TBD -- see data/awards.yaml.
+#
+# Year 1, Term 2 and Term 3, and all of Year 2 and Year 3, below are
 # framework-only so far (theme, core goals, badge) -- no year-<N>/term-<N>/
 # session files have been built out yet for any of them.
 #
 # NOTE: Year 2's original content was displaced when Term 1 became Creative
 # Challenge Award, Term 2 became Pioneer Activity Badge, and Term 3 became
-# Paddle Sports. Displaced and not yet re-slotted: Navigator Staged Activity
-# Badge (Stage 3/4) from the old Term 1 (Team Leader Challenge Award from
-# that same term is now resolved to passive, see above); Scientist Activity
-# Badge or Artist Activity Badge from the old Term 2 (Creative Challenge
-# Award itself just relocated from Term 2 to Term 1, so it isn't displaced);
-# Hiker Activity Badge from the old Term 3 (Expedition Challenge Award from
-# that same term is now resolved to passive, see above). Also corrected:
+# Paddle Sports. Navigator Staged Activity Badge (Stage 3/4) from the old
+# Term 1 (Team Leader Challenge Award from that same term is now resolved
+# to passive, see above) and Hiker Activity Badge from the old Term 3
+# (Expedition Challenge Award from that same term is now resolved to
+# passive, see above) are still displaced and not yet re-slotted. Scientist
+# Activity Badge or Artist Activity Badge from the old Term 2 (Creative
+# Challenge Award itself just relocated from Term 2 to Term 1, so it isn't
+# displaced) is now resolved into Year 3, Term 2 above. Also corrected:
 # "Paddle Sports Activity Badge" doesn't exist as a flat activity badge --
 # it's the "Paddle Sports Staged Activity Badge" (Stages 1-4+), same pattern
 # as Emergency Aid/Navigator.
@@ -200,3 +207,31 @@ terms:
     optional_progression:
       - "Nights Away (+2)"
       - "Hikes Away (+1)"
+
+  - year: 3
+    term: 2
+    season: Spring
+    theme: "Science & Art"
+    core_goals: >-
+      Either exploring the science behind Scouting activities/hobbies through
+      experiments, or developing and showing a body of creative work in a
+      chosen art form -- Scouts choose one path and earn the badge through it.
+    badges_earned:
+      - "Scientist Activity Badge or Artist Activity Badge"
+    optional_progression:
+      - "Nights Away (+2)"
+      - "Hikes Away (+1)"
+
+  - year: 3
+    term: 3
+    season: Summer
+    theme: "Environmental Conservation"
+    core_goals: >-
+      Researching an environmental issue important to the local community,
+      taking part in an activity or project that improves local conservation,
+      and running a campaign to raise awareness of an environmental issue.
+    badges_earned:
+      - "Environmental Conservation Activity Badge"
+    optional_progression:
+      - "Nights Away (+2)"
+      - "Time on the Water"

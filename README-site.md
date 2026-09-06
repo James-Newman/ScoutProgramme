@@ -9,7 +9,7 @@ A 3-year plan for a UK Scout Troop (ages 10–14). Scouts work towards real Scou
 - **[Year 1, Term 1](year-1/term-1/overview.md)** — World Challenge Award, the first term planned in full detail, session by session, including what to bring to each one.
 - **[Year 1, Term 2](year-1/term-2/overview.md)** and **[Year 1, Term 3](year-1/term-3/overview.md)** — First Aid (Emergency Aid Stage 3) and Fire & Cooking (Chef Activity Badge). Framework only so far — theme and focus badge decided, session-by-session detail still to come.
 - **[Year 2, Term 1](year-2/term-1/overview.md)**, **[Year 2, Term 2](year-2/term-2/overview.md)**, and **[Year 2, Term 3](year-2/term-3/overview.md)** — Creative Challenge Award, Pioneer Activity Badge, and Global Issues Activity Badge. Also framework only so far.
-- **[Year 3, Term 1](year-3/term-1/overview.md)** — Skills Challenge Award. Framework only so far; Year 3 Terms 2 and 3 don't exist yet.
+- **[Year 3, Term 1](year-3/term-1/overview.md)**, **[Year 3, Term 2](year-3/term-2/overview.md)**, and **[Year 3, Term 3](year-3/term-3/overview.md)** — Skills Challenge Award, Scientist Activity Badge or Artist Activity Badge, and Environmental Conservation Activity Badge. Also framework only so far — all 9 terms now have a theme and focus badge.
 - **[Resources](resources/README.md)** — printable cards, checklists, and templates for running the sessions.
 - **[Filler sessions](filler-sessions/README.md)** — standalone sessions that sit outside the 9-term plan: some complete a full badge in one sitting, others (Outdoor, Adventure, and Teamwork Challenge Awards, Paddle Sports Staged Activity Badge, and Master at Arms Activity Badge) are earned passively across many terms instead of ever getting a dedicated term.
 

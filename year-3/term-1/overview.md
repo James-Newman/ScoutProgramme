@@ -8,7 +8,7 @@ Optional staged progression: Nights Away (+2), Hikes Away (+1).
 
 **Status: framework only.** This term hasn't been built out session-by-session yet — this file just records the theme and focus badge so the rest of the 3-year plan stays consistent. See `data/terms.yaml` for the source of truth.
 
-This is the first term of Year 3, which had previously been entirely removed from `data/terms.yaml` — its old content was a pre-redesign leftover from the original Google Doc import that had never been revisited and had known conflicts (see the note there). Skills Challenge Award fits back into this same Year 3, Term 1 slot from that old plan, now properly verified against the real badge requirements rather than the old, incorrect content. Year 3, Terms 2 and 3 are still pending replan.
+This is the first term of Year 3, which had previously been entirely removed from `data/terms.yaml` — its old content was a pre-redesign leftover from the original Google Doc import that had never been revisited and had known conflicts (see the note there). Skills Challenge Award fits back into this same Year 3, Term 1 slot from that old plan, now properly verified against the real badge requirements rather than the old, incorrect content. Year 3, Terms 2 and 3 have since been replanned too — see [`year-3/term-2/overview.md`](../term-2/overview.md) and [`year-3/term-3/overview.md`](../term-3/overview.md).
 
 ## Badge requirement(s)
 

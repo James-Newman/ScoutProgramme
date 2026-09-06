@@ -37,6 +37,18 @@
 # Leader Challenge Award, Personal Challenge Award, Expedition Challenge
 # Award, and Master at Arms Activity Badge have also moved to passive --
 # see their individual entries below for how each is actually covered.
+#
+# RESOLVED (Year 3, Terms 2 and 3): now filled with Scientist Activity
+# Badge or Artist Activity Badge (Term 2) and Environmental Conservation
+# Activity Badge (Term 3) -- resolving two more long-standing displacement
+# flags. Still displaced/TBD after this: Navigator Staged Activity Badge
+# (Stage 3/4), Hiker Activity Badge, and Communicator Activity Badge.
+#
+# GOLD AWARD GAP: with all 9 Challenge Awards now covered (earned or
+# passive), the Chief Scout's Gold Award is close but not fully achievable
+# yet -- Expedition Challenge Award's individual-report requirement still
+# has no dedicated moment to produce it (see its entry below). That's the
+# one remaining blocker.
 
 top_award:
   name: "Chief Scout's Gold Award"
@@ -149,7 +161,13 @@ challenge_awards:
 
 activity_badges:
   - name: "Environmental Conservation Activity Badge"
-    earned: "TBD — displaced from Year 1, Term 2; not yet re-slotted (see data/terms.yaml)"
+    earned: "Year 3, Term 3"
+    notes: >-
+      Requires researching an environmental issue important to the local
+      community, taking part in an activity or project that improves local
+      conservation, and running a campaign to raise awareness of an
+      environmental issue. Displaced from Year 1, Term 2 when that term
+      became the Emergency Aid term; resolved here.
   - name: "Pioneer Activity Badge"
     earned: "Year 2, Term 2"
     notes: >-
@@ -159,7 +177,17 @@ activity_badges:
       pioneering-gadget requirement (requirement 7) — see
       filler-sessions/outdoor-challenge-award/README.md.
   - name: "Scientist Activity Badge or Artist Activity Badge"
-    earned: "TBD — displaced from Year 2, Term 2 when that term became the Pioneer Activity Badge term; not yet re-slotted (see data/terms.yaml)"
+    earned: "Year 3, Term 2"
+    notes: >-
+      Scientist requires choosing one of two options: exploring/experimenting
+      with the science behind Scouting activities and explaining the
+      results, or a set of three experiments with predicted/varied outcomes
+      and a real-world link. Artist requires either producing a scene,
+      portrait/object, and landscape plus showing recent work, or taking an
+      active interest in a chosen art form/artist with visits and research.
+      Displaced from Year 2, Term 2 when that term became the Pioneer
+      Activity Badge term; resolved here. Which of the two options each
+      Scout/the term uses isn't decided yet — see the term's overview.md.
   - name: "Hiker Activity Badge"
     earned: "TBD — displaced from Year 2, Term 3 when that term became Paddle Sports Staged Activity Badge (Stage 1); not yet re-slotted (see data/terms.yaml)"
   - name: "Chef Activity Badge"

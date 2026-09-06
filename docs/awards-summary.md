@@ -4,7 +4,7 @@ Rendered view of [`data/awards.yaml`](../data/awards.yaml). By consistently show
 
 ## 1. The Top Award
 
-- **Chief Scout's Gold Award** — Presented to each Scout individually as they complete all required Challenge Awards and personal milestones, whenever that happens to fall, rather than at a single end-of-programme ceremony.
+- **Chief Scout's Gold Award** — Presented to each Scout individually as they complete all required Challenge Awards and personal milestones, whenever that happens to fall, rather than at a single end-of-programme ceremony. **Gap:** with all 9 Challenge Awards now covered (see section 2), this is close but not fully achievable yet — Expedition Challenge Award's individual-report requirement still has no dedicated moment to produce it.
 
 ## 2. Nine Challenge Awards (In-Meeting Core)
 
@@ -22,9 +22,9 @@ Rendered view of [`data/awards.yaml`](../data/awards.yaml). By consistently show
 
 ## 3. Activity Badges (Completed Within Specific Terms)
 
-- **Environmental Conservation Activity Badge** (displaced from Year 1, Term 2; not yet re-slotted)
+- **Environmental Conservation Activity Badge** (Year 3, Term 3 — resolves the oldest open displacement, from Year 1, Term 2)
 - **Pioneer Activity Badge** (Year 2, Term 2 — resolves the earlier displacement from Year 1, Term 3)
-- **Scientist Activity Badge** *or* **Artist Activity Badge** (displaced from Year 2, Term 2; not yet re-slotted)
+- **Scientist Activity Badge** *or* **Artist Activity Badge** (Year 3, Term 2 — resolves the earlier displacement from Year 2, Term 2; which option each Scout/the term uses isn't decided yet)
 - **Hiker Activity Badge** (displaced from Year 2, Term 3; not yet re-slotted)
 - **Chef Activity Badge** (Year 1, Term 3)
 - **Communicator Activity Badge** (TBD, pending Year 3 replan — previously Year 3, Term 2)
@@ -43,5 +43,5 @@ Rendered view of [`data/awards.yaml`](../data/awards.yaml). By consistently show
 **Notes:**
 
 - The programme was originally a 4-year, 12-term plan. Year 4 (Terms 10–12) was dropped when it moved to 3 years, and its badges — Survival Skills Activity Badge, Photographer Activity Badge, and Campers Activity Badge — were dropped from this catalogue entirely, not re-slotted. See `data/awards.yaml` and `data/terms.yaml`.
-- Year 3's old content was a pre-redesign leftover that had never been revisited and contained known conflicts (it duplicated Chef Activity Badge and Emergency Aid Stage 3/4 from Year 1, and still listed Teamwork Challenge Award as a dedicated term badge despite that award being made permanently passive). It was removed from `data/terms.yaml` entirely rather than kept as stale data. Term 1 has since been re-added with Skills Challenge Award (see section 2); Personal Challenge Award and Master at Arms Activity Badge, which also only had a home in that old data, are now covered passively instead (see sections 2 and 3). Only Communicator Activity Badge is still marked "pending Year 3 replan" — Year 3, Terms 2 and 3 remain unplanned.
+- Year 3's old content was a pre-redesign leftover that had never been revisited and contained known conflicts (it duplicated Chef Activity Badge and Emergency Aid Stage 3/4 from Year 1, and still listed Teamwork Challenge Award as a dedicated term badge despite that award being made permanently passive). It was removed from `data/terms.yaml` entirely rather than kept as stale data. All three terms have since been re-added with real, verified badges: Skills Challenge Award (Term 1), Scientist/Artist Activity Badge (Term 2), and Environmental Conservation Activity Badge (Term 3) — see section 2/3. Personal Challenge Award and Master at Arms Activity Badge, which also only had a home in that old data, are now covered passively instead (see sections 2 and 3). Only Communicator Activity Badge is still marked "pending Year 3 replan."
 - Year 2, Term 3 ("On the Water") was also removed from `data/terms.yaml` separately from the above, after its badge (Paddle Sports Staged Activity Badge, Stage 1) moved to passive — see section 4. It's since been re-slotted with Global Issues Activity Badge (see section 3), since there was no real 9th/10th Challenge Award left over to fill it once Team Leader, Expedition, Personal, and Master at Arms all moved to passive.

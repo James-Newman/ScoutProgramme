@@ -20,12 +20,13 @@ See `README.md` for the full directory layout. In short:
   `year-1/term-3/` (Chef Activity Badge — framework only so far), `year-2/term-1/`
   (Creative Challenge Award — framework only so far), `year-2/term-2/` (Pioneer
   Activity Badge — framework only so far), `year-2/term-3/` (Global Issues Activity
-  Badge — framework only so far), and `year-3/term-1/` (Skills Challenge Award —
-  framework only so far)** are built out to date. Each term aims to complete exactly
-  one badge in full, from a standing start, within that single term — not spread
-  across multiple terms. Year 3, Terms 2 and 3 don't currently exist (their old data
-  was a stale pre-redesign leftover, removed until genuinely replanned) — see
-  `data/terms.yaml`.
+  Badge — framework only so far), `year-3/term-1/` (Skills Challenge Award —
+  framework only so far), `year-3/term-2/` (Scientist Activity Badge or Artist
+  Activity Badge — framework only so far), and `year-3/term-3/` (Environmental
+  Conservation Activity Badge — framework only so far)** are built out to date. All
+  9 terms now have a theme and focus badge. Each term aims to complete exactly one
+  badge in full, from a standing start, within that single term — not spread across
+  multiple terms.
 - Some badges are deliberately **never** a dedicated focus-badge term at all, each
   covered a different way — the group decided Outdoor Challenge Award, Adventure
   Challenge Award, Teamwork Challenge Award, Paddle Sports Staged Activity Badge
