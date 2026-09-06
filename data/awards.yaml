@@ -5,28 +5,38 @@
 # PIVOT: the programme moved from a 4-year, 12-term plan to 3-year, 9-term.
 # Year 4 badges are dropped entirely, not re-slotted (see data/terms.yaml):
 # Survival Skills Activity Badge; Photographer Activity Badge; Campers
-# Activity Badge; the Global Issues Challenge Award and Expedition Challenge
-# Award Cycle 2 refreshers that were tied to Year 4. They're removed from
-# this catalogue rather than left as "TBD, not yet re-slotted", since
-# there's no plan to bring them back into a 3-year programme.
+# Activity Badge; the Global Issues and Expedition Challenge Award Cycle 2
+# refreshers that were tied to Year 4. They're removed from this catalogue
+# rather than left as "TBD, not yet re-slotted", since there's no plan to
+# bring them back into a 3-year programme. (Note: "Global Issues Challenge
+# Award" itself turned out not to exist -- see NAMING CORRECTION below --
+# so its Year 4 Cycle 2 refresher was never real either.)
 #
-# REMOVED (pending replan): Year 3's three terms were pre-redesign leftovers
-# and have been removed from data/terms.yaml entirely rather than kept as
-# stale placeholders (see the note there). Badges that only had a home in
-# that stale data are flagged "TBD — pending Year 3 replan" below rather
-# than tied to a specific old term number: Skills Challenge Award, Personal
-# Challenge Award, Communicator Activity Badge, Master at Arms Activity
-# Badge. Unlike the Year 4 drop above, these aren't being removed from the
-# programme -- Year 3 still exists conceptually, it just hasn't been
-# replanned yet.
+# NAMING CORRECTION: "Global Issues Challenge Award" was never a real Scout
+# Association badge -- there are only 9 real Challenge Awards for the Scouts
+# section (Adventure, World, Creative, Expedition, Outdoor, Personal,
+# Skills, Team Leader, Teamwork). It's been removed from challenge_awards
+# below. What was actually meant, most likely since the original Google Doc
+# import, is the real "Global Issues Activity Badge" -- now correctly named
+# and earned in Year 2, Term 3 (see activity_badges below), resolving the
+# old displacement from Year 1, Term 2.
+#
+# RESOLVED (Year 3 pending-replan badges): of the four badges previously
+# flagged "TBD — pending Year 3 replan" (see data/terms.yaml), three are
+# now resolved: Skills Challenge Award is earned in the newly-replanned
+# Year 3, Term 1; Personal Challenge Award and Master at Arms Activity
+# Badge (Air Rifle / Pistol Shooting) both moved to passive instead (see
+# their entries below). Communicator Activity Badge is still pending.
 #
 # MOVED TO PASSIVE: Paddle Sports Staged Activity Badge (Stage 1) was Year
 # 2, Term 3's dedicated focus badge; it's now passive instead (see
 # filler-sessions/paddle-sports-staged-activity-badge.md), because the
 # group already runs paddle sports content every summer term regardless of
-# any dedicated badge term. Year 2, Term 3 has been removed from
-# data/terms.yaml as a result -- it needs a new focus badge, not yet
-# decided (see the note there).
+# any dedicated badge term. Year 2, Term 3 has since been re-slotted with
+# Global Issues Activity Badge instead (see NAMING CORRECTION above). Team
+# Leader Challenge Award, Personal Challenge Award, Expedition Challenge
+# Award, and Master at Arms Activity Badge have also moved to passive --
+# see their individual entries below for how each is actually covered.
 
 top_award:
   name: "Chief Scout's Gold Award"
@@ -63,13 +73,6 @@ challenge_awards:
       full requirement map. Nights Away specifically is an explicitly
       cumulative requirement (at least eight nights away, four camping)
       that crosses the threshold around Year 2, Term 1 regardless.
-  - name: "Global Issues Challenge Award"
-    earned:
-      - "TBD — displaced from Year 1, Term 2 when the World Challenge Award and Outdoor Challenge Award moved terms; not yet re-slotted (see data/terms.yaml)"
-    notes: >-
-      Its Cycle 2 refresher was previously planned for Year 4, Term 2;
-      dropped along with the rest of Year 4 when the programme moved to
-      3 years (see data/terms.yaml).
   - name: "Adventure Challenge Award"
     earned:
       - "Passive — not tied to any specific term"
@@ -84,7 +87,18 @@ challenge_awards:
       data/terms.yaml.
   - name: "Team Leader Challenge Award"
     earned:
-      - "TBD — displaced from Year 2, Term 1 when that term became the Creative Challenge Award term; not yet re-slotted (see data/terms.yaml)"
+      - "Passive — assessed termly rather than via a dedicated term"
+    notes: >-
+      Its four requirements, over at least three months, are: successfully
+      lead a Scout team at a camp or all-day event; help a new Scout become
+      part of the Troop; help another Scout develop a Scouting skill; and
+      represent the views of other Scouts (e.g. at a Patrol Leaders'
+      Council) and report back to them. Rather than a dedicated term or a
+      filler-sessions file, leaders review each Scout's progress against
+      these once per term — the leading-a-team requirement is a natural fit
+      for the standing summer Camp, and the others accumulate through
+      ordinary patrol life. Previously displaced from Year 2, Term 1 when
+      that term became Creative Challenge Award — see data/terms.yaml.
   - name: "Creative Challenge Award"
     earned:
       - "Year 2, Term 1"
@@ -94,14 +108,24 @@ challenge_awards:
       — see data/terms.yaml.
   - name: "Expedition Challenge Award"
     earned:
-      - "TBD — displaced from Year 2, Term 3 when that term became Paddle Sports Staged Activity Badge (Stage 1); not yet re-slotted (see data/terms.yaml)"
+      - "Passive — not tied to any specific term"
     notes: >-
-      Its Cycle 2 / senior-roles refresher was previously planned for
-      Year 4, Term 3; dropped along with the rest of Year 4 when the
-      programme moved to 3 years (see data/terms.yaml).
+      Requires a two-day expedition/exploration with 3+ other Scouts
+      including a night away, active participation in planning/training,
+      navigating/cooking/completing a task during it, and an individual
+      report within three weeks. The core activity is covered by the
+      standing summer Camp and/or the autumn Grimsdyke Challenge Hike (an
+      additional real event the group uses) — both already involve a night
+      away and the right shape of activity. The individual report
+      requirement doesn't yet have a dedicated moment to produce it — that's
+      a genuine gap, not yet covered anywhere. Previously displaced from
+      Year 2, Term 3 when that term became Paddle Sports Staged Activity
+      Badge (Stage 1); its Cycle 2/senior-roles refresher was separately
+      planned for Year 4, Term 3 and dropped along with the rest of Year 4
+      — see data/terms.yaml.
   - name: "Skills Challenge Award"
     earned:
-      - "TBD — pending Year 3 replan; previously Year 3, Term 1, removed along with the rest of Year 3's stale pre-redesign data (see data/terms.yaml)"
+      - "Year 3, Term 1"
   - name: "Teamwork Challenge Award"
     earned:
       - "Passive — not tied to any specific term"
@@ -113,7 +137,15 @@ challenge_awards:
       is delivered by filler-sessions/teamwork-challenge-award.md.
   - name: "Personal Challenge Award"
     earned:
-      - "TBD — pending Year 3 replan; previously Year 3, Term 3, removed along with the rest of Year 3's stale pre-redesign data (see data/terms.yaml)"
+      - "Passive — discussed each term rather than via a dedicated term"
+    notes: >-
+      Requires completing two personal challenges agreed with a leader (one
+      chosen by the Scout, one by the leader), different from any done for
+      the Beaver/Cub versions. Rather than a dedicated term, this needs a
+      standing termly reminder for both Scouts and leaders — agreeing or
+      revisiting challenges is easy to let slip without a regular prompt.
+      Previously pending Year 3 replan (was Year 3, Term 3 in the removed
+      pre-redesign data) — see data/terms.yaml.
 
 activity_badges:
   - name: "Environmental Conservation Activity Badge"
@@ -134,8 +166,27 @@ activity_badges:
     earned: "Year 1, Term 3"
   - name: "Communicator Activity Badge"
     earned: "TBD — pending Year 3 replan; previously Year 3, Term 2, removed along with the rest of Year 3's stale pre-redesign data (see data/terms.yaml)"
+  - name: "Global Issues Activity Badge"
+    earned: "Year 2, Term 3"
+    notes: >-
+      Corrects a long-standing naming error: the catalogue previously
+      listed this as "Global Issues Challenge Award", which isn't a real
+      Scout Association badge — see the NAMING CORRECTION note at the top
+      of this file. Resolves the displacement from Year 1, Term 2.
   - name: "Master at Arms Activity Badge (Air Rifle / Pistol Shooting)"
-    earned: "TBD — pending Year 3 replan; previously Year 3, Term 3, removed along with the rest of Year 3's stale pre-redesign data (see data/terms.yaml)"
+    earned: "Passive — not tied to any specific term"
+    notes: >-
+      Requires at least six training sessions in a relevant activity
+      (fencing, shooting, or archery) showing improved technique, learning
+      and following the activity's safety rules, and taking part in an
+      officially supervised contest with instructor feedback afterwards
+      (holders of the NSRA Youth Proficiency Scheme in Air Rifle/Air Pistol
+      earn it automatically). The safety-rules requirement is delivered by
+      filler-sessions/master-at-arms-activity-badge.md; the six training
+      sessions and the supervised contest are covered passively by the
+      group's recurring air rifle/pistol shooting sessions during terms.
+      Previously pending Year 3 replan (was Year 3, Term 1 in the removed
+      pre-redesign data) — see data/terms.yaml.
 
 staged_activity_badges:
   - name: "Nights Away Staged Activity Badge"

@@ -5,8 +5,15 @@
 # NOTE: Year 1, Term 2's original content ("Global Citizens & Conservation" --
 # Global Issues Challenge Award + Environmental Conservation Activity Badge) was
 # displaced when the World Challenge Award moved into Term 1, and later when
-# Term 2 itself became the Emergency Aid term. It hasn't been re-slotted
-# anywhere yet -- TBD.
+# Term 2 itself became the Emergency Aid term.
+#
+# RESOLVED: "Global Issues Challenge Award" turned out to be a naming error --
+# it isn't a real Scout Association Challenge Award (there are only 9 for the
+# Scouts section: Adventure, World, Creative, Expedition, Outdoor, Personal,
+# Skills, Team Leader, Teamwork). It was most likely always meant to be the
+# real "Global Issues Activity Badge" instead, now correctly named and
+# re-slotted into Year 2, Term 3 (see below). Environmental Conservation
+# Activity Badge is still displaced -- TBD.
 #
 # NOTE: Year 1, Term 3's original content ("Pioneering & Outdoor Survival" --
 # Pioneer Activity Badge + Paddle Sports Activity Badge, plus Adventure Challenge
@@ -27,34 +34,47 @@
 # filler-sessions/outdoor-challenge-award/README.md). This is a deliberate,
 # settled decision, not something left open.
 #
-# REMOVED (pending replan): Year 3's three terms used to appear below, but
-# they were pre-redesign leftovers from the original Google Doc import and
-# had never actually been revisited -- Term 2 still listed "Teamwork
-# Challenge Award" as a dedicated term badge despite that award being made
-# permanently passive (see RESOLVED note above), and Term 1 duplicated Chef
-# Activity Badge and Emergency Aid Staged Activity Badge (Stage 3/4) from
-# Year 1 without that being a deliberate decision. Rather than keep stale,
-# known-wrong placeholder data in the timeline, Year 3 has been removed
-# entirely from this file. It'll be added back only once it's actually
-# replanned, the same way Year 1 and Year 2 were -- see data/awards.yaml
-# for what happened to the badges that only had a home in the old Year 3
-# (Skills Challenge Award, Personal Challenge Award, Communicator Activity
-# Badge, Master at Arms Activity Badge).
+# RESOLVED: Team Leader Challenge Award, Personal Challenge Award, and
+# Expedition Challenge Award (all previously displaced/TBD) are now also
+# passive, alongside Outdoor/Adventure/Teamwork above -- but each in its own
+# way rather than via a filler-sessions/ file. See data/awards.yaml for how
+# each is actually covered: termly leader review for Team Leader and
+# Personal; the standing summer Camp plus the autumn Grimsdyke Challenge
+# Hike for Expedition.
 #
-# Year 1, Term 2 and Term 3, and all of Year 2, below are framework-only so far
-# (theme, core goals, badge) -- no year-<N>/term-<N>/ session files have been
-# built out yet for any of them.
+# Year 3's three terms used to appear below as pre-redesign leftovers from
+# the original Google Doc import that had never actually been revisited --
+# Term 2 listed "Teamwork Challenge Award" as a dedicated term badge despite
+# that award being made permanently passive, and Term 1 duplicated Chef
+# Activity Badge and Emergency Aid Staged Activity Badge (Stage 3/4) from
+# Year 1. All three were removed entirely rather than kept as stale,
+# known-wrong placeholder data.
+#
+# RESOLVED (partially): Year 3, Term 1 has now been re-added below with
+# Skills Challenge Award as its focus badge -- fitting back into its
+# original slot from the old pre-redesign plan, now properly verified
+# against the real badge requirements. Year 3, Terms 2 and 3 are still
+# pending replan. Of the badges that only had a home in the old, removed
+# Year 3 data, Personal Challenge Award and Master at Arms Activity Badge
+# are now covered elsewhere (see data/awards.yaml); Communicator Activity
+# Badge is still flagged "pending Year 3 replan".
+#
+# Year 1, Term 2 and Term 3, all of Year 2, and Year 3 Term 1, below are
+# framework-only so far (theme, core goals, badge) -- no year-<N>/term-<N>/
+# session files have been built out yet for any of them.
 #
 # NOTE: Year 2's original content was displaced when Term 1 became Creative
 # Challenge Award, Term 2 became Pioneer Activity Badge, and Term 3 became
-# Paddle Sports. Displaced and not yet re-slotted: Team Leader Challenge Award
-# and Navigator Staged Activity Badge (Stage 3/4) from the old Term 1;
-# Scientist Activity Badge or Artist Activity Badge from the old Term 2
-# (Creative Challenge Award itself just relocated from Term 2 to Term 1, so
-# it isn't displaced); Expedition Challenge Award and Hiker Activity Badge
-# from the old Term 3. Also corrected: "Paddle Sports Activity Badge" doesn't
-# exist as a flat activity badge -- it's the "Paddle Sports Staged Activity
-# Badge" (Stages 1-4+), same pattern as Emergency Aid/Navigator.
+# Paddle Sports. Displaced and not yet re-slotted: Navigator Staged Activity
+# Badge (Stage 3/4) from the old Term 1 (Team Leader Challenge Award from
+# that same term is now resolved to passive, see above); Scientist Activity
+# Badge or Artist Activity Badge from the old Term 2 (Creative Challenge
+# Award itself just relocated from Term 2 to Term 1, so it isn't displaced);
+# Hiker Activity Badge from the old Term 3 (Expedition Challenge Award from
+# that same term is now resolved to passive, see above). Also corrected:
+# "Paddle Sports Activity Badge" doesn't exist as a flat activity badge --
+# it's the "Paddle Sports Staged Activity Badge" (Stages 1-4+), same pattern
+# as Emergency Aid/Navigator.
 #
 # PIVOT: the programme moved from a 4-year, 12-term plan to a 3-year, 9-term
 # plan. Year 4 (Terms 10-12) is removed outright, not re-slotted -- it was
@@ -69,16 +89,15 @@
 # personal milestones, whenever that happens to fall, rather than at a
 # single end-of-programme ceremony.
 #
-# VACATED (needs a new focus badge): Year 2, Term 3 ("On the Water" --
-# Paddle Sports Staged Activity Badge, Stage 1) has been removed below.
-# Paddle Sports moved to passive -- see filler-sessions/
-# paddle-sports-staged-activity-badge.md and the MOVED TO PASSIVE note at
-# the top of data/awards.yaml -- because the group already runs paddle
-# sports content every summer term regardless, via the standing Time on the
-# Water optional-progression slot/External Activity booking, so a whole
-# dedicated term for it was redundant. Unlike Year 3's removal above, this
-# is a single vacated term, not a whole year: it needs a new theme and focus
-# badge, not yet decided.
+# RESOLVED: Year 2, Term 3 ("On the Water" -- Paddle Sports Staged Activity
+# Badge, Stage 1) was vacated when Paddle Sports moved to passive -- see
+# filler-sessions/paddle-sports-staged-activity-badge.md and the MOVED TO
+# PASSIVE note at the top of data/awards.yaml. It has now been re-slotted
+# below with Global Issues Activity Badge (see the first NOTE above) --
+# there was no real 9th/10th Challenge Award left over to fill it once Team
+# Leader, Expedition, Personal, and Master at Arms all moved to passive
+# treatment, so it's an Activity Badge rather than a Challenge Award, unlike
+# Year 1 Term 1 and Year 2 Term 1's Challenge-Award terms.
 
 terms:
   - year: 1
@@ -147,6 +166,37 @@ terms:
       lashings.
     badges_earned:
       - "Pioneer Activity Badge"
+    optional_progression:
+      - "Nights Away (+2)"
+      - "Hikes Away (+1)"
+
+  - year: 2
+    term: 3
+    season: Summer
+    theme: "Global Issues"
+    core_goals: >-
+      Tracing where clothing and belongings are made, researching a recent
+      natural disaster and how the Troop could help, exploring how an
+      international sporting event contributes to peace and understanding,
+      sharing an international health issue creatively, and comparing rights
+      in the UK with those of a Scout in another country.
+    badges_earned:
+      - "Global Issues Activity Badge"
+    optional_progression:
+      - "Nights Away (+2)"
+      - "Time on the Water"
+
+  - year: 3
+    term: 1
+    season: Autumn
+    theme: "Skills & Self-Reliance"
+    core_goals: >-
+      Regular physical activity over four to six weeks with a progress
+      record, researching the risks of smoking/alcohol/drugs alongside diet,
+      hydration, and sleep, learning and practising a practical life skill,
+      and taking part in problem-solving activities.
+    badges_earned:
+      - "Skills Challenge Award"
     optional_progression:
       - "Nights Away (+2)"
       - "Hikes Away (+1)"

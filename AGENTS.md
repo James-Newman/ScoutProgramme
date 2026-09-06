@@ -18,21 +18,26 @@ See `README.md` for the full directory layout. In short:
   out one term at a time. **`year-1/term-1/` (World Challenge Award), `year-1/term-2/`
   (Emergency Aid Staged Activity Badge, Stage 3 — framework only so far),
   `year-1/term-3/` (Chef Activity Badge — framework only so far), `year-2/term-1/`
-  (Creative Challenge Award — framework only so far), and `year-2/term-2/` (Pioneer
-  Activity Badge — framework only so far)** are built out to date. Each term
-  aims to complete exactly one badge in full, from a standing start, within that
-  single term — not spread across multiple terms. Year 2, Term 3 doesn't currently
-  exist (its old badge, Paddle Sports, moved to passive — see below — leaving it
-  without a focus badge), and neither does Year 3 (its old data was a stale
-  pre-redesign leftover, removed until it's genuinely replanned) — see
-  `data/terms.yaml` for both.
-- Some badges are deliberately **never** a dedicated focus-badge term at all — the
-  group decided Outdoor Challenge Award, Adventure Challenge Award, Teamwork
-  Challenge Award, and Paddle Sports Staged Activity Badge (Stage 1) should be
-  earned passively instead, accumulated across many terms via camps, hikes, and the
-  standing fixed slots every term already has, plus a handful of standalone sessions
-  in `filler-sessions/`. Don't propose turning one of these four into a term — that
-  redesign already happened and was deliberate.
+  (Creative Challenge Award — framework only so far), `year-2/term-2/` (Pioneer
+  Activity Badge — framework only so far), `year-2/term-3/` (Global Issues Activity
+  Badge — framework only so far), and `year-3/term-1/` (Skills Challenge Award —
+  framework only so far)** are built out to date. Each term aims to complete exactly
+  one badge in full, from a standing start, within that single term — not spread
+  across multiple terms. Year 3, Terms 2 and 3 don't currently exist (their old data
+  was a stale pre-redesign leftover, removed until genuinely replanned) — see
+  `data/terms.yaml`.
+- Some badges are deliberately **never** a dedicated focus-badge term at all, each
+  covered a different way — the group decided Outdoor Challenge Award, Adventure
+  Challenge Award, Teamwork Challenge Award, Paddle Sports Staged Activity Badge
+  (Stage 1), and Master at Arms Activity Badge (Air Rifle / Pistol Shooting) should
+  be earned passively instead, accumulated across many terms via camps, hikes, and
+  the standing fixed slots every term already has, plus a handful of standalone
+  sessions in `filler-sessions/`. Expedition Challenge Award is passive too, but via
+  the standing summer Camp and/or the autumn Grimsdyke Challenge Hike rather than a
+  filler session. Team Leader Challenge Award and Personal Challenge Award are
+  passive via termly leader review/discussion instead of a session at all. Don't
+  propose turning any of these back into a dedicated term — that redesign already
+  happened and was deliberate. See `data/awards.yaml` for how each is covered.
 
 ## The most important rule: keep data and docs in sync, always
 
@@ -109,11 +114,15 @@ completes a full, real Scout Activity Badge in a single sitting. Before adding o
 
 **Passive-progress badges** (`filler-sessions/outdoor-challenge-award/`,
 `adventure-challenge-award.md`, `teamwork-challenge-award.md`,
-`paddle-sports-staged-activity-badge.md`) — for badges the group
-has decided are earned passively across many terms rather than in one sitting or one
-term (currently Outdoor, Adventure, and Teamwork Challenge Awards, and Paddle Sports
-Staged Activity Badge Stage 1). Each session here
-covers one or a few requirements, not the whole badge, and is explicit about which
+`paddle-sports-staged-activity-badge.md`, `master-at-arms-activity-badge.md`) — for
+badges the group has decided are earned passively across many terms rather than in
+one sitting or one term (currently Outdoor, Adventure, and Teamwork Challenge
+Awards, Paddle Sports Staged Activity Badge Stage 1, and Master at Arms Activity
+Badge). Not every passive badge gets a file here, though — Team Leader Challenge
+Award and Personal Challenge Award are passive via termly leader review instead, and
+Expedition Challenge Award via the standing summer Camp/Grimsdyke Challenge Hike;
+none of the three need a dedicated session. Each file that does exist here covers one
+or a few requirements, not the whole badge, and is explicit about which
 requirements accumulate elsewhere (standing fixed slots, other terms) with no
 dedicated session at all. Multi-file badges (like Outdoor) get their own subdirectory
 with a `README.md` mapping every requirement to a session or a standing slot. Header
