@@ -68,6 +68,17 @@
 # each Scout individually as they complete the required Challenge Awards and
 # personal milestones, whenever that happens to fall, rather than at a
 # single end-of-programme ceremony.
+#
+# VACATED (needs a new focus badge): Year 2, Term 3 ("On the Water" --
+# Paddle Sports Staged Activity Badge, Stage 1) has been removed below.
+# Paddle Sports moved to passive -- see filler-sessions/
+# paddle-sports-staged-activity-badge.md and the MOVED TO PASSIVE note at
+# the top of data/awards.yaml -- because the group already runs paddle
+# sports content every summer term regardless, via the standing Time on the
+# Water optional-progression slot/External Activity booking, so a whole
+# dedicated term for it was redundant. Unlike Year 3's removal above, this
+# is a single vacated term, not a whole year: it needs a new theme and focus
+# badge, not yet decided.
 
 terms:
   - year: 1
@@ -139,18 +150,3 @@ terms:
     optional_progression:
       - "Nights Away (+2)"
       - "Hikes Away (+1)"
-
-  - year: 2
-    term: 3
-    season: Summer
-    theme: "On the Water"
-    core_goals: >-
-      Identifying different paddle craft, naming safe local canoeing/kayaking
-      locations, a warm-up activity, dressing appropriately with a buoyancy
-      aid, and a taster session covering equipment, getting in and out
-      safely, balancing, and manoeuvring.
-    badges_earned:
-      - "Paddle Sports Staged Activity Badge (Stage 1)"
-    optional_progression:
-      - "Nights Away (+2)"
-      - "Time on the Water"

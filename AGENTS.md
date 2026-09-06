@@ -18,17 +18,21 @@ See `README.md` for the full directory layout. In short:
   out one term at a time. **`year-1/term-1/` (World Challenge Award), `year-1/term-2/`
   (Emergency Aid Staged Activity Badge, Stage 3 — framework only so far),
   `year-1/term-3/` (Chef Activity Badge — framework only so far), `year-2/term-1/`
-  (Creative Challenge Award — framework only so far), `year-2/term-2/` (Pioneer
-  Activity Badge — framework only so far), and `year-2/term-3/` (Paddle Sports Staged
-  Activity Badge, Stage 1 — framework only so far)** are built out to date. Each term
+  (Creative Challenge Award — framework only so far), and `year-2/term-2/` (Pioneer
+  Activity Badge — framework only so far)** are built out to date. Each term
   aims to complete exactly one badge in full, from a standing start, within that
-  single term — not spread across multiple terms.
+  single term — not spread across multiple terms. Year 2, Term 3 doesn't currently
+  exist (its old badge, Paddle Sports, moved to passive — see below — leaving it
+  without a focus badge), and neither does Year 3 (its old data was a stale
+  pre-redesign leftover, removed until it's genuinely replanned) — see
+  `data/terms.yaml` for both.
 - Some badges are deliberately **never** a dedicated focus-badge term at all — the
-  group decided Outdoor Challenge Award, Adventure Challenge Award, and Teamwork
-  Challenge Award should be earned passively instead, accumulated across many terms
-  via camps, hikes, and the standing fixed slots every term already has, plus a
-  handful of standalone sessions in `filler-sessions/`. Don't propose turning one of
-  these three into a term — that redesign already happened and was deliberate.
+  group decided Outdoor Challenge Award, Adventure Challenge Award, Teamwork
+  Challenge Award, and Paddle Sports Staged Activity Badge (Stage 1) should be
+  earned passively instead, accumulated across many terms via camps, hikes, and the
+  standing fixed slots every term already has, plus a handful of standalone sessions
+  in `filler-sessions/`. Don't propose turning one of these four into a term — that
+  redesign already happened and was deliberate.
 
 ## The most important rule: keep data and docs in sync, always
 
@@ -104,9 +108,11 @@ completes a full, real Scout Activity Badge in a single sitting. Before adding o
   instead of the term-specific `Term:`/`Fits the term because:` fields.
 
 **Passive-progress badges** (`filler-sessions/outdoor-challenge-award/`,
-`adventure-challenge-award.md`, `teamwork-challenge-award.md`) — for badges the group
+`adventure-challenge-award.md`, `teamwork-challenge-award.md`,
+`paddle-sports-staged-activity-badge.md`) — for badges the group
 has decided are earned passively across many terms rather than in one sitting or one
-term (currently Outdoor, Adventure, and Teamwork Challenge Awards). Each session here
+term (currently Outdoor, Adventure, and Teamwork Challenge Awards, and Paddle Sports
+Staged Activity Badge Stage 1). Each session here
 covers one or a few requirements, not the whole badge, and is explicit about which
 requirements accumulate elsewhere (standing fixed slots, other terms) with no
 dedicated session at all. Multi-file badges (like Outdoor) get their own subdirectory

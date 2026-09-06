@@ -19,6 +19,14 @@
 # Badge. Unlike the Year 4 drop above, these aren't being removed from the
 # programme -- Year 3 still exists conceptually, it just hasn't been
 # replanned yet.
+#
+# MOVED TO PASSIVE: Paddle Sports Staged Activity Badge (Stage 1) was Year
+# 2, Term 3's dedicated focus badge; it's now passive instead (see
+# filler-sessions/paddle-sports-staged-activity-badge.md), because the
+# group already runs paddle sports content every summer term regardless of
+# any dedicated badge term. Year 2, Term 3 has been removed from
+# data/terms.yaml as a result -- it needs a new focus badge, not yet
+# decided (see the note there).
 
 top_award:
   name: "Chief Scout's Gold Award"
@@ -145,13 +153,20 @@ staged_activity_badges:
   - name: "Navigator Staged Activity Badge (Stage 3/4)"
     earned: "TBD — displaced from Year 2, Term 1 when that term became the Creative Challenge Award term; not yet re-slotted (see data/terms.yaml)"
   - name: "Paddle Sports Staged Activity Badge (Stage 1)"
-    earned: "Year 2, Term 3"
+    earned: "Passive — not tied to any specific term"
     notes: >-
-      Resolves a TBD flag left in data/terms.yaml (previously mis-recorded
-      as a flat "Paddle Sports Activity Badge" displaced from Year 1, Term
-      3 — that badge doesn't exist; it's a staged badge, and Stage 1 is
-      the natural starting stage with no prior paddle sports experience
-      assumed). Distinct from the Time on the Water Staged Activity Badge
-      above, which is attendance-based rather than skill-based.
+      Never a dedicated focus-badge term. Three of its five requirements
+      (craft types, local venues, dress/buoyancy aid) are delivered by
+      filler-sessions/paddle-sports-staged-activity-badge.md; the other two
+      (the warm-up activity and the on-water taster session) need real
+      water access, which every summer term already provides via the
+      standing Time on the Water optional-progression slot/External
+      Activity booking — so they're covered passively whenever that
+      recurring opportunity happens to be a paddle sports session.
+      Previously a dedicated Year 2, Term 3 focus badge; moved to passive
+      because the group already runs paddle sports content every summer
+      term regardless, so a whole term dedicated to it was redundant — see
+      data/terms.yaml. Distinct from the Time on the Water Staged Activity
+      Badge above, which is attendance-based rather than skill-based.
   - name: "Emergency Aid Staged Activity Badge (Stage 3)"
     earned: "Year 1, Term 2"
