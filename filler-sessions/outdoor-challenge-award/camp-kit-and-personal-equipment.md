@@ -1,10 +1,10 @@
 # Camp Kit & Personal Equipment
 
-**Term:** Year 1, Term 2 — Campcraft & Outdoor Skills
+**Badge:** Outdoor Challenge Award — partial progress, not a complete badge. See [`README.md`](README.md) for the full requirement map; the rest accumulate passively via every term's standing Camp and Night Hike.
 
-**Fits the term because:** before Scouts can pitch a tent or cook on camp, they need to know what to bring and how to carry it — the practical starting point for the term's campcraft focus.
+**Why this works as a filler:** before Scouts can pitch a tent or cook on camp, they need to know what to bring and how to carry it — a good early slot ahead of whichever camp comes next.
 
-**Badge focus:** Outdoor Challenge Award optional extra — rucksack packing. It's one of the "complete at least four" tasks, alongside the menu planning at [Camp](camp.md) and the campfire entertainment and backwoods meal in [Fire Safety & Camp Cooking Prep](fire-safety-and-camp-cooking.md) — four extras in total this term.
+**Requirement this session covers:** an optional extra — rucksack packing. It's one of the "complete at least four" tasks, alongside menu planning at camp and the campfire entertainment/backwoods meal in [Fire Safety & Camp Cooking Prep](fire-safety-and-camp-cooking.md).
 
 > "Show how to pack a rucksack correctly, with appropriate kit for the camp or event."
 
@@ -52,7 +52,7 @@ Run this as a mock formal inspection, played for laughs — a leader takes on an
 
 ### Patrol kit checklist (10 min)
 
-Each patrol writes up their own kit checklist for the weekend camp on a single sheet, splitting who's bringing shared items (stove, first aid kit, tent poles) so nothing gets duplicated or missed. Hand these in — they get handed back for the final kit check on arrival at [Camp](camp.md).
+Each patrol writes up their own kit checklist for the next camp on a single sheet, splitting who's bringing shared items (stove, first aid kit, tent poles) so nothing gets duplicated or missed. Hand these in — they get handed back for the final kit check on arrival at camp.
 
 ### Close (10 min)
 

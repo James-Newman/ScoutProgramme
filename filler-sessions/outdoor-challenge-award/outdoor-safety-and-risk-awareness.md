@@ -1,10 +1,10 @@
 # Outdoor Safety & Risk Awareness
 
-**Term:** Year 1, Term 2 — Campcraft & Outdoor Skills
+**Badge:** Outdoor Challenge Award — partial progress, not a complete badge. See [`README.md`](README.md) for the full requirement map; the rest accumulate passively via every term's standing Camp and Night Hike.
 
-**Fits the term because:** outdoor safety is the third of the term's stated core goals, and sits alongside tent pitching and hygiene as the foundation for everything Scouts do outdoors this term and beyond. This session also carries the general safety induction (buddy system, what to do if lost) that used to sit in the opening session — it fits better here, alongside the rest of the term's safety content.
+**Why this works as a filler:** outdoor safety is foundational to everything Scouts do outdoors — this session also carries a general safety induction (buddy system, what to do if lost), which is worth teaching early in any term regardless of that term's own focus badge. Best slotted in shortly before a Night Hike or Camp so it's fresh.
 
-**Badge focus:** Outdoor Challenge Award requirement — accidents and incidents.
+**Requirement this session covers:** accidents and incidents.
 
 > "Find out what accidents and incidents can happen outdoors or during your camp. Show how you would deal with them."
 
@@ -38,7 +38,7 @@ No performing required — this runs as a set of small-group card tasks with the
 
 ### First aid kit Kim's game (25 min)
 
-[First aid kit Kim's game](https://www.scouts.org.uk/activities/first-aid-kit-catch-up/) — lay out the contents of a first aid kit on a tray, cover it after a set viewing time, and have patrols write down everything they remember. This activity is explicitly designed to run in the weeks leading up to a camp or night away, and this session sits just before the term's [Night Hike](night-hike.md).
+[First aid kit Kim's game](https://www.scouts.org.uk/activities/first-aid-kit-catch-up/) — lay out the contents of a first aid kit on a tray, cover it after a set viewing time, and have patrols write down everything they remember. This activity is explicitly designed to run in the weeks leading up to a camp or night away, so aim to slot this session in shortly before one.
 
 **Materials:** first aid kit and contents, tray, cover sheet. Use [`first-aid-kit-checklist.md`](../../resources/first-aid-kit-checklist.md) as the tray contents/answer key.
 
@@ -64,5 +64,5 @@ Notices, thought for the week, home.
 
 ## Notes
 
-- This session sits right before the [Night Hike](night-hike.md) so the buddy system and STOP mnemonic are fresh when they're actually needed outdoors, in the dark.
-- Leaders should note engagement with the first aid and scenario activities — combined with how Scouts actually apply the buddy system and STOP mnemonic on the Night Hike and at [Camp](camp.md), this is the evidence for the accidents-and-incidents requirement.
+- Slot this session in shortly before a Night Hike so the buddy system and STOP mnemonic are fresh when they're actually needed outdoors, in the dark.
+- Leaders should note engagement with the first aid and scenario activities — combined with how Scouts actually apply the buddy system and STOP mnemonic on a Night Hike and at Camp, this is the evidence for the accidents-and-incidents requirement.

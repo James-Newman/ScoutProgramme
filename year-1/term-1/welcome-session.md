@@ -4,7 +4,7 @@
 
 **Fits the term because:** every term opens the same way — a welcome, an icebreaker, the group setting its own expectations, and Scouts choosing how to spend the rest of the evening. Nothing here is specific to Community & Global Citizenship, which is why this session is designed to be reused unchanged (bar the term name above) as the opening session of any future term.
 
-**Badge focus:** none — this session is social and administrative, not badge-linked.
+**Badge focus:** none for this term's own focus badge — but the icebreaker and the "agree own rules" block are the standing home for two Teamwork Challenge Award requirements that accumulate passively across every term regardless of theme (see [`filler-sessions/teamwork-challenge-award.md`](../../filler-sessions/teamwork-challenge-award.md)).
 
 ## Running order
 
@@ -24,11 +24,11 @@ Notices, patrol flags up, opening. Reaffirm or reform patrols here if needed (a 
 
 ### Icebreaker game (20 min)
 
-Any icebreaker the group hasn't played recently works here — [Try the human knot game](https://www.scouts.org.uk/activities/try-the-human-knot-game/) is a reliable default (patrols stand in a circle, grab two different hands across the circle, then untangle without letting go, run patrol vs. patrol as a race), but swap in whatever's fresh for this particular group of Scouts.
+Any icebreaker the group hasn't played recently works here — [Try the human knot game](https://www.scouts.org.uk/activities/try-the-human-knot-game/) is a reliable default (patrols stand in a circle, grab two different hands across the circle, then untangle without letting go, run patrol vs. patrol as a race), but swap in whatever's fresh for this particular group of Scouts. Genuinely varying it term to term is what makes it count as a new team-building activity towards the Teamwork Challenge Award.
 
 ### Scouts agree their own rules (25 min)
 
-In patrols, ask each Scout to suggest one rule or expectation for how they'll treat each other and behave this term — keep the prompt open ("what's one thing that would make this term better if everyone stuck to it?") rather than leading with topics yourself. Patrols narrow their suggestions down to their top three and write them on a sheet, then present them to the room. Combine the common threads across patrols into one shared list on a flip chart — doesn't need to be fancy — and read it back as the group's own agreement for the term. Keep it visible somewhere in the meeting place for the rest of the term as a point of reference.
+In patrols, ask each Scout to suggest one rule or expectation for how they'll treat each other and behave this term — keep the prompt open ("what's one thing that would make this term better if everyone stuck to it?") rather than leading with topics yourself. Patrols narrow their suggestions down to their top three and write them on a sheet, then present them to the room. Combine the common threads across patrols into one shared list on a flip chart — doesn't need to be fancy — and read it back as the group's own agreement for the term. Keep it visible somewhere in the meeting place for the rest of the term as a point of reference. This block is also a Patrol/Troop Forum — every Scout presenting their patrol's suggestions to the room counts as expressing their views on an item being discussed, towards the Teamwork Challenge Award.
 
 **Materials:** paper/flip chart per patrol, pens.
 
@@ -45,3 +45,4 @@ Notices, thought for the week, home.
 ## Notes
 
 - This session is designed to be copied into any future term's opening slot with only the term name in the header changed — none of the content here is specific to this term's theme.
+- Leaders should note who genuinely participated in the "agree own rules" forum and whether the icebreaker was new to the group, as the evidence for the two passive Teamwork Challenge Award requirements this session carries.

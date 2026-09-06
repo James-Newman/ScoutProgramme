@@ -1,10 +1,10 @@
 # Campsite Selection
 
-**Term:** Year 1, Term 2 — Campcraft & Outdoor Skills
+**Badge:** Outdoor Challenge Award — partial progress, not a complete badge. See [`README.md`](README.md) for the full requirement map; the rest accumulate passively via every term's standing Camp and Night Hike.
 
-**Fits the term because:** before a patrol can lay out a whole site, they need to be able to judge whether the ground itself is any good — this session is the prep work for [Site Layout & Design](site-layout-design.md) the following week.
+**Why this works as a filler:** before a patrol can lay out a whole site, they need to be able to judge whether the ground itself is any good — this session is the prep work for [Site Layout & Design](site-layout-design.md), ideally slotted in the session or two before it.
 
-**Badge focus:** no new requirement this session — it builds the judgement that [Site Layout & Design](site-layout-design.md) then applies for the sign-off.
+**Requirement this session covers:** none directly — it builds the judgement that [Site Layout & Design](site-layout-design.md) then applies for the sign-off.
 
 ## Running order
 
@@ -42,7 +42,7 @@ In pairs, Scouts sort a shuffled deck of laminated site photo cards into "good p
 
 ### Field walk: pick your spot (35 min)
 
-Take the whole group outside — the meeting field, a garden, or a nearby green space. Each patrol walks the space and picks a spot they'd pitch on for real, then has to justify it to a leader on the spot: why here and not ten metres over there? This is the first time this term the selection judgement gets applied to real ground rather than a photo, feeding straight into next week's [Site Layout & Design](site-layout-design.md).
+Take the whole group outside — the meeting field, a garden, or a nearby green space. Each patrol walks the space and picks a spot they'd pitch on for real, then has to justify it to a leader on the spot: why here and not ten metres over there? This is where the selection judgement gets applied to real ground rather than a photo, feeding straight into [Site Layout & Design](site-layout-design.md) whenever that's next slotted in.
 
 ### Compare and debate (15 min)
 

@@ -1,10 +1,10 @@
 # Camp Hygiene & Food Safety
 
-**Term:** Year 1, Term 2 — Campcraft & Outdoor Skills
+**Badge:** Outdoor Challenge Award — partial progress, not a complete badge. See [`README.md`](README.md) for the full requirement map; the rest accumulate passively via every term's standing Camp and Night Hike.
 
-**Fits the term because:** hygiene is one of the term's three stated core goals alongside tent pitching and outdoor safety, and it's easy to skip in favour of the more exciting practical skills — this session makes sure it doesn't get missed.
+**Why this works as a filler:** hygiene is easy to skip in favour of more exciting practical skills, so it's worth its own dedicated slot rather than a rushed mention elsewhere — a self-contained session that fits into any term.
 
-**Badge focus:** Outdoor Challenge Award requirement — personal and campsite hygiene.
+**Requirement this session covers:** personal and campsite hygiene.
 
 > "Find out why personal and campsite hygiene is important. What should you do to be hygienic?"
 
@@ -61,5 +61,5 @@ Notices, thought for the week, home.
 ## Notes
 
 - Needs a UV lamp and fluorescent lotion/powder for the hand-washing game — check with the district or a local supplier if the group doesn't own one.
-- This is a good session to also confirm any dietary requirements or allergies ahead of the menu planning that happens on arrival at [Camp](camp.md).
+- This is a good session to also confirm any dietary requirements or allergies ahead of menu planning for whichever camp comes next.
 - Leaders should note engagement with the hygiene discussion and quiz — the requirement is explaining hygiene practices, which this session's content already evidences.

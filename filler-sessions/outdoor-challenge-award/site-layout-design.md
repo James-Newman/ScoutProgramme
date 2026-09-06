@@ -1,10 +1,10 @@
 # Site Layout & Design
 
-**Term:** Year 1, Term 2 — Campcraft & Outdoor Skills
+**Badge:** Outdoor Challenge Award — partial progress, not a complete badge. See [`README.md`](README.md) for the full requirement map; the rest accumulate passively via every term's standing Camp and Night Hike.
 
-**Fits the term because:** pitching a single tent is only half the skill — this session scales that up to laying out a whole patrol site, applying last week's ground-selection judgement from [Campsite Selection](campsite-selection.md) to what Scouts will actually do at the weekend camp.
+**Why this works as a filler:** pitching a single tent is only half the skill — this session scales that up to laying out a whole patrol site, applying the ground-selection judgement from [Campsite Selection](campsite-selection.md) to what Scouts will do at their next camp. Best slotted in not long before an actual camp, so the thinking is fresh.
 
-**Badge focus:** Outdoor Challenge Award requirement — lead, or help lead, a well-organised site.
+**Requirement this session covers:** lead, or help lead, a well-organised site.
 
 > "Lead, or help to lead, a group of Scouts to set up a well-organised site. It should include sleeping tents, food and equipment stores, a fire or stove, kitchen and eating area."
 
@@ -17,7 +17,7 @@
 | 0:20–0:55 | 35 min | Design your site |
 | 0:55–1:20 | 25 min | Site inspectors |
 | 1:20–1:35 | 15 min | Scale it up |
-| 1:35–1:50 | 15 min | Weekend camp preview |
+| 1:35–1:50 | 15 min | Upcoming camp preview |
 | 1:50–2:00 | 10 min | Close |
 
 ## Session detail
@@ -46,9 +46,9 @@ Each patrol presents their layout to the room. One patrol per round plays "site 
 
 Push each patrol's layout further: what would change if it rained overnight, if the group was twice the size, or if the fire had to move because of wind direction? A quick round of "what would you change" per patrol, verbally, no redrawing needed.
 
-### Weekend camp preview (15 min)
+### Upcoming camp preview (15 min)
 
-If the actual weekend camp site is known, show real photos or a map of it now and talk through how today's layout thinking will apply there. If it isn't known yet, use this time to answer any lingering questions from the design task instead.
+If there's a camp coming up and its site is known, show real photos or a map of it now and talk through how today's layout thinking will apply there. If there isn't one lined up yet, use this time to answer any lingering questions from the design task instead.
 
 ### Close (10 min)
 

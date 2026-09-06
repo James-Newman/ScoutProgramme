@@ -1,10 +1,10 @@
 # Tent Pitching
 
-**Term:** Year 1, Term 2 — Campcraft & Outdoor Skills
+**Badge:** Outdoor Challenge Award — partial progress, not a complete badge. See [`README.md`](README.md) for the full requirement map; the rest accumulate passively via every term's standing Camp and Night Hike.
 
-**Fits the term because:** tent pitching is the term's headline campcraft skill, and this is where it's built and proven for real, outdoors, ahead of the weekend camp. A single simple requirement doesn't need a separate theory week and a separate practical week, so both live in this one session — a short recap up front, then straight outdoors.
+**Why this works as a filler:** tent pitching is a single, simple requirement — it doesn't need a separate theory week and a separate practical week, so both live in this one session: a short recap up front, then straight outdoors. Slot it into any term with outdoor space and reasonable weather.
 
-**Badge focus:** Outdoor Challenge Award requirement — pitch and strike a tent. This session is where it's practically demonstrated and signed off.
+**Requirement this session covers:** pitch and strike a tent. This session is where it's practically demonstrated and signed off.
 
 > "With others, pitch and strike your tent."
 

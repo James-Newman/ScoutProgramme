@@ -4,7 +4,7 @@
 
 **Fits the term because:** it deliberately doesn't. This slot is a booked, external, purely-for-fun activity that's unrelated to the term's theme or badge work — a break from scouting content, not an extension of it. What gets booked varies term to term: paddleboarding, a hired climbing wall, volleyball courts, an escape room, ice skating, bowling, and so on.
 
-**Badge focus:** none, by design. If whatever's booked happens to carry its own activity badge, that's a bonus, not the reason for booking it.
+**Badge focus:** none, by design, for this term's own focus badge. If whatever's booked happens to carry its own activity badge, that's a bonus, not the reason for booking it — but whatever gets booked does count towards the Adventure Challenge Award's "four different adventurous activities" tally (see [`filler-sessions/adventure-challenge-award.md`](../../filler-sessions/adventure-challenge-award.md)), which accumulates passively across every term's External Activity regardless of theme.
 
 This is a placeholder — the actual activity, venue, and running order depend entirely on what's booked for this particular term, so there's no fixed content here to plan around in advance.
 
@@ -19,3 +19,4 @@ This is a placeholder — the actual activity, venue, and running order depend e
 
 - Replace this file's content once the term's activity is confirmed, rather than trying to plan it generically in advance.
 - Not tied to the term's theme or badge work — that's intentional.
+- Leaders should log which activity gets booked and whether it's new to each Scout, as the evidence for the Adventure Challenge Award's activity tally.

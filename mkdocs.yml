@@ -38,6 +38,7 @@ nav:
   - Programme overview:
       - Timeline: docs/timeline.md
       - Awards summary: docs/awards-summary.md
+      - "Little O (placeholder, Autumn terms)": little-o-orienteering.md
   - Year 1:
       - Term 1 — Community & Global Citizenship:
           - Overview: year-1/term-1/overview.md
@@ -53,20 +54,10 @@ nav:
           - 10. External Activity: year-1/term-1/external-activity.md
           - 11. Camp: year-1/term-1/camp.md
           - 12. End of Term Fun & Games: year-1/term-1/end-of-term-fun-and-games.md
-      - Term 2 — Campcraft & Outdoor Skills (status TBD):
+      - Term 2 — First Aid & Emergency Response (framework only):
           - Overview: year-1/term-2/overview.md
-          - 1. Welcome Session: year-1/term-2/welcome-session.md
-          - 2. Camp Kit & Personal Equipment: year-1/term-2/camp-kit-and-personal-equipment.md
-          - 3. Tent Pitching: year-1/term-2/tent-pitching.md
-          - 4. Campsite Selection: year-1/term-2/campsite-selection.md
-          - 5. Site Layout & Design: year-1/term-2/site-layout-design.md
-          - 6. Outdoor Safety & Risk Awareness: year-1/term-2/outdoor-safety-and-risk-awareness.md
-          - 7. Night Hike: year-1/term-2/night-hike.md
-          - 8. Camp Hygiene & Food Safety: year-1/term-2/camp-hygiene-and-food-safety.md
-          - 9. Fire Safety & Camp Cooking Prep: year-1/term-2/fire-safety-and-camp-cooking.md
-          - 10. External Activity: year-1/term-2/external-activity.md
-          - 11. Camp: year-1/term-2/camp.md
-          - 12. End of Term Fun & Games: year-1/term-2/end-of-term-fun-and-games.md
+      - Term 3 — Fire & Cooking (framework only):
+          - Overview: year-1/term-3/overview.md
   - Resources:
       - Index: resources/README.md
       - Kit list bingo cards: resources/kit-list-bingo-cards.md
@@ -86,10 +77,22 @@ nav:
       - Contacting Scouts abroad guide: resources/contacting-scouts-abroad-guide.md
   - Filler sessions:
       - Index: filler-sessions/README.md
-      - Writer: filler-sessions/writer.md
-      - Entertainer: filler-sessions/entertainer.md
-      - Media Relations & Marketing: filler-sessions/media-relations-and-marketing.md
-      - Air Spotter: filler-sessions/air-spotter.md
-      - Local Knowledge: filler-sessions/local-knowledge.md
-      - Naturalist: filler-sessions/naturalist.md
-      - World Faiths: filler-sessions/world-faiths.md
+      - Complete in one sitting:
+          - Writer: filler-sessions/writer.md
+          - Entertainer: filler-sessions/entertainer.md
+          - Media Relations & Marketing: filler-sessions/media-relations-and-marketing.md
+          - Air Spotter: filler-sessions/air-spotter.md
+          - Local Knowledge: filler-sessions/local-knowledge.md
+          - Naturalist: filler-sessions/naturalist.md
+          - World Faiths: filler-sessions/world-faiths.md
+      - Passive progress (accumulated across many terms):
+          - Outdoor Challenge Award — Index: filler-sessions/outdoor-challenge-award/README.md
+          - Outdoor — Tent Pitching: filler-sessions/outdoor-challenge-award/tent-pitching.md
+          - Outdoor — Campsite Selection: filler-sessions/outdoor-challenge-award/campsite-selection.md
+          - Outdoor — Site Layout & Design: filler-sessions/outdoor-challenge-award/site-layout-design.md
+          - Outdoor — Camp Hygiene & Food Safety: filler-sessions/outdoor-challenge-award/camp-hygiene-and-food-safety.md
+          - Outdoor — Outdoor Safety & Risk Awareness: filler-sessions/outdoor-challenge-award/outdoor-safety-and-risk-awareness.md
+          - Outdoor — Fire Safety & Camp Cooking Prep: filler-sessions/outdoor-challenge-award/fire-safety-and-camp-cooking.md
+          - Outdoor — Camp Kit & Personal Equipment: filler-sessions/outdoor-challenge-award/camp-kit-and-personal-equipment.md
+          - Adventure Challenge Award: filler-sessions/adventure-challenge-award.md
+          - Teamwork Challenge Award: filler-sessions/teamwork-challenge-award.md

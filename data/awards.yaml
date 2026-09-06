@@ -25,21 +25,32 @@ challenge_awards:
       Naturalist) instead of new World Challenge Award content.
   - name: "Outdoor Challenge Award"
     earned:
-      - "Year 1, Term 2"
+      - "Passive — not tied to any specific term"
     notes: >-
-      All fixed requirements are covered in Year 1, Term 2 (see
-      year-1/term-2/) except Nights Away, which is an explicitly
+      Never a dedicated focus-badge term. Earned across many terms via
+      filler-sessions/outdoor-challenge-award/ (skill-teaching sessions
+      slotted in wherever a term has room) plus the standing Camp/Night
+      Hike/Welcome/External Activity guidance documented in AGENTS.md.
+      See filler-sessions/outdoor-challenge-award/README.md for the
+      full requirement map. Nights Away specifically is an explicitly
       cumulative requirement (at least eight nights away, four camping)
-      that no single term can complete alone — it continues
-      accumulating via each term's camp and crosses the threshold
-      around Year 2, Term 1.
+      that crosses the threshold around Year 2, Term 1 regardless.
   - name: "Global Issues Challenge Award"
     earned:
       - "TBD — displaced from Year 1, Term 2 when the World Challenge Award and Outdoor Challenge Award moved terms; not yet re-slotted (see data/terms.yaml)"
       - "Year 4, Term 2 (Cycle 2 refresher)"
   - name: "Adventure Challenge Award"
     earned:
-      - "Year 1, Term 3"
+      - "Passive — not tied to any specific term"
+    notes: >-
+      Never a dedicated focus-badge term. The "four different adventurous
+      activities" requirement accumulates via every term's standing
+      External Activity slot; the reflective requirements are delivered
+      by filler-sessions/adventure-challenge-award.md whenever a Scout
+      has enough External Activities behind them. Previously assigned to
+      Year 1, Term 3 ("Pioneering & Outdoor Survival") before that term
+      became the Chef Activity Badge term — see the note in
+      data/terms.yaml.
   - name: "Team Leader Challenge Award"
     earned:
       - "Year 2, Term 1"
@@ -55,7 +66,16 @@ challenge_awards:
       - "Year 3, Term 1"
   - name: "Teamwork Challenge Award"
     earned:
-      - "Year 3, Term 2"
+      - "Passive — not tied to any specific term"
+    notes: >-
+      Never a dedicated focus-badge term. Three of its four requirements
+      accumulate via every term's standing Welcome Session (regular
+      patrol activities, a varied icebreaker, and the "agree own rules"
+      block counting as a Patrol/Troop Forum); the reflective requirement
+      is delivered by filler-sessions/teamwork-challenge-award.md.
+      Year 3, Term 2's data/terms.yaml entry still lists this as a
+      dedicated term badge from before this redesign — that entry needs
+      a new focus badge whenever Year 3 gets built out; not yet resolved.
   - name: "Personal Challenge Award"
     earned:
       - "Year 3, Term 3"
@@ -64,15 +84,22 @@ activity_badges:
   - name: "Environmental Conservation Activity Badge"
     earned: "TBD — displaced from Year 1, Term 2; not yet re-slotted (see data/terms.yaml)"
   - name: "Pioneer Activity Badge"
-    earned: "Year 1, Term 3"
+    earned: "TBD — displaced from Year 1, Term 3 when that term became the Chef Activity Badge term; not yet re-slotted (see data/terms.yaml)"
   - name: "Paddle Sports Activity Badge"
-    earned: "Year 1, Term 3"
+    earned: "TBD — displaced from Year 1, Term 3 when that term became the Chef Activity Badge term; not yet re-slotted (see data/terms.yaml)"
   - name: "Scientist Activity Badge or Artist Activity Badge"
     earned: "Year 2, Term 2"
   - name: "Hiker Activity Badge"
     earned: "Year 2, Term 3"
   - name: "Chef Activity Badge"
-    earned: "Year 3, Term 1"
+    earned: "Year 1, Term 3"
+    notes: >-
+      Year 3, Term 1's data/terms.yaml entry ("Practical Skills &
+      Self-Reliance") still lists Chef Activity Badge too, from before
+      this term moved to Year 1. The badge can legitimately be earned
+      twice (once indoors, once outdoors, per its own guidance) so this
+      isn't necessarily wrong, but it hasn't been deliberately decided —
+      revisit when Year 3 gets built out.
   - name: "Communicator Activity Badge"
     earned: "Year 3, Term 2"
   - name: "Master at Arms Activity Badge (Air Rifle / Pistol Shooting)"
@@ -99,5 +126,11 @@ staged_activity_badges:
       sessions.
   - name: "Navigator Staged Activity Badge (Stage 3/4)"
     earned: "Year 2, Term 1"
-  - name: "Emergency Aid Staged Activity Badge (Stage 3/4)"
-    earned: "Year 3, Term 1"
+  - name: "Emergency Aid Staged Activity Badge (Stage 3)"
+    earned: "Year 1, Term 2"
+    notes: >-
+      Year 3, Term 1's data/terms.yaml entry ("Practical Skills &
+      Self-Reliance") still lists "Emergency Aid Staged Activity Badge
+      (Stage 3/4)" from before this term moved to Year 1 — that would
+      now duplicate Stage 3. Year 3, Term 1 likely wants to aim for
+      Stage 4 instead when it's revisited; not yet resolved.

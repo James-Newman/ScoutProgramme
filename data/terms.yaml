@@ -2,17 +2,37 @@
 # Each term is a 12-week framework with a 6-7 week core badge content block,
 # so completion fits within a single term even during shortened school terms.
 
-# NOTE: Year 1, Term 2's previous content ("Global Citizens & Conservation" --
+# NOTE: Year 1, Term 2's original content ("Global Citizens & Conservation" --
 # Global Issues Challenge Award + Environmental Conservation Activity Badge) was
-# displaced when the World Challenge Award moved into Term 1 and the outdoor
-# content moved into Term 2. It hasn't been re-slotted anywhere yet -- TBD.
+# displaced when the World Challenge Award moved into Term 1, and later when
+# Term 2 itself became the Emergency Aid term. It hasn't been re-slotted
+# anywhere yet -- TBD.
 #
-# NOTE: the group is moving away from treating the Outdoor Challenge Award as a
-# dedicated focus-badge term at all -- the plan is to earn it passively through
-# the standing Camp/Night Hike slots every term already has, rather than one
-# term of dedicated tent-pitching/site-layout/fire-safety sessions. Term 2's
-# content (year-1/term-2/) is held as-is for now, unresolved, pending that
-# redesign -- don't treat "Outdoor Challenge Award" below as final.
+# NOTE: Year 1, Term 3's original content ("Pioneering & Outdoor Survival" --
+# Pioneer Activity Badge + Paddle Sports Activity Badge, plus Adventure Challenge
+# Award which is now earned passively anyway) was displaced when Term 3 became
+# the Fire & Cooking / Chef Activity Badge term. Pioneer Activity Badge and
+# Paddle Sports Activity Badge haven't been re-slotted anywhere yet -- TBD. Note
+# that Pioneer Activity Badge's knot-tying content would have been a natural home
+# for the Outdoor Challenge Award's pioneering-gadget requirement (see
+# filler-sessions/outdoor-challenge-award/README.md) -- worth keeping in mind
+# when re-slotting it.
+#
+# RESOLVED: Outdoor Challenge Award, Adventure Challenge Award, and Teamwork
+# Challenge Award are never a dedicated focus-badge term -- the group decided
+# to earn all three passively, accumulated across many terms via the standing
+# Welcome/Night Hike/Camp/External Activity slots every term already has, plus
+# standalone sessions in filler-sessions/ (see filler-sessions/README.md and
+# filler-sessions/outdoor-challenge-award/README.md). This is a deliberate,
+# settled decision, not something left open.
+#
+# STILL OUTSTANDING (not yet touched -- only Year 1 has been revisited so far):
+# Year 3, Term 2 below still lists "Teamwork Challenge Award" as a dedicated
+# term badge, from before this redesign. Needs a new focus badge whenever
+# Year 3 gets built out -- don't treat that entry as current.
+#
+# Year 1, Term 2 and Term 3 below are framework-only so far (theme, core goals,
+# badge) -- no year-<N>/term-<N>/ session files have been built out yet.
 
 terms:
   - year: 1
@@ -31,11 +51,13 @@ terms:
   - year: 1
     term: 2
     season: Spring
-    theme: "Campcraft & Outdoor Skills"
+    theme: "First Aid & Emergency Response"
     core_goals: >-
-      Tent pitching, basic camp hygiene, and outdoor safety.
+      Calling 999, and how to help someone who is unconscious, unconscious and
+      not breathing, bleeding, choking, or having a burn, heat exhaustion,
+      hypothermia, or an asthma attack.
     badges_earned:
-      - "Outdoor Challenge Award"
+      - "Emergency Aid Staged Activity Badge (Stage 3)"
     optional_progression:
       - "Nights Away (+2)"
       - "Hikes Away (+1)"
@@ -43,14 +65,12 @@ terms:
   - year: 1
     term: 3
     season: Summer
-    theme: "Pioneering & Outdoor Survival"
+    theme: "Fire & Cooking"
     core_goals: >-
-      Knot-tying, building simple structures, fire-lighting, outdoor cooking,
-      and summer paddleboarding.
+      Menu planning, shopping and food storage, cooking and serving a
+      two-course meal, and safe clear-up and waste management.
     badges_earned:
-      - "Adventure Challenge Award"
-      - "Pioneer Activity Badge"
-      - "Paddle Sports Activity Badge"
+      - "Chef Activity Badge"
     optional_progression:
       - "Nights Away (+2)"
       - "Time on the Water"

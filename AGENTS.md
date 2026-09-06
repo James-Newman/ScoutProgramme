@@ -15,15 +15,17 @@ See `README.md` for the full directory layout. In short:
 - `data/*.yaml` is the source of truth for the 4-year schedule and award catalogue.
 - `docs/*.md` are rendered, human-readable views of that YAML.
 - `year-<N>/term-<N>/` holds full session-by-session delivery plans for a term, built
-  out one term at a time. **`year-1/term-1/` (World Challenge Award) and
-  `year-1/term-2/` (Outdoor Challenge Award content) are the two terms built out so
-  far** and are the reference examples for how every other term should eventually
-  look. Each term aims to complete exactly one badge in full, from a standing start,
-  within that single term — not spread across multiple terms. Term 2's status is
-  currently unresolved (see the note at the top of `data/terms.yaml`): the group is
-  moving away from Outdoor Challenge Award as a dedicated focus-badge term at all, in
-  favour of earning it passively through every term's standing Camp/Night Hike slots.
-  Don't resolve that redesign unprompted — it's flagged as deliberately held open.
+  out one term at a time. **`year-1/term-1/` (World Challenge Award), `year-1/term-2/`
+  (Emergency Aid Staged Activity Badge, Stage 3 — framework only so far), and
+  `year-1/term-3/` (Chef Activity Badge — framework only so far)** are built out to
+  date. Each term aims to complete exactly one badge in full, from a standing start,
+  within that single term — not spread across multiple terms.
+- Some badges are deliberately **never** a dedicated focus-badge term at all — the
+  group decided Outdoor Challenge Award, Adventure Challenge Award, and Teamwork
+  Challenge Award should be earned passively instead, accumulated across many terms
+  via camps, hikes, and the standing fixed slots every term already has, plus a
+  handful of standalone sessions in `filler-sessions/`. Don't propose turning one of
+  these three into a term — that redesign already happened and was deliberate.
 
 ## The most important rule: keep data and docs in sync, always
 
@@ -39,32 +41,54 @@ a session that had been deleted) that only surfaced by checking the files direct
 
 ## Every term's 12 weeks follow the same shape
 
-Five fixed slots, same shape every term regardless of theme, plus seven weeks of
-term-specific badge content:
+Five fixed slots every term regardless of theme (six in Autumn terms, see Little O
+below), plus the remaining weeks for term-specific badge content:
 
 1. **Welcome Session** (`welcome-session.md`) — welcome, icebreaker, Scouts agree
    their own rules for the term, Scout-chosen games. Deliberately generic — copy it
-   into a new term unchanged apart from the term name in the header.
+   into a new term unchanged apart from the term name in the header. The "agree own
+   rules" block also counts as one Patrol/Troop Forum occurrence towards the Teamwork
+   Challenge Award (passive requirement 4), and the icebreaker should genuinely vary
+   term to term so it also counts as a new team-building activity (passive
+   requirement 3) — see `filler-sessions/teamwork-challenge-award.md`.
 2. **End of Term Fun & Games** (`end-of-term-fun-and-games.md`) — a short badge
    presentation, then Taskmaster-style challenges. Same reuse convention as Welcome.
 3. **Night Hike** (`night-hike.md`) — term-specific content, different running-order
-   shape (evening/night event, not the standard 2-hour template).
+   shape (evening/night event, not the standard 2-hour template). Should touch on the
+   Countryside Code regardless of the term's own theme — this is the standing home
+   for that Outdoor Challenge Award requirement (passive requirement 5); see
+   `filler-sessions/outdoor-challenge-award/README.md`.
 4. **Camp** (`camp.md`) — term-specific content, multi-day running order (typically
-   Friday evening–Sunday), not the standard 2-hour template.
+   Friday evening–Sunday), not the standard 2-hour template. Should include a site
+   walk on arrival and a leave-no-trace check before departure regardless of the
+   term's own theme — the standing home for two more Outdoor Challenge Award
+   requirements (passive requirements 1 and 8, Nights Away and explore/respect the
+   environment).
 5. **External Activity** (`external-activity.md`) — a booked, purely-for-fun outing
    (paddleboarding, a climbing wall, volleyball, etc.) **deliberately unrelated** to
    the term's theme or badge work. Treat this as a placeholder until a term's actual
-   activity is booked — never fill it with theme content.
+   activity is booked — never fill it with theme content. Whatever gets booked counts
+   towards the Adventure Challenge Award's "four different adventurous activities"
+   tally (passive requirement 1) — see `filler-sessions/adventure-challenge-award.md`.
+6. **Little O** (`little-o-orienteering.md`) — **Autumn terms only** (Term 1 of each
+   Year). A short orienteering session in the local park, separate from the term's
+   badge work. Currently a placeholder (see the file itself) — Year 1, Term 1 shipped
+   before this requirement existed and doesn't have one yet; apply it starting with
+   the next Autumn term built.
 
-Night Hike, Camp, and External Activity each replace that week's normal hall meeting
-rather than sitting alongside it, so the term still totals 12 weeks.
+Night Hike, Camp, External Activity, and Little O each replace that week's normal
+hall meeting rather than sitting alongside it, so the term still totals 12 weeks —
+6 fixed + 6 free in Autumn terms, 5 fixed + 7 free in Spring/Summer terms.
 
 ## Filler sessions
 
 `filler-sessions/` holds standalone sessions for when a term runs longer than its
-planned content. Each one completes a full, real Scout Activity Badge in a single
-sitting, with no term theme and no dependency on any other session — they sit
-entirely outside the 12-term plan. Before adding one:
+planned content. They sit entirely outside the 12-term plan — no term theme, and
+(within a badge) no dependency on any other term's sessions. Two distinct kinds live
+here, and it matters which one a new file is:
+
+**Complete-in-one-sitting badges** (`writer.md`, `entertainer.md`, etc.) — each
+completes a full, real Scout Activity Badge in a single sitting. Before adding one:
 
 - Check it isn't already earned elsewhere in `data/awards.yaml`.
 - Verify every stated requirement can genuinely be completed in one sitting with no
@@ -73,9 +97,20 @@ entirely outside the 12-term plan. Before adding one:
   candidates than it allows. Record which of "no adaptation," "no adaptation but
   needs specific access" (e.g. green space), or "light adaptation" applies, and say
   exactly what the adaptation is if there is one.
-- Follow the same header/quoting/materials conventions as term session files, plus a
-  **Badge:**, **Why it's a good filler:**, and **Adaptation needed:** line instead of
-  the term-specific `Term:`/`Fits the term because:` fields.
+- Header uses **Badge:**, **Why it's a good filler:**, and **Adaptation needed:**
+  instead of the term-specific `Term:`/`Fits the term because:` fields.
+
+**Passive-progress badges** (`filler-sessions/outdoor-challenge-award/`,
+`adventure-challenge-award.md`, `teamwork-challenge-award.md`) — for badges the group
+has decided are earned passively across many terms rather than in one sitting or one
+term (currently Outdoor, Adventure, and Teamwork Challenge Awards). Each session here
+covers one or a few requirements, not the whole badge, and is explicit about which
+requirements accumulate elsewhere (standing fixed slots, other terms) with no
+dedicated session at all. Multi-file badges (like Outdoor) get their own subdirectory
+with a `README.md` mapping every requirement to a session or a standing slot. Header
+uses **Badge:**, **Why this works as a filler:**, and **Requirement(s) this session
+covers:** — and should name which requirements are covered passively elsewhere, not
+just which this file covers.
 
 ## Passive badge completion
 

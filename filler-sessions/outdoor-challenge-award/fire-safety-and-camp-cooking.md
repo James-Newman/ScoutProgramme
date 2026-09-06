@@ -1,10 +1,10 @@
 # Fire Safety & Camp Cooking Prep
 
-**Term:** Year 1, Term 2 — Campcraft & Outdoor Skills
+**Badge:** Outdoor Challenge Award — partial progress, not a complete badge. See [`README.md`](README.md) for the full requirement map; the rest accumulate passively via every term's standing Camp and Night Hike. **This session is also a strong passive-completion match if it lands during a term focused on the Chef Activity Badge** — check that term's overview before assuming this needs its own separate slot.
 
-**Fits the term because:** fire and cooking skills are the last big practical building block before the weekend camp, tying together the safety and hygiene habits built in [Outdoor Safety & Risk Awareness](outdoor-safety-and-risk-awareness.md) and [Camp Hygiene & Food Safety](camp-hygiene-and-food-safety.md).
+**Why this works as a filler:** fire and cooking skills tie together the safety and hygiene habits from [Outdoor Safety & Risk Awareness](outdoor-safety-and-risk-awareness.md) and [Camp Hygiene & Food Safety](camp-hygiene-and-food-safety.md), wherever those land relative to this session.
 
-**Badge focus:** Outdoor Challenge Award requirement — fire/stove and cooking, plus axe/saw/knife safety.
+**Requirements this session covers:** fire/stove and cooking, plus axe/saw/knife safety.
 
 > "Prepare and light an open fire or set up a suitable stove. Use it to prepare, cook and serve a meal safely."
 
@@ -73,5 +73,5 @@ Notices, thought for the week, home.
 
 - Needs an outdoor space cleared for fire lighting, water/fire extinguisher on hand, and a completed fire risk assessment per group policy — plus a knife-use risk assessment covering ratios and supervision for the feathering-sticks block.
 - Check the group's own policy on the minimum age/leader-ratio for knife use before this session — some groups require a specific safety talk to be delivered by a nominated person or hold a minimum badge/training requirement for supervising leaders.
-- The campfire entertainment and backwoods-meal activities count towards the Outdoor Challenge Award's optional-extras list, alongside the rucksack packing from [Camp Kit & Personal Equipment](camp-kit-and-personal-equipment.md) and the menu planning at [Camp](camp.md) — four extras in total this term.
-- Leaders should note who prepared, cooked, and served safely, and who demonstrated safe knife use, during this session — combined with the same skills repeated for real at [Camp](camp.md), this is the evidence for the fire/stove and tool-safety requirements.
+- The campfire entertainment and backwoods-meal activities count towards the Outdoor Challenge Award's optional-extras list ("complete at least four"), alongside the rucksack packing from [Camp Kit & Personal Equipment](camp-kit-and-personal-equipment.md) and menu planning at whichever camp comes next.
+- Leaders should note who prepared, cooked, and served safely, and who demonstrated safe knife use, during this session — combined with the same skills repeated for real at camp, this is the evidence for the fire/stove and tool-safety requirements.
