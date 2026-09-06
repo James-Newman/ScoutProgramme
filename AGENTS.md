@@ -249,7 +249,16 @@ easy to overclaim, so when a term is built (or revisited):
   organising ahead of time in one place — bookings & external arrangements (note
   lead time where a session specifies one, e.g. "2–3 months ahead"), risk
   assessments, content to source/prepare carefully, equipment/materials to source,
-  and stock to order. Regenerate this whenever a session's prep requirements
+  and stock to order. **Stock to order must cover every badge that actually
+  completes in full that term** — not just the term's own focus badge, but any
+  complete-in-one-sitting filler badge used that term (e.g. a Term 1 running
+  World Faiths) and any passive-progress badge that happens to fully complete via
+  that specific term's occurrence of a fixed slot (e.g. Orienteer Activity Badge,
+  which completes in one sitting via Little O). Explicitly exclude passive badges
+  that are only in progress that term (e.g. Master at Arms, which needs multiple
+  Autumn terms' worth of Shooting Sessions) — say so, rather than silently
+  omitting them, so nobody assumes the badge just hasn't been thought about.
+  Regenerate this whenever a session's prep requirements
   change — don't let it drift from what the session files actually say, the same
   discipline as the material inventory.
 - **Before finishing any session, check it against passive-progress badge

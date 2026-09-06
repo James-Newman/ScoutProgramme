@@ -2,7 +2,7 @@
 
 **Term:** Year 1, Term 1 — Community & Global Citizenship
 
-**Fits the term because:** closes the term with a celebration rather than more assessment — the badge work is already done and logged from [Community Research](community-research.md), [Beliefs, Attitudes & Values](beliefs-attitudes-and-values.md), [International Issues & Connections](international-issues-and-connections.md), and [Community & Environmental Action Day](community-and-environmental-action-day.md).
+**Fits the term because:** closes the term with a celebration rather than more assessment — the badge work is already done and logged from [Community Research](community-research.md), [Beliefs, Attitudes & Values](beliefs-attitudes-and-values.md), [International Issues & Connections](international-issues-and-connections.md), [Community & Environmental Action Day](community-and-environmental-action-day.md), [World Faiths](../../filler-sessions/world-faiths.md), and [Little O](little-o-orienteering.md).
 
 **Badge focus:** none — badge sign-off happened earlier in the term; this session just presents what's already been earned.
 
@@ -25,7 +25,7 @@ Notices, patrol flags, opening.
 
 ### Badge presentation (10 min)
 
-Roll call by patrol, each Scout called up individually to receive their World Challenge Award badge and any activity badges earned this term, against the requirement log built up across the term's four core sessions. Any Scout not quite ready can be picked up individually early next term rather than held back here. Patrol applause, a quick photo, then move straight on.
+Roll call by patrol, each Scout called up individually to receive every badge they've completed in full this term: **World Challenge Award** (against the requirement log built up across the term's four core sessions), **World Faiths Activity Badge** (for anyone who completed that filler session), and **Orienteer Activity Badge** (from Little O). **Master at Arms Activity Badge isn't ready to present yet** — this term's Shooting Session is only the first of at least six needed across the three years, so there's nothing to hand out for that one this time. Any Scout not quite ready on the badges above can be picked up individually early next term rather than held back here. Patrol applause, a quick photo, then move straight on.
 
 **Materials:** badges/certificates.
 

@@ -89,7 +89,13 @@ See the [material inventory](#material-inventory) below for the full, quantified
 
 ### Stock to order
 
-- **World Challenge Award badges/certificates** — order from the [Scout Store](https://shop.scouts.org.uk/), confirming stock ahead of [End of Term Fun & Games](end-of-term-fun-and-games.md).
+Three badges complete in full this term — order stock for all three from the [Scout Store](https://shop.scouts.org.uk/) ahead of [End of Term Fun & Games](end-of-term-fun-and-games.md):
+
+- **World Challenge Award** — this term's own focus badge.
+- **World Faiths Activity Badge** — completed via the filler session, for any Scout who took part.
+- **Orienteer Activity Badge** — completed in full via [Little O](little-o-orienteering.md).
+
+**Not this term:** Master at Arms Activity Badge needs at least six Shooting Sessions across all three years, plus a supervised contest — this term's Shooting Session is only the first, so there's no badge to order yet for that one. Don't stock it prematurely.
 
 ## Material inventory
 
@@ -137,7 +143,7 @@ Quantities below assume the group's maximum of 6 patrols; scale down proportiona
 | Item | Quantity | Used in | Resource |
 | :-- | :-- | :-- | :-- |
 | Paper/flip chart, pens | 6 (one per patrol) | [Welcome Session](welcome-session.md) | Source it |
-| Badges/certificates | 1 per Scout earning one | [End of Term Fun & Games](end-of-term-fun-and-games.md) | Order from the [Scout Store](https://shop.scouts.org.uk/) once the World Challenge Award badge is confirmed in stock |
+| Badges/certificates (World Challenge Award, World Faiths Activity Badge, Orienteer Activity Badge) | 1 per Scout earning each | [End of Term Fun & Games](end-of-term-fun-and-games.md) | Order from the [Scout Store](https://shop.scouts.org.uk/) once confirmed in stock — see Advance preparation above |
 | National flag pictures/cards | 1 set | [End of Term Fun & Games](end-of-term-fun-and-games.md) | [`flag-cards.md`](../../resources/flag-cards.md) |
 | Paper, tape, colander, water | Several | [End of Term Fun & Games](end-of-term-fun-and-games.md) | Source it |
 
