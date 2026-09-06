@@ -11,12 +11,13 @@
 # NOTE: Year 1, Term 3's original content ("Pioneering & Outdoor Survival" --
 # Pioneer Activity Badge + Paddle Sports Activity Badge, plus Adventure Challenge
 # Award which is now earned passively anyway) was displaced when Term 3 became
-# the Fire & Cooking / Chef Activity Badge term. Pioneer Activity Badge and
-# Paddle Sports Activity Badge haven't been re-slotted anywhere yet -- TBD. Note
-# that Pioneer Activity Badge's knot-tying content would have been a natural home
-# for the Outdoor Challenge Award's pioneering-gadget requirement (see
-# filler-sessions/outdoor-challenge-award/README.md) -- worth keeping in mind
-# when re-slotting it.
+# the Fire & Cooking / Chef Activity Badge term.
+#
+# RESOLVED: Pioneer Activity Badge and Paddle Sports Activity Badge, left TBD
+# above, have now been re-slotted into Year 2, Term 2 and Year 2, Term 3
+# respectively (see below). Pioneer Activity Badge's knot-tying content is now
+# the home for the Outdoor Challenge Award's pioneering-gadget requirement (see
+# filler-sessions/outdoor-challenge-award/README.md, requirement 7).
 #
 # RESOLVED: Outdoor Challenge Award, Adventure Challenge Award, and Teamwork
 # Challenge Award are never a dedicated focus-badge term -- the group decided
@@ -31,8 +32,20 @@
 # term badge, from before this redesign. Needs a new focus badge whenever
 # Year 3 gets built out -- don't treat that entry as current.
 #
-# Year 1, Term 2 and Term 3 below are framework-only so far (theme, core goals,
-# badge) -- no year-<N>/term-<N>/ session files have been built out yet.
+# Year 1, Term 2 and Term 3, and all of Year 2, below are framework-only so far
+# (theme, core goals, badge) -- no year-<N>/term-<N>/ session files have been
+# built out yet for any of them.
+#
+# NOTE: Year 2's original content was displaced when Term 1 became Creative
+# Challenge Award, Term 2 became Pioneer Activity Badge, and Term 3 became
+# Paddle Sports. Displaced and not yet re-slotted: Team Leader Challenge Award
+# and Navigator Staged Activity Badge (Stage 3/4) from the old Term 1;
+# Scientist Activity Badge or Artist Activity Badge from the old Term 2
+# (Creative Challenge Award itself just relocated from Term 2 to Term 1, so
+# it isn't displaced); Expedition Challenge Award and Hiker Activity Badge
+# from the old Term 3. Also corrected: "Paddle Sports Activity Badge" doesn't
+# exist as a flat activity badge -- it's the "Paddle Sports Staged Activity
+# Badge" (Stages 1-4+), same pattern as Emergency Aid/Navigator.
 
 terms:
   - year: 1
@@ -78,13 +91,14 @@ terms:
   - year: 2
     term: 1
     season: Autumn
-    theme: "Navigation & Patrol Leadership"
+    theme: "Creative Challenge"
     core_goals: >-
-      Map reading, compass work, using OS maps on the night hike, and
-      introducing older Scouts to leading smaller tasks.
+      Trying out four or more creative activities over time, developing a
+      real skill in one of them, building a model from a kit or recycled
+      materials, using social media/the internet creatively and safely, and
+      taking part in a performance.
     badges_earned:
-      - "Team Leader Challenge Award"
-      - "Navigator Staged Activity Badge (Stage 3/4)"
+      - "Creative Challenge Award"
     optional_progression:
       - "Nights Away (+2)"
       - "Hikes Away (+1)"
@@ -92,13 +106,14 @@ terms:
   - year: 2
     term: 2
     season: Spring
-    theme: "Creative Makers & Communicators"
+    theme: "Knots & Pioneering"
     core_goals: >-
-      Problem-solving, building gadgets, simple science experiments, and
-      theatrical/creative communication challenges.
+      A group indoor and outdoor pioneering project, whipping and sealing
+      rope ends, splicing, coiling and storing rope, using levers, pioneering
+      safety, and naming and tying six or more knots and three or more
+      lashings.
     badges_earned:
-      - "Creative Challenge Award"
-      - "Scientist Activity Badge or Artist Activity Badge"
+      - "Pioneer Activity Badge"
     optional_progression:
       - "Nights Away (+2)"
       - "Hikes Away (+1)"
@@ -106,16 +121,16 @@ terms:
   - year: 2
     term: 3
     season: Summer
-    theme: "The Lightweight Expedition"
+    theme: "On the Water"
     core_goals: >-
-      Planning routes, packing rucksacks, country code, and executing a
-      lightweight hike-and-camp weekend.
+      Identifying different paddle craft, naming safe local canoeing/kayaking
+      locations, a warm-up activity, dressing appropriately with a buoyancy
+      aid, and a taster session covering equipment, getting in and out
+      safely, balancing, and manoeuvring.
     badges_earned:
-      - "Expedition Challenge Award"
-      - "Hiker Activity Badge"
+      - "Paddle Sports Staged Activity Badge (Stage 1)"
     optional_progression:
       - "Nights Away (+2)"
-      - "Hikes Away (+2)"
       - "Time on the Water"
 
   - year: 3

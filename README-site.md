@@ -8,6 +8,7 @@ A 4-year plan for a UK Scout Troop (ages 10–14). Scouts work towards real Scou
 - **[Awards summary](docs/awards-summary.md)** — every badge and award a Scout earns by sticking with the programme, in one place.
 - **[Year 1, Term 1](year-1/term-1/overview.md)** — World Challenge Award, the first term planned in full detail, session by session, including what to bring to each one.
 - **[Year 1, Term 2](year-1/term-2/overview.md)** and **[Year 1, Term 3](year-1/term-3/overview.md)** — First Aid (Emergency Aid Stage 3) and Fire & Cooking (Chef Activity Badge). Framework only so far — theme and focus badge decided, session-by-session detail still to come.
+- **[Year 2, Term 1](year-2/term-1/overview.md)**, **[Year 2, Term 2](year-2/term-2/overview.md)**, and **[Year 2, Term 3](year-2/term-3/overview.md)** — Creative Challenge Award, Pioneer Activity Badge, and Paddle Sports Staged Activity Badge (Stage 1). Also framework only so far.
 - **[Resources](resources/README.md)** — printable cards, checklists, and templates for running the sessions.
 - **[Filler sessions](filler-sessions/README.md)** — standalone sessions that sit outside the 12-term plan: some complete a full badge in one sitting, others (Outdoor, Adventure, and Teamwork Challenge Awards) are earned passively across many terms instead of ever getting a dedicated term.
 

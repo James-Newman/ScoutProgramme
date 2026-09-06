@@ -16,10 +16,13 @@ See `README.md` for the full directory layout. In short:
 - `docs/*.md` are rendered, human-readable views of that YAML.
 - `year-<N>/term-<N>/` holds full session-by-session delivery plans for a term, built
   out one term at a time. **`year-1/term-1/` (World Challenge Award), `year-1/term-2/`
-  (Emergency Aid Staged Activity Badge, Stage 3 — framework only so far), and
-  `year-1/term-3/` (Chef Activity Badge — framework only so far)** are built out to
-  date. Each term aims to complete exactly one badge in full, from a standing start,
-  within that single term — not spread across multiple terms.
+  (Emergency Aid Staged Activity Badge, Stage 3 — framework only so far),
+  `year-1/term-3/` (Chef Activity Badge — framework only so far), `year-2/term-1/`
+  (Creative Challenge Award — framework only so far), `year-2/term-2/` (Pioneer
+  Activity Badge — framework only so far), and `year-2/term-3/` (Paddle Sports Staged
+  Activity Badge, Stage 1 — framework only so far)** are built out to date. Each term
+  aims to complete exactly one badge in full, from a standing start, within that
+  single term — not spread across multiple terms.
 - Some badges are deliberately **never** a dedicated focus-badge term at all — the
   group decided Outdoor Challenge Award, Adventure Challenge Award, and Teamwork
   Challenge Award should be earned passively instead, accumulated across many terms

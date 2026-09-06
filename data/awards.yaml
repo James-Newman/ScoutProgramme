@@ -53,14 +53,23 @@ challenge_awards:
       data/terms.yaml.
   - name: "Team Leader Challenge Award"
     earned:
-      - "Year 2, Term 1"
+      - "TBD — displaced from Year 2, Term 1 when that term became the Creative Challenge Award term; not yet re-slotted (see data/terms.yaml)"
   - name: "Creative Challenge Award"
     earned:
-      - "Year 2, Term 2"
+      - "Year 2, Term 1"
+    notes: >-
+      Moved here from Year 2, Term 2 when Term 1 became the Creative
+      Challenge Award term and Term 2 became Pioneer Activity Badge instead
+      — see data/terms.yaml.
   - name: "Expedition Challenge Award"
     earned:
-      - "Year 2, Term 3"
+      - "TBD — displaced from Year 2, Term 3 when that term became Paddle Sports Staged Activity Badge (Stage 1); not yet re-slotted (see data/terms.yaml)"
       - "Year 4, Term 3 (reinforced through senior roles)"
+    notes: >-
+      The Year 4, Term 3 entry was originally a "Cycle 2 / senior roles"
+      refresher of the Year 2, Term 3 award above — now that Year 2, Term 3
+      no longer earns it fresh, whether a standalone Year 4 refresher still
+      makes sense on its own needs revisiting whenever Year 4 gets rebuilt.
   - name: "Skills Challenge Award"
     earned:
       - "Year 3, Term 1"
@@ -84,13 +93,17 @@ activity_badges:
   - name: "Environmental Conservation Activity Badge"
     earned: "TBD — displaced from Year 1, Term 2; not yet re-slotted (see data/terms.yaml)"
   - name: "Pioneer Activity Badge"
-    earned: "TBD — displaced from Year 1, Term 3 when that term became the Chef Activity Badge term; not yet re-slotted (see data/terms.yaml)"
-  - name: "Paddle Sports Activity Badge"
-    earned: "TBD — displaced from Year 1, Term 3 when that term became the Chef Activity Badge term; not yet re-slotted (see data/terms.yaml)"
-  - name: "Scientist Activity Badge or Artist Activity Badge"
     earned: "Year 2, Term 2"
+    notes: >-
+      Displaced from Year 1, Term 3 when that term became the Chef Activity
+      Badge term; now resolved in Year 2, Term 2. Its knot-tying/pioneering-
+      safety content is the natural home for the Outdoor Challenge Award's
+      pioneering-gadget requirement (requirement 7) — see
+      filler-sessions/outdoor-challenge-award/README.md.
+  - name: "Scientist Activity Badge or Artist Activity Badge"
+    earned: "TBD — displaced from Year 2, Term 2 when that term became the Pioneer Activity Badge term; not yet re-slotted (see data/terms.yaml)"
   - name: "Hiker Activity Badge"
-    earned: "Year 2, Term 3"
+    earned: "TBD — displaced from Year 2, Term 3 when that term became Paddle Sports Staged Activity Badge (Stage 1); not yet re-slotted (see data/terms.yaml)"
   - name: "Chef Activity Badge"
     earned: "Year 1, Term 3"
     notes: >-
@@ -125,7 +138,16 @@ staged_activity_badges:
       Accumulated by Scouts who choose to attend the summer paddleboarding
       sessions.
   - name: "Navigator Staged Activity Badge (Stage 3/4)"
-    earned: "Year 2, Term 1"
+    earned: "TBD — displaced from Year 2, Term 1 when that term became the Creative Challenge Award term; not yet re-slotted (see data/terms.yaml)"
+  - name: "Paddle Sports Staged Activity Badge (Stage 1)"
+    earned: "Year 2, Term 3"
+    notes: >-
+      Resolves a TBD flag left in data/terms.yaml (previously mis-recorded
+      as a flat "Paddle Sports Activity Badge" displaced from Year 1, Term
+      3 — that badge doesn't exist; it's a staged badge, and Stage 1 is
+      the natural starting stage with no prior paddle sports experience
+      assumed). Distinct from the Time on the Water Staged Activity Badge
+      above, which is attendance-based rather than skill-based.
   - name: "Emergency Aid Staged Activity Badge (Stage 3)"
     earned: "Year 1, Term 2"
     notes: >-
