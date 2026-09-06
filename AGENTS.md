@@ -59,8 +59,8 @@ a session that had been deleted) that only surfaced by checking the files direct
 
 ## Every term's 12 weeks follow the same shape
 
-Five fixed slots every term regardless of theme (six in Autumn terms, see Little O
-below), plus the remaining weeks for term-specific badge content:
+Five fixed slots every term regardless of theme (seven in Autumn terms, see Little O
+and Shooting Session below), plus the remaining weeks for term-specific badge content:
 
 1. **Welcome Session** (`welcome-session.md`) — welcome, icebreaker, Scouts agree
    their own rules for the term, Scout-chosen games. Deliberately generic — copy it
@@ -94,13 +94,19 @@ below), plus the remaining weeks for term-specific badge content:
    tally (passive requirement 1) — see `filler-sessions/adventure-challenge-award.md`.
 6. **Little O** (`little-o-orienteering.md`) — **Autumn terms only** (Term 1 of each
    Year). A short orienteering session in the local park, separate from the term's
-   badge work. Currently a placeholder (see the file itself) — Year 1, Term 1 shipped
-   before this requirement existed and doesn't have one yet; apply it starting with
-   the next Autumn term built.
+   badge work. Currently a placeholder (see the file itself).
+7. **Shooting Session** (`shooting-session.md`) — **Autumn terms only** (Term 1 of
+   each Year). A supervised air rifle/pistol range visit, deliberately generic like
+   Welcome Session and End of Term Fun & Games — copy it into a new Autumn term
+   unchanged apart from the term name. Every occurrence counts as one of Master at
+   Arms Activity Badge's "at least six sessions" of training (passive requirement 1),
+   and is the standing home for its supervised-contest requirement whenever a
+   particular visit is run as one; see `filler-sessions/master-at-arms-activity-badge.md`.
 
-Night Hike, Camp, External Activity, and Little O each replace that week's normal
-hall meeting rather than sitting alongside it, so the term still totals 12 weeks —
-6 fixed + 6 free in Autumn terms, 5 fixed + 7 free in Spring/Summer terms.
+Night Hike, Camp, External Activity, Little O, and Shooting Session each replace
+that week's normal hall meeting rather than sitting alongside it, so the term still
+totals 12 weeks — 7 fixed + 5 free in Autumn terms, 5 fixed + 7 free in
+Spring/Summer terms.
 
 ## Filler sessions
 

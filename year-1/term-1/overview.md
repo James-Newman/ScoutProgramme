@@ -6,23 +6,23 @@ Core goals: local community research, personal and societal beliefs and attitude
 Badges earned: **World Challenge Award**.
 Optional staged progression: Nights Away (2), Hikes Away (1).
 
-Every term's 12 weeks follow the same shape: one [Welcome Session](welcome-session.md), one [Night Hike](night-hike.md), one [Camp](camp.md), one [External Activity](external-activity.md), and one [End of Term Fun & Games](end-of-term-fun-and-games.md) session — five fixed slots that are the same kind of session every term, regardless of theme — plus seven weeks of the term's own badge content.
+Every term's 12 weeks follow the same shape: one [Welcome Session](welcome-session.md), one [Night Hike](night-hike.md), one [Camp](camp.md), one [External Activity](external-activity.md), and one [End of Term Fun & Games](end-of-term-fun-and-games.md) session — five fixed slots every term, regardless of theme. Autumn terms like this one add two more standing fixed slots on top: a [Little O](little-o-orienteering.md) orienteering session and a [Shooting Session](shooting-session.md) — seven fixed slots in total, leaving five weeks for the term's own badge content.
 
-**This term only needs 4 of those 7 core-content weeks for the World Challenge Award itself.** All 7 of the Award's requirements combine into 4 sessions rather than spreading one requirement per week: [Beliefs, Attitudes & Values](beliefs-attitudes-and-values.md) covers two requirements at once (personal values, then societal attitudes), [International Issues & Connections](international-issues-and-connections.md) covers another two (an international issue, and contact with Scouts abroad), and [Community & Environmental Action Day](community-and-environmental-action-day.md) covers a further two (a volunteering day, an environmental project) by choosing a placement — a nature reserve, a community garden — where one afternoon's work genuinely satisfies both. Only [Community Research](community-research.md) stands alone. That leaves **3 of the term's 7 core-content weeks free**, filled here with three badges from [`filler-sessions/`](../../filler-sessions/README.md) that happen to fit this term's themes well: [World Faiths](../../filler-sessions/world-faiths.md) (beliefs), [Local Knowledge](../../filler-sessions/local-knowledge.md) (community), and [Naturalist](../../filler-sessions/naturalist.md) (environment) — each is a complete, standalone badge in its own right, not part of the World Challenge Award.
+**This term only needs 4 of those 5 core-content weeks for the World Challenge Award itself.** All 7 of the Award's requirements combine into 4 sessions rather than spreading one requirement per week: [Beliefs, Attitudes & Values](beliefs-attitudes-and-values.md) covers two requirements at once (personal values, then societal attitudes), [International Issues & Connections](international-issues-and-connections.md) covers another two (an international issue, and contact with Scouts abroad), and [Community & Environmental Action Day](community-and-environmental-action-day.md) covers a further two (a volunteering day, an environmental project) by choosing a placement — a nature reserve, a community garden — where one afternoon's work genuinely satisfies both. Only [Community Research](community-research.md) stands alone. That leaves **1 of the term's 5 core-content weeks free**, filled here with [World Faiths](../../filler-sessions/world-faiths.md) (beliefs) from [`filler-sessions/`](../../filler-sessions/README.md) — a complete, standalone badge in its own right, not part of the World Challenge Award. Local Knowledge (community) and Naturalist (environment) would also have fit this term's themes well, but adding Little O and Shooting Session only leaves room for one filler this time around — they remain valid choices for a future term with more free weeks.
 
 | # | Session | Badge focus |
 | :-- | :-- | :-- |
 | 1 | [Welcome Session](welcome-session.md) | None — generic opening session, reused every term |
 | 2 | [Community Research](community-research.md) | Local community life research |
-| 3 | [Local Knowledge](../../filler-sessions/local-knowledge.md) *(filler session)* | Local Knowledge Activity Badge — complete in full this session |
-| 4 | [Beliefs, Attitudes & Values](beliefs-attitudes-and-values.md) | Personal beliefs/values, and societal attitudes to gender/disability |
-| 5 | [World Faiths](../../filler-sessions/world-faiths.md) *(filler session)* | World Faiths Activity Badge — complete in full this session |
-| 6 | [Naturalist](../../filler-sessions/naturalist.md) *(filler session)* | Naturalist Activity Badge — complete in full this session |
-| 7 | [Night Hike](night-hike.md) | None — this term's Hikes Away (1) opportunity |
-| 8 | [Community & Environmental Action Day](community-and-environmental-action-day.md) | A day volunteering with a local service; an environmental project |
-| 9 | [International Issues & Connections](international-issues-and-connections.md) | An international issue; contact with Scouts abroad |
-| 10 | [External Activity](external-activity.md) *(placeholder)* | None, by design — a fun outing unrelated to the term's theme |
-| 11 | [Camp](camp.md) | None — this term's Nights Away (2) opportunity; leader-supported, since campcraft skills aren't this term's focus |
+| 3 | [Beliefs, Attitudes & Values](beliefs-attitudes-and-values.md) | Personal beliefs/values, and societal attitudes to gender/disability |
+| 4 | [World Faiths](../../filler-sessions/world-faiths.md) *(filler session)* | World Faiths Activity Badge — complete in full this session |
+| 5 | [Night Hike](night-hike.md) | None — this term's Hikes Away (1) opportunity |
+| 6 | [Community & Environmental Action Day](community-and-environmental-action-day.md) | A day volunteering with a local service; an environmental project |
+| 7 | [International Issues & Connections](international-issues-and-connections.md) | An international issue; contact with Scouts abroad |
+| 8 | [External Activity](external-activity.md) *(placeholder)* | None, by design — a fun outing unrelated to the term's theme |
+| 9 | [Shooting Session](shooting-session.md) | None — Master at Arms Activity Badge training-session tally |
+| 10 | [Camp](camp.md) | None — this term's Nights Away (2) opportunity; leader-supported, since campcraft skills aren't this term's focus |
+| 11 | [Little O](little-o-orienteering.md) *(placeholder)* | None currently mapped — orienteering, details still to work out |
 | 12 | [End of Term Fun & Games](end-of-term-fun-and-games.md) | World Challenge Award presentation |
 
 ## Requirement coverage
@@ -49,7 +49,7 @@ Source: [Scouts World Challenge Award](https://www.scouts.org.uk/scouts/awards/w
 
 The term's focus stays on completing the World Challenge Award in full — but two of this term's sessions happen to advance real requirements of other Scouts-section badges, without any dedicated session time. Neither is fully earned this way; both are genuinely partial, and shouldn't be recorded as completed on the strength of this term alone.
 
-- **Environmental Conservation Activity Badge** (currently displaced/TBD in [`data/awards.yaml`](../../data/awards.yaml)) — [Community & Environmental Action Day](community-and-environmental-action-day.md)'s placement is a real, hands-on conservation activity, which is the spirit of:
+- **Environmental Conservation Activity Badge** (the badge itself is earned in full separately, in [Year 3, Term 3](../../year-3/term-3/overview.md) — see [`data/awards.yaml`](../../data/awards.yaml)) — this term doesn't earn any of it, but [Community & Environmental Action Day](community-and-environmental-action-day.md)'s placement is a real, hands-on conservation activity, which is the spirit of:
   > "Take part in an activity or project that improves local conservation."
   But the badge specifies this should be "a weekend conservation camp" or "spread over at least five weekly sessions" — a single day/half-day placement doesn't clearly meet that duration, so treat this as a head start, not a tick. The badge's other two requirements (finding out about a local environmental issue; running an awareness campaign) aren't covered at all this term.
 - **International Activity Badge** (not currently in this programme at all) — [International Issues & Connections](international-issues-and-connections.md)'s attempt to contact Scouts abroad and report back to the room lines up with one of that badge's four requirements:
@@ -60,7 +60,7 @@ No other session this term showed a clear, defensible overlap with a real Scouts
 
 ## Material inventory
 
-Quantities below assume the group's maximum of 6 patrols; scale down proportionally for a smaller group. Anything not listed (venue, transport, consent forms, risk assessments) is covered in each session's own Notes, not here. [External Activity](external-activity.md) has no fixed materials — it depends entirely on what's booked. Filler-session materials are listed in their own files, linked below.
+Quantities below assume the group's maximum of 6 patrols; scale down proportionally for a smaller group. Anything not listed (venue, transport, consent forms, risk assessments) is covered in each session's own Notes, not here. [External Activity](external-activity.md) has no fixed materials — it depends entirely on what's booked. [Shooting Session](shooting-session.md) has no group-owned materials either — range equipment, ammunition, and eye/ear protection are provided by the instructor/range. [Little O](little-o-orienteering.md) is still a placeholder, so its materials (maps, control cards/punches, whistles) aren't finalised yet. Filler-session materials are listed in their own files, linked below.
 
 ### Research & reflection
 
@@ -70,6 +70,8 @@ Quantities below assume the group's maximum of 6 patrols; scale down proportiona
 | Pre-prepared local information packs (fallback if no internet) | 6 sets | [Community Research](community-research.md) | Source it — genuinely local, no generic version possible |
 | Poster paper/card, pens | 6 sets | [Community Research](community-research.md) | Source it |
 | Paper/journals for personal reflection | 1 per Scout | [Beliefs, Attitudes & Values](beliefs-attitudes-and-values.md) | Source it |
+| Flipchart of words for the relay game, paper and pens per team | 6 sets | [Beliefs, Attitudes & Values](beliefs-attitudes-and-values.md) | Source it |
+| Blindfolds (relay game, round two) | 6 | [Beliefs, Attitudes & Values](beliefs-attitudes-and-values.md) | Source it |
 | Pre-prepared case-study material on gender/disability attitudes (fallback) | 6 sets | [Beliefs, Attitudes & Values](beliefs-attitudes-and-values.md) | Source it |
 | International issue briefing (fallback if no internet) | 1 set | [International Issues & Connections](international-issues-and-connections.md) | [`international-issue-briefing-cards.md`](../../resources/international-issue-briefing-cards.md) |
 | Email/social media access for contacting Scouts abroad | 1 (shared/leader-supervised) | [International Issues & Connections](international-issues-and-connections.md) | [`contacting-scouts-abroad-guide.md`](../../resources/contacting-scouts-abroad-guide.md) |
@@ -99,13 +101,11 @@ Quantities below assume the group's maximum of 6 patrols; scale down proportiona
 
 ### Filler session materials
 
-See each filler session's own file for its full materials list:
+See the filler session's own file for its full materials list:
 
 | Filler session | Materials summary |
 | :-- | :-- |
-| [Local Knowledge](../../filler-sessions/local-knowledge.md) | Printed local street maps (genuinely local — source it) |
 | [World Faiths](../../filler-sessions/world-faiths.md) | A device to show video, or a confirmed guest speaker; a sourced text excerpt |
-| [Naturalist](../../filler-sessions/naturalist.md) | Notebooks/pens, an identification guide or app (optional) |
 
 ## Resources index
 

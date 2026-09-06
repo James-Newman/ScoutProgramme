@@ -2,7 +2,7 @@
 
 **Badge:** [Scouts Master at Arms Activity Badge](https://www.scouts.org.uk/scouts/activity-badges/master-at-arms/) — mostly passive, with one hall session covering safety knowledge.
 
-**Why this works as a filler:** the badge needs at least six training sessions showing improved technique plus an officially supervised contest — both of which the group's recurring air rifle/pistol shooting sessions during terms already provide, with no dedicated badge term needed. This session delivers the one requirement that doesn't need a range at all: learning and demonstrating the safety rules.
+**Why this works as a filler:** the badge needs at least six training sessions showing improved technique plus an officially supervised contest — both of which the standing Shooting Session fixed slot every Autumn term includes already provides, with no separate dedicated badge term needed. This session delivers the one requirement that doesn't need a range at all: learning and demonstrating the safety rules.
 
 **Requirements this session covers:**
 
@@ -10,9 +10,9 @@
 
 **Requirements covered passively elsewhere:**
 
-> "Attend regular training sessions in a relevant activity like fencing, shooting or archery. Show how you've improved in technique. You should train for at least six sessions." — covered by the group's recurring shooting sessions across the term(s) a Scout attends them.
+> "Attend regular training sessions in a relevant activity like fencing, shooting or archery. Show how you've improved in technique. You should train for at least six sessions." — covered by the standing Shooting Session fixed slot (`shooting-session.md`, one per Autumn term, three across the programme), plus any additional shooting sessions the group runs outside that.
 
-> "Take part in your chosen activity at an officially supervised contest. Afterwards, talk to the instructor about your performance and how you can improve." — covered whenever one of those recurring sessions includes a supervised contest.
+> "Take part in your chosen activity at an officially supervised contest. Afterwards, talk to the instructor about your performance and how you can improve." — covered whenever one of those Shooting Sessions is run as a supervised contest rather than plain practice.
 
 Scouts who already hold the NSRA Youth Proficiency Scheme in Air Rifle or Air Pistol earn this badge automatically and don't need any of the above.
 

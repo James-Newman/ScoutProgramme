@@ -245,9 +245,10 @@ activity_badges:
       earn it automatically). The safety-rules requirement is delivered by
       filler-sessions/master-at-arms-activity-badge.md; the six training
       sessions and the supervised contest are covered passively by the
-      group's recurring air rifle/pistol shooting sessions during terms.
-      Previously pending Year 3 replan (was Year 3, Term 1 in the removed
-      pre-redesign data) — see data/terms.yaml.
+      standing Shooting Session fixed slot every Autumn term includes (see
+      AGENTS.md), a supervised air rifle/pistol range visit that recurs once
+      per year across all three years. Previously pending Year 3 replan (was
+      Year 3, Term 1 in the removed pre-redesign data) — see data/terms.yaml.
 
 staged_activity_badges:
   - name: "Nights Away Staged Activity Badge"

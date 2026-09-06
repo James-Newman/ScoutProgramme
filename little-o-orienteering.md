@@ -24,4 +24,4 @@
 ## Notes
 
 - Every Autumn term needs one of these — when a new Autumn term gets built out, copy this file into that term's directory, update the header, and start filling in the sections above.
-- Year 1, Term 1 (the only Autumn term built so far) shipped before this requirement was introduced and doesn't currently include one — retrofitting it would mean displacing one of its existing sessions, so it's flagged here as outstanding rather than forced in. Apply this requirement starting with the next Autumn term built (Year 2, Term 1).
+- Year 1, Term 1 now has its own copy at [`year-1/term-1/little-o-orienteering.md`](year-1/term-1/little-o-orienteering.md) (still a placeholder — the real content is still to work out). This file stays in place as the copy-source template for the next Autumn terms built (Year 2, Term 1 and Year 3, Term 1).
