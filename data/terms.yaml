@@ -27,10 +27,19 @@
 # filler-sessions/outdoor-challenge-award/README.md). This is a deliberate,
 # settled decision, not something left open.
 #
-# STILL OUTSTANDING (not yet touched -- only Year 1 has been revisited so far):
-# Year 3, Term 2 below still lists "Teamwork Challenge Award" as a dedicated
-# term badge, from before this redesign. Needs a new focus badge whenever
-# Year 3 gets built out -- don't treat that entry as current.
+# REMOVED (pending replan): Year 3's three terms used to appear below, but
+# they were pre-redesign leftovers from the original Google Doc import and
+# had never actually been revisited -- Term 2 still listed "Teamwork
+# Challenge Award" as a dedicated term badge despite that award being made
+# permanently passive (see RESOLVED note above), and Term 1 duplicated Chef
+# Activity Badge and Emergency Aid Staged Activity Badge (Stage 3/4) from
+# Year 1 without that being a deliberate decision. Rather than keep stale,
+# known-wrong placeholder data in the timeline, Year 3 has been removed
+# entirely from this file. It'll be added back only once it's actually
+# replanned, the same way Year 1 and Year 2 were -- see data/awards.yaml
+# for what happened to the badges that only had a home in the old Year 3
+# (Skills Challenge Award, Personal Challenge Award, Communicator Activity
+# Badge, Master at Arms Activity Badge).
 #
 # Year 1, Term 2 and Term 3, and all of Year 2, below are framework-only so far
 # (theme, core goals, badge) -- no year-<N>/term-<N>/ session files have been
@@ -142,48 +151,6 @@ terms:
       safely, balancing, and manoeuvring.
     badges_earned:
       - "Paddle Sports Staged Activity Badge (Stage 1)"
-    optional_progression:
-      - "Nights Away (+2)"
-      - "Time on the Water"
-
-  - year: 3
-    term: 1
-    season: Autumn
-    theme: "Practical Skills & Self-Reliance"
-    core_goals: >-
-      First aid scenarios, emergency response, basic DIY/repairs, and
-      cooking on open stoves.
-    badges_earned:
-      - "Skills Challenge Award"
-      - "Chef Activity Badge"
-      - "Emergency Aid Staged Activity Badge (Stage 3/4)"
-    optional_progression:
-      - "Ongoing Nights & Hikes Away"
-
-  - year: 3
-    term: 2
-    season: Spring
-    theme: "Teamwork & Problem Solving"
-    core_goals: >-
-      Cooperative team games, non-verbal communication challenges, and
-      patrol-led mini-projects.
-    badges_earned:
-      - "Teamwork Challenge Award"
-      - "Communicator Activity Badge"
-    optional_progression:
-      - "Nights Away (+2)"
-      - "Hikes Away (+1)"
-
-  - year: 3
-    term: 3
-    season: Summer
-    theme: "Target Sports & Personal Challenge"
-    core_goals: >-
-      Air rifle and pistol marksmanship, range safety discipline, personal
-      scoring targets, and individual challenge goal-setting.
-    badges_earned:
-      - "Personal Challenge Award"
-      - "Master at Arms Activity Badge (Air Rifle / Pistol Shooting)"
     optional_progression:
       - "Nights Away (+2)"
       - "Time on the Water"

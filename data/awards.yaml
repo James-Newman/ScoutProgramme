@@ -9,6 +9,16 @@
 # Award Cycle 2 refreshers that were tied to Year 4. They're removed from
 # this catalogue rather than left as "TBD, not yet re-slotted", since
 # there's no plan to bring them back into a 3-year programme.
+#
+# REMOVED (pending replan): Year 3's three terms were pre-redesign leftovers
+# and have been removed from data/terms.yaml entirely rather than kept as
+# stale placeholders (see the note there). Badges that only had a home in
+# that stale data are flagged "TBD — pending Year 3 replan" below rather
+# than tied to a specific old term number: Skills Challenge Award, Personal
+# Challenge Award, Communicator Activity Badge, Master at Arms Activity
+# Badge. Unlike the Year 4 drop above, these aren't being removed from the
+# programme -- Year 3 still exists conceptually, it just hasn't been
+# replanned yet.
 
 top_award:
   name: "Chief Scout's Gold Award"
@@ -83,7 +93,7 @@ challenge_awards:
       programme moved to 3 years (see data/terms.yaml).
   - name: "Skills Challenge Award"
     earned:
-      - "Year 3, Term 1"
+      - "TBD — pending Year 3 replan; previously Year 3, Term 1, removed along with the rest of Year 3's stale pre-redesign data (see data/terms.yaml)"
   - name: "Teamwork Challenge Award"
     earned:
       - "Passive — not tied to any specific term"
@@ -93,12 +103,9 @@ challenge_awards:
       patrol activities, a varied icebreaker, and the "agree own rules"
       block counting as a Patrol/Troop Forum); the reflective requirement
       is delivered by filler-sessions/teamwork-challenge-award.md.
-      Year 3, Term 2's data/terms.yaml entry still lists this as a
-      dedicated term badge from before this redesign — that entry needs
-      a new focus badge whenever Year 3 gets built out; not yet resolved.
   - name: "Personal Challenge Award"
     earned:
-      - "Year 3, Term 3"
+      - "TBD — pending Year 3 replan; previously Year 3, Term 3, removed along with the rest of Year 3's stale pre-redesign data (see data/terms.yaml)"
 
 activity_badges:
   - name: "Environmental Conservation Activity Badge"
@@ -117,17 +124,10 @@ activity_badges:
     earned: "TBD — displaced from Year 2, Term 3 when that term became Paddle Sports Staged Activity Badge (Stage 1); not yet re-slotted (see data/terms.yaml)"
   - name: "Chef Activity Badge"
     earned: "Year 1, Term 3"
-    notes: >-
-      Year 3, Term 1's data/terms.yaml entry ("Practical Skills &
-      Self-Reliance") still lists Chef Activity Badge too, from before
-      this term moved to Year 1. The badge can legitimately be earned
-      twice (once indoors, once outdoors, per its own guidance) so this
-      isn't necessarily wrong, but it hasn't been deliberately decided —
-      revisit when Year 3 gets built out.
   - name: "Communicator Activity Badge"
-    earned: "Year 3, Term 2"
+    earned: "TBD — pending Year 3 replan; previously Year 3, Term 2, removed along with the rest of Year 3's stale pre-redesign data (see data/terms.yaml)"
   - name: "Master at Arms Activity Badge (Air Rifle / Pistol Shooting)"
-    earned: "Year 3, Term 3"
+    earned: "TBD — pending Year 3 replan; previously Year 3, Term 3, removed along with the rest of Year 3's stale pre-redesign data (see data/terms.yaml)"
 
 staged_activity_badges:
   - name: "Nights Away Staged Activity Badge"
@@ -155,9 +155,3 @@ staged_activity_badges:
       above, which is attendance-based rather than skill-based.
   - name: "Emergency Aid Staged Activity Badge (Stage 3)"
     earned: "Year 1, Term 2"
-    notes: >-
-      Year 3, Term 1's data/terms.yaml entry ("Practical Skills &
-      Self-Reliance") still lists "Emergency Aid Staged Activity Badge
-      (Stage 3/4)" from before this term moved to Year 1 — that would
-      now duplicate Stage 3. Year 3, Term 1 likely wants to aim for
-      Stage 4 instead when it's revisited; not yet resolved.
