@@ -44,11 +44,30 @@
 # flags. Still displaced/TBD after this: Navigator Staged Activity Badge
 # (Stage 3/4), Hiker Activity Badge, and Communicator Activity Badge.
 #
-# GOLD AWARD GAP: with all 9 Challenge Awards now covered (earned or
-# passive), the Chief Scout's Gold Award is close but not fully achievable
-# yet -- Expedition Challenge Award's individual-report requirement still
-# has no dedicated moment to produce it (see its entry below). That's the
-# one remaining blocker.
+# MOVED TO PASSIVE: Navigator Staged Activity Badge (Stage 3/4) is now
+# passive too -- see filler-sessions/navigator-stage-3.md and
+# filler-sessions/navigator-stage-4.md, plus its entry below.
+#
+# MOVED TO COMPLETE-IN-ONE-SITTING FILLER: Communicator Activity Badge is
+# fully completable in a single sitting via Option 3 (Mobile and Internet
+# Communication) -- see filler-sessions/communicator-activity-badge.md.
+# Unlike the passive badges above (which stay in this catalogue because
+# the group's standing terms/hikes/water sessions genuinely guarantee
+# coverage), this badge has been REMOVED from the catalogue entirely,
+# the same way Writer/Entertainer/Media Relations & Marketing/Air
+# Spotter/Local Knowledge/Naturalist/World Faiths already were: it's only
+# earned if a leader chooses to slot the filler session into a term that
+# happens to have a free week, not guaranteed for every Scout. See
+# filler-sessions/README.md.
+#
+# Only Hiker Activity Badge remains displaced/TBD after all of the above.
+#
+# GOLD AWARD GAP: RESOLVED. Expedition Challenge Award's individual-report
+# requirement is now covered -- Scouts who do the hike write it
+# independently in their own time within the three-week window, no
+# dedicated session needed (see its entry below). With all 9 Challenge
+# Awards genuinely covered, the Chief Scout's Gold Award is fully
+# achievable as documented.
 
 top_award:
   name: "Chief Scout's Gold Award"
@@ -57,7 +76,9 @@ top_award:
     Presented to each Scout individually as they complete all required
     Challenge Awards and personal milestones, whenever that happens to
     fall, rather than at a single end-of-programme ceremony. Previously
-    tied to the end of Year 4, Term 3, before Year 4 was dropped.
+    tied to the end of Year 4, Term 3, before Year 4 was dropped. All 9
+    Challenge Awards now have a genuine home (earned or passive) with no
+    outstanding gaps -- see challenge_awards below.
 
 challenge_awards:
   - name: "World Challenge Award"
@@ -128,13 +149,13 @@ challenge_awards:
       report within three weeks. The core activity is covered by the
       standing summer Camp and/or the autumn Grimsdyke Challenge Hike (an
       additional real event the group uses) — both already involve a night
-      away and the right shape of activity. The individual report
-      requirement doesn't yet have a dedicated moment to produce it — that's
-      a genuine gap, not yet covered anywhere. Previously displaced from
-      Year 2, Term 3 when that term became Paddle Sports Staged Activity
-      Badge (Stage 1); its Cycle 2/senior-roles refresher was separately
-      planned for Year 4, Term 3 and dropped along with the rest of Year 4
-      — see data/terms.yaml.
+      away and the right shape of activity. The individual report is
+      written independently by each Scout in their own time after the hike,
+      within the three-week window — no dedicated session needed. Previously
+      displaced from Year 2, Term 3 when that term became Paddle Sports
+      Staged Activity Badge (Stage 1); its Cycle 2/senior-roles refresher
+      was separately planned for Year 4, Term 3 and dropped along with the
+      rest of Year 4 — see data/terms.yaml.
   - name: "Skills Challenge Award"
     earned:
       - "Year 3, Term 1"
@@ -192,8 +213,6 @@ activity_badges:
     earned: "TBD — displaced from Year 2, Term 3 when that term became Paddle Sports Staged Activity Badge (Stage 1); not yet re-slotted (see data/terms.yaml)"
   - name: "Chef Activity Badge"
     earned: "Year 1, Term 3"
-  - name: "Communicator Activity Badge"
-    earned: "TBD — pending Year 3 replan; previously Year 3, Term 2, removed along with the rest of Year 3's stale pre-redesign data (see data/terms.yaml)"
   - name: "Global Issues Activity Badge"
     earned: "Year 2, Term 3"
     notes: >-
@@ -230,7 +249,21 @@ staged_activity_badges:
       Accumulated by Scouts who choose to attend the summer paddleboarding
       sessions.
   - name: "Navigator Staged Activity Badge (Stage 3/4)"
-    earned: "TBD — displaced from Year 2, Term 1 when that term became the Creative Challenge Award term; not yet re-slotted (see data/terms.yaml)"
+    earned: "Passive — not tied to any specific term"
+    notes: >-
+      Never a dedicated focus-badge term. Stage 3's map-reading knowledge
+      (grid references, contours, scale, symbols, kit) is delivered by
+      filler-sessions/navigator-stage-3.md; Stage 4's bearings and advanced
+      map-interpretation knowledge is delivered by
+      filler-sessions/navigator-stage-4.md. Both stages' real navigating
+      requirements (a 5km navigated route for Stage 3; two independent 5km
+      compass routes for Stage 4) need real terrain, which every term's
+      standing Night Hike already provides, plus any optional hikes counted
+      toward Hikes Away — so they're covered passively whenever a Scout
+      takes a genuine navigating turn. Previously displaced from Year 2,
+      Term 1 when that term became the Creative Challenge Award term; moved
+      to passive rather than re-slotted into a dedicated term, since the
+      group already runs the hikes needed regardless — see data/terms.yaml.
   - name: "Paddle Sports Staged Activity Badge (Stage 1)"
     earned: "Passive — not tied to any specific term"
     notes: >-

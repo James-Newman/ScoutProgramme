@@ -55,8 +55,9 @@
 # old pre-redesign plan, now properly verified against the real badge
 # requirements. Of the badges that only had a home in the old, removed
 # Year 3 data, Personal Challenge Award and Master at Arms Activity Badge
-# are now covered elsewhere (see data/awards.yaml); Communicator Activity
-# Badge is still flagged "pending Year 3 replan".
+# are now covered passively elsewhere, and Communicator Activity Badge is
+# now a complete-in-one-sitting filler session instead (see
+# data/awards.yaml and filler-sessions/README.md) -- all resolved.
 #
 # RESOLVED: Year 3, Terms 2 and 3 have now been re-added below too, with
 # Scientist Activity Badge or Artist Activity Badge and Environmental

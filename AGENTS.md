@@ -30,15 +30,20 @@ See `README.md` for the full directory layout. In short:
 - Some badges are deliberately **never** a dedicated focus-badge term at all, each
   covered a different way — the group decided Outdoor Challenge Award, Adventure
   Challenge Award, Teamwork Challenge Award, Paddle Sports Staged Activity Badge
-  (Stage 1), and Master at Arms Activity Badge (Air Rifle / Pistol Shooting) should
-  be earned passively instead, accumulated across many terms via camps, hikes, and
-  the standing fixed slots every term already has, plus a handful of standalone
-  sessions in `filler-sessions/`. Expedition Challenge Award is passive too, but via
-  the standing summer Camp and/or the autumn Grimsdyke Challenge Hike rather than a
-  filler session. Team Leader Challenge Award and Personal Challenge Award are
-  passive via termly leader review/discussion instead of a session at all. Don't
-  propose turning any of these back into a dedicated term — that redesign already
-  happened and was deliberate. See `data/awards.yaml` for how each is covered.
+  (Stage 1), Master at Arms Activity Badge (Air Rifle / Pistol Shooting), and
+  Navigator Staged Activity Badge (Stage 3/4) should be earned passively instead,
+  accumulated across many terms via camps, hikes, and the standing fixed slots every
+  term already has, plus a handful of standalone sessions in `filler-sessions/`.
+  Expedition Challenge Award is passive too, but via the standing summer Camp and/or
+  the autumn Grimsdyke Challenge Hike rather than a filler session, with each Scout
+  writing their own individual report independently afterward. Team Leader Challenge
+  Award and Personal Challenge Award are passive via termly leader review/discussion
+  instead of a session at all. Don't propose turning any of these back into a
+  dedicated term — that redesign already happened and was deliberate. All 9 real
+  Challenge Awards now have a genuine home this way, with no outstanding gaps. See
+  `data/awards.yaml` for how each is covered. Separately, Communicator Activity
+  Badge is a complete-in-one-sitting filler (see below) rather than a guaranteed
+  catalogue badge — it's opportunistic, not structurally guaranteed like the above.
 
 ## The most important rule: keep data and docs in sync, always
 
@@ -70,7 +75,11 @@ below), plus the remaining weeks for term-specific badge content:
    shape (evening/night event, not the standard 2-hour template). Should touch on the
    Countryside Code regardless of the term's own theme — this is the standing home
    for that Outdoor Challenge Award requirement (passive requirement 5); see
-   `filler-sessions/outdoor-challenge-award/README.md`.
+   `filler-sessions/outdoor-challenge-award/README.md`. It's also the standing home
+   for Navigator Staged Activity Badge's real navigated routes (Stage 3's 5km route,
+   Stage 4's two independent 5km compass routes) — whoever plans a Night Hike after
+   the relevant `filler-sessions/navigator-stage-3.md`/`navigator-stage-4.md` session
+   should make sure at least one Scout per patrol gets a genuine navigating turn.
 4. **Camp** (`camp.md`) — term-specific content, multi-day running order (typically
    Friday evening–Sunday), not the standard 2-hour template. Should include a site
    walk on arrival and a leave-no-trace check before departure regardless of the
@@ -100,7 +109,7 @@ planned content. They sit entirely outside the 9-term plan — no term theme, an
 (within a badge) no dependency on any other term's sessions. Two distinct kinds live
 here, and it matters which one a new file is:
 
-**Complete-in-one-sitting badges** (`writer.md`, `entertainer.md`, etc.) — each
+**Complete-in-one-sitting badges** (`writer.md`, `entertainer.md`, `communicator-activity-badge.md`, etc.) — each
 completes a full, real Scout Activity Badge in a single sitting. Before adding one:
 
 - Check it isn't already earned elsewhere in `data/awards.yaml`.
@@ -115,21 +124,25 @@ completes a full, real Scout Activity Badge in a single sitting. Before adding o
 
 **Passive-progress badges** (`filler-sessions/outdoor-challenge-award/`,
 `adventure-challenge-award.md`, `teamwork-challenge-award.md`,
-`paddle-sports-staged-activity-badge.md`, `master-at-arms-activity-badge.md`) — for
+`paddle-sports-staged-activity-badge.md`, `master-at-arms-activity-badge.md`,
+`navigator-stage-3.md`, `navigator-stage-4.md`) — for
 badges the group has decided are earned passively across many terms rather than in
 one sitting or one term (currently Outdoor, Adventure, and Teamwork Challenge
-Awards, Paddle Sports Staged Activity Badge Stage 1, and Master at Arms Activity
-Badge). Not every passive badge gets a file here, though — Team Leader Challenge
-Award and Personal Challenge Award are passive via termly leader review instead, and
-Expedition Challenge Award via the standing summer Camp/Grimsdyke Challenge Hike;
+Awards, Paddle Sports Staged Activity Badge Stage 1, Master at Arms Activity
+Badge, and Navigator Staged Activity Badge Stage 3/4). Not every passive badge gets
+a file here, though — Team Leader Challenge Award and Personal Challenge Award are
+passive via termly leader review instead, and Expedition Challenge Award via the
+standing summer Camp/Grimsdyke Challenge Hike plus an independently-written report;
 none of the three need a dedicated session. Each file that does exist here covers one
 or a few requirements, not the whole badge, and is explicit about which
 requirements accumulate elsewhere (standing fixed slots, other terms) with no
-dedicated session at all. Multi-file badges (like Outdoor) get their own subdirectory
-with a `README.md` mapping every requirement to a session or a standing slot. Header
-uses **Badge:**, **Why this works as a filler:**, and **Requirement(s) this session
-covers:** — and should name which requirements are covered passively elsewhere, not
-just which this file covers.
+dedicated session at all. Multi-file badges (like Outdoor and Navigator) either get
+their own subdirectory with a `README.md` mapping every requirement to a session or
+a standing slot (Outdoor), or — when the split is simple enough to be obvious from
+filenames alone, like Navigator's two stages — just multiple flat files with no
+index needed. Header uses **Badge:**, **Why this works as a filler:**, and
+**Requirement(s) this session covers:** — and should name which requirements are
+covered passively elsewhere, not just which this file covers.
 
 ## Passive badge completion
 

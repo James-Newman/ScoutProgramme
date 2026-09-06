@@ -13,10 +13,13 @@ Because most real Activity Badges are deliberately *not* single-session (they re
 | [Local Knowledge](local-knowledge.md) | Local Knowledge Activity Badge | None |
 | [Naturalist](naturalist.md) | Naturalist Activity Badge | None, provided the meeting place has adjacent green space |
 | [World Faiths](world-faiths.md) | World Faiths Activity Badge | Light — a video tour or guest speaker substitutes for an actual place-of-worship visit |
+| [Communicator](communicator-activity-badge.md) | Communicator Activity Badge | Light — needs existing photos/videos from a past Scouting activity (Scouts' own, or a leader's fallback pack) |
 
-## Why these seven and not others
+## Why these eight and not others
 
-Badges already earned elsewhere in the 3-year plan (see `data/awards.yaml`) were excluded from consideration, along with any badge whose requirements inherently need one of: an external audience or scheduled event (Musician, Circus Skills, My Faith), months of ongoing involvement (DIY, Quartermaster, Instructor), multi-week observation (Meteorologist), specialist equipment and real-world caching (Geocaching), or a mandatory task that depends on something outside the session's control (International's JOTA/JOTI/international-link requirement).
+Badges already earned elsewhere in the 3-year plan (see `data/awards.yaml`) were excluded from consideration, along with any badge whose requirements inherently need one of: an external audience or scheduled event (Musician, Circus Skills, My Faith), months of ongoing involvement (DIY, Quartermaster, Instructor), multi-week observation (Meteorologist), specialist equipment and real-world caching (Geocaching), or a mandatory task that depends on something outside the session's control (International's JOTA/JOTI/international-link requirement). Communicator only qualifies via one of its five options (Mobile and Internet Communication) — the other four (Radio, Codes, Foreign Languages, Translator) fail the same bar for needing a licence/guest/ongoing practice.
+
+Unlike the seven above, Communicator was displaced from a dedicated term rather than never considered for one — see `data/awards.yaml` for that history. It's included here rather than kept in the guaranteed award catalogue precisely because it's opportunistic: a Scout only earns it if a leader slots this session into a free week, not guaranteed like the passive-progress badges below.
 
 ## Using these in a term
 
