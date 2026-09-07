@@ -91,8 +91,8 @@ Quantities below assume the group's maximum of 6 patrols; scale down proportiona
 | :-- | :-- | :-- | :-- |
 | Candles/jars, a compass and magnets, a simple pulley/rope set-up | 1 set | [Science & Art Taster](science-and-art-taster.md) | Source it |
 | Research access (internet or pre-printed briefing notes), poster paper/pens | 6 sets | [Science Behind Scouting](science-behind-scouting-and-illustrate-a-scene.md) | Source it |
-| Experiment-plan template | 1 per Scout | [Plan Your Experiment](plan-your-experiment-and-draw-a-person-or-object.md) | Source it |
-| Whatever each Scout's individual experiment plan calls for | Varies per Scout | [Run Your Experiment](run-your-experiment-and-paint-a-landscape.md) | Source it once plans are signed off |
+| [Experiment-plan template](../../resources/experiment-plan-template.md) | 1 per Scout | [Plan Your Experiment](plan-your-experiment-and-draw-a-person-or-object.md) | [`experiment-plan-template.md`](../../resources/experiment-plan-template.md) |
+| Whatever each Scout's individual [experiment plan](../../resources/experiment-plan-template.md) calls for | Varies per Scout | [Run Your Experiment](run-your-experiment-and-paint-a-landscape.md) | Source it once plans are signed off |
 | Poster paper/card, pens | 1 per Scout | [Present Your Findings](present-your-findings-and-prepare-your-showcase.md) | Source it |
 
 ### Art track

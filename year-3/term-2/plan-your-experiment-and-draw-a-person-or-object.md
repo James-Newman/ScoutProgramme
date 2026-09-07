@@ -29,7 +29,7 @@ Notices, opening, split into Science and Art groups.
 
 Each Scout picks one Scouting activity or hobby to build a real experiment around — testing which tent fabric is most waterproof, which knot holds the most weight before slipping, which fire-lighting method is fastest, or which insulation material keeps water warmest longest. Each Scout writes up a simple experiment plan: what they're testing, what they predict will happen and why, what they'll change, and how they'll measure the result. Plans need adult sign-off before [Run Your Experiment](run-your-experiment-and-paint-a-landscape.md) next session, since materials need to be ready in advance.
 
-**Materials:** experiment-plan template, one per Scout; access to a leader for sign-off discussions.
+**Materials:** [experiment-plan template](../../resources/experiment-plan-template.md), one per Scout; access to a leader for sign-off discussions.
 
 ### Art track: Draw or Paint a Person or Object (90 min)
 

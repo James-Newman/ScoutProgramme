@@ -33,7 +33,7 @@ Quick recap of why warm up and warm down matter, then lead the group through a p
 
 Each Scout brings their progress log from the last four to six weeks and reviews it one-to-one with a leader (or in small groups) — what did they do, how regularly, and what actual improvement shows up (faster, longer, more reps, better technique). Anyone whose log is thin gets a chance to talk through what got in the way, and whether a short extension or a lighter bar for "improvement" is fair given genuine circumstances.
 
-**Materials:** each Scout's own progress log from the last several weeks.
+**Materials:** each Scout's own [progress log](../../resources/physical-activity-progress-log.md) from the last several weeks.
 
 ### Final activity session (40 min)
 

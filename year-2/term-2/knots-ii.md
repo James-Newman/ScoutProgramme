@@ -47,7 +47,7 @@ Teach the timber hitch (attaching a rope to a log or pole for dragging or hoisti
 
 Set up six stations, one per knot taught across this session and [Knots I](knots-i.md). Patrols rotate in small groups, tying the named knot at each station against the clock, checked off by a leader. This is the natural point to sign off each Scout against all six knots.
 
-**Materials:** knot reference cards, one per station.
+**Materials:** [knot reference cards](../../resources/knot-reference-card.md), one per station.
 
 ### Close (10 min)
 

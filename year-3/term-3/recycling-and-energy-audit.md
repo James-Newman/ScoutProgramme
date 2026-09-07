@@ -33,7 +33,7 @@ Explain what to look for: what's currently recycled versus binned, lighting left
 
 In patrols, walk round the meeting place noting what's currently recycled, what waste ends up in general bins that shouldn't, and any obvious energy waste (lights on in empty rooms, doors left open with heating on, and so on).
 
-**Materials:** clipboards, an audit checklist template, one per patrol.
+**Materials:** clipboards, an [audit checklist](../../resources/energy-and-recycling-audit-checklist.md), one per patrol.
 
 ### Design a recycling scheme (30 min)
 

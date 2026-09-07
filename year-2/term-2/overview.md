@@ -85,6 +85,7 @@ Quantities below assume the group's maximum of 6 patrols; scale down proportiona
 | Item | Quantity | Used in | Resource |
 | :-- | :-- | :-- | :-- |
 | Short ropes (~1m), one per Scout | 1 per Scout | [Knots I](knots-i.md), [Knots II](knots-ii.md) | Source it |
+| [Knot reference cards](../../resources/knot-reference-card.md) | 1 per patrol/station | [Knots I](knots-i.md), [Knots II](knots-ii.md) | [`knot-reference-card.md`](../../resources/knot-reference-card.md) |
 | Poles or table legs to tie around | Several | [Knots I](knots-i.md) | Source it |
 | Ropes of two different thicknesses | Several sets | [Knots II](knots-ii.md) | Source it |
 | A log or spar sturdy enough to drag | 1 | [Knots II](knots-ii.md) | Source it |

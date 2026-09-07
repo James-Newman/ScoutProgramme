@@ -33,7 +33,7 @@ As a group, list out the rights Scouts in the UK have — the right to vote (at 
 
 In patrols, choose a different country and research what rights are like there for someone the same age as a Scout — access to education, voting age, gender equality, freedom of expression. Push for genuine variety of countries across patrols, and for specifics over vague impressions.
 
-**Materials:** internet access (phones/tablets/laptops), or pre-printed country-rights briefing notes as a fallback.
+**Materials:** internet access (phones/tablets/laptops), or the [global issues briefing cards](../../resources/global-issues-briefing-cards.md) as a fallback.
 
 ### Scout-to-Scout comparison (30 min)
 

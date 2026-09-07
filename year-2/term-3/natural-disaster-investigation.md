@@ -33,7 +33,7 @@ Each patrol picks one recent natural disaster to investigate — an earthquake, 
 
 Patrols look at photos, news articles, and videos online about their chosen disaster — what happened, where, and its scale and impact.
 
-**Materials:** internet access (phones/tablets/laptops), or pre-printed news article packs as a fallback for patrols without device access.
+**Materials:** internet access (phones/tablets/laptops), or the [global issues briefing cards](../../resources/global-issues-briefing-cards.md) as a fallback for patrols without device access.
 
 ### Five things needed (30 min)
 

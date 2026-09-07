@@ -92,7 +92,7 @@ Quantities below assume the group's maximum of 6 patrols; scale down proportiona
 | Item | Quantity | Used in | Resource |
 | :-- | :-- | :-- | :-- |
 | Internet access (phones/tablets/laptops), or pre-printed local news/council briefing packs | 6 sets | [Environmental Issue Research](environmental-issue-research.md) | Source it |
-| Clipboards, an audit checklist template | 6 sets | [Recycling & Energy Audit](recycling-and-energy-audit.md) | Source it |
+| Clipboards, an [audit checklist](../../resources/energy-and-recycling-audit-checklist.md) | 6 sets | [Recycling & Energy Audit](recycling-and-energy-audit.md) | [`energy-and-recycling-audit-checklist.md`](../../resources/energy-and-recycling-audit-checklist.md) |
 | Paper and pens for drafting; internet access to find contact details | 6 sets | [Campaign: Choose Your Target & Plan](campaign-choose-your-target-and-plan.md) | Source it |
 | Paper and envelopes/printer, or poster/stall materials | 6 sets | [Campaign: Take Action](campaign-take-action.md) | Source it |
 | Litter-pickers, gloves, high-vis vests, refuse sacks, a local area map | 6 sets | [Conservation Project: Wrap-Up & Litter-Pick](conservation-project-wrap-up-and-litter-pick.md) | Source it |

@@ -33,7 +33,7 @@ Each small group picks one international health issue — the badge's own exampl
 
 Groups research their chosen issue: what it is, where it's most prevalent, and what's being done to address it (vaccination campaigns, awareness programmes, medical research).
 
-**Materials:** internet access (phones/tablets/laptops), or pre-printed briefing notes as a fallback.
+**Materials:** internet access (phones/tablets/laptops), or the [global issues briefing cards](../../resources/global-issues-briefing-cards.md) as a fallback.
 
 ### Prepare the creative share (45 min)
 

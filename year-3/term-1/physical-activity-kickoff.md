@@ -38,7 +38,7 @@ Each Scout picks a physical activity to track for the next four to six weeks —
 
 Each Scout sets up a simple way to record their activity — a paper log, a notes app, or a simple app/watch if they already use one. Agree what "improvement" will look like for their chosen activity (faster time, more reps, longer duration, better technique) so the record actually shows progress, not just attendance.
 
-**Materials:** a simple progress-log template, one per Scout.
+**Materials:** a [progress-log template](../../resources/physical-activity-progress-log.md), one per Scout.
 
 ### Get moving (35 min)
 

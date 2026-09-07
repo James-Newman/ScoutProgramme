@@ -39,7 +39,7 @@ As a group, mark every country found on a large wall map or floor map with a pin
 
 In patrols, research why companies choose to manufacture overseas rather than in the UK — labour costs, specialist manufacturing hubs, established supply chains. Each patrol picks one real example item (trainers, phones, t-shirts) and traces its likely journey from raw material to shop shelf.
 
-**Materials:** internet access (phones/tablets), or pre-printed briefing notes on global manufacturing as a fallback.
+**Materials:** internet access (phones/tablets), or the [global issues briefing cards](../../resources/global-issues-briefing-cards.md) as a fallback.
 
 ### Advantages and disadvantages debate (20 min)
 

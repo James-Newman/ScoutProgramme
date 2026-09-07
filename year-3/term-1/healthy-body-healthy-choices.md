@@ -39,7 +39,7 @@ Each group briefly presents their findings to the room — keep it fact-led and 
 
 Teach the basics of a balanced diet (the Eatwell Guide's food groups) and why staying hydrated matters for concentration, energy, and physical performance. A quick sorting game — patrols sort a pile of food/drink cards into food groups, then identify which drinks actually hydrate well versus poorly — makes this practical rather than a lecture.
 
-**Materials:** food and drink sorting cards, an Eatwell Guide poster/printout.
+**Materials:** [food and drink sorting cards](../../resources/food-and-drink-sorting-cards.md), an Eatwell Guide poster/printout.
 
 ### Sleep matters (20 min)
 

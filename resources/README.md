@@ -1,6 +1,6 @@
 # Resources
 
-Printable materials for Year 1's sessions (Term 1 and Term 2) that don't already exist as a ready-made official download. Each file names the session it's for and, where relevant, the real activity it adapts.
+Printable materials for the programme's sessions that don't already exist as a ready-made official download. Each file names the session it's for and, where relevant, the real activity it adapts.
 
 This directory only covers **informational/printable materials** (cards, templates, checklists, posters) — not physical equipment. Tents, mallets, firewood, rucksacks, and similar gear can't be "made"; they need sourcing, and are listed as-is in each term's `overview.md` material inventory.
 
@@ -21,6 +21,12 @@ This directory only covers **informational/printable materials** (cards, templat
 | [`flag-cards.md`](flag-cards.md) | [End of Term Fun & Games](../year-1/term-1/end-of-term-fun-and-games.md) |
 | [`international-issue-briefing-cards.md`](international-issue-briefing-cards.md) | [International Issues & Connections](../year-1/term-1/international-issues-and-connections.md) |
 | [`contacting-scouts-abroad-guide.md`](contacting-scouts-abroad-guide.md) | [International Issues & Connections](../year-1/term-1/international-issues-and-connections.md) |
+| [`knot-reference-card.md`](knot-reference-card.md) | [Knots I](../year-2/term-2/knots-i.md), [Knots II](../year-2/term-2/knots-ii.md) |
+| [`global-issues-briefing-cards.md`](global-issues-briefing-cards.md) | [Clothing & Belongings: Made Where?](../year-2/term-3/clothing-and-belongings-made-where.md), [Natural Disaster Investigation](../year-2/term-3/natural-disaster-investigation.md), [International Sport & Peace](../year-2/term-3/international-sport-and-peace.md), [International Health Issue: Creative Share](../year-2/term-3/international-health-issue-creative-share.md), [Rights Around the World](../year-2/term-3/rights-around-the-world.md) |
+| [`physical-activity-progress-log.md`](physical-activity-progress-log.md) | [Physical Activity Kickoff](../year-3/term-1/physical-activity-kickoff.md), [Physical Activity Check-In & Wrap-Up](../year-3/term-1/physical-activity-check-in-and-wrap-up.md) |
+| [`food-and-drink-sorting-cards.md`](food-and-drink-sorting-cards.md) | [Healthy Body, Healthy Choices](../year-3/term-1/healthy-body-healthy-choices.md) |
+| [`experiment-plan-template.md`](experiment-plan-template.md) | [Plan Your Experiment / Draw a Person or Object](../year-3/term-2/plan-your-experiment-and-draw-a-person-or-object.md), [Run Your Experiment / Paint a Landscape](../year-3/term-2/run-your-experiment-and-paint-a-landscape.md) |
+| [`energy-and-recycling-audit-checklist.md`](energy-and-recycling-audit-checklist.md) | [Recycling & Energy Audit](../year-3/term-3/recycling-and-energy-audit.md) |
 
 ## Real official resources used instead of a local copy
 

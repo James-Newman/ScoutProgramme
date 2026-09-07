@@ -96,12 +96,12 @@ Quantities below assume the group's maximum of 6 patrols; scale down proportiona
 
 | Item | Quantity | Used in | Resource |
 | :-- | :-- | :-- | :-- |
-| A simple progress-log template | 1 per Scout | [Physical Activity Kickoff](physical-activity-kickoff.md) | Source it |
+| [Progress-log template](../../resources/physical-activity-progress-log.md) | 1 per Scout | [Physical Activity Kickoff](physical-activity-kickoff.md) | [`physical-activity-progress-log.md`](../../resources/physical-activity-progress-log.md) |
 | Cones, balls, open space for group activity | 1 set | [Physical Activity Kickoff](physical-activity-kickoff.md), [Physical Activity Check-In & Wrap-Up](physical-activity-check-in-and-wrap-up.md) | Source it |
-| Food and drink sorting cards, an Eatwell Guide poster/printout | 1 set | [Healthy Body, Healthy Choices](healthy-body-healthy-choices.md) | Source it |
+| [Food and drink sorting cards](../../resources/food-and-drink-sorting-cards.md), an Eatwell Guide poster/printout | 1 set | [Healthy Body, Healthy Choices](healthy-body-healthy-choices.md) | [`food-and-drink-sorting-cards.md`](../../resources/food-and-drink-sorting-cards.md) |
 | A bike with a removable wheel, tyre levers, puncture repair kits/spare inner tubes, pumps (enough for small-group practice) | Several sets | [Life Skill: Bike Maintenance & Puncture Repair](life-skill-bike-maintenance-and-puncture-repair.md) | Source it, borrowing from parents |
 | Newspaper, tape, a shallow tray of water, a tennis ball; a lockable puzzle box/clue chain; dry spaghetti, string, marshmallows | 6 sets | [Problem-Solving Challenge Day](problem-solving-challenge-day.md) | Source it |
-| Each Scout's own progress log | 1 per Scout | [Physical Activity Check-In & Wrap-Up](physical-activity-check-in-and-wrap-up.md) | Carried over from [Physical Activity Kickoff](physical-activity-kickoff.md) |
+| Each Scout's own [progress log](../../resources/physical-activity-progress-log.md) | 1 per Scout | [Physical Activity Check-In & Wrap-Up](physical-activity-check-in-and-wrap-up.md) | Carried over from [Physical Activity Kickoff](physical-activity-kickoff.md) |
 
 ### Camping & hiking
 

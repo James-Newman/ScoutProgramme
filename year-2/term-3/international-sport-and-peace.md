@@ -29,7 +29,7 @@ Notices, opening.
 
 In patrols, research one international sporting event — the Olympics, the FIFA World Cup, the Commonwealth Games, or the Paralympics all work well. Find out how many countries take part, where it's next being held, and one notable moment of nations coming together despite political tension (a famous example: North and South Korea marching together at the 2018 Winter Olympics opening ceremony).
 
-**Materials:** internet access (phones/tablets/laptops), or pre-printed briefing notes as a fallback.
+**Materials:** internet access (phones/tablets/laptops), or the [global issues briefing cards](../../resources/global-issues-briefing-cards.md) as a fallback.
 
 ### Opening ceremony moments (20 min)
 

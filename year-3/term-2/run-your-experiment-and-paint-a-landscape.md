@@ -29,7 +29,7 @@ Notices, opening, split into Science and Art groups.
 
 Each Scout runs the experiment they planned in [Plan Your Experiment](plan-your-experiment-and-draw-a-person-or-object.md), using the materials gathered since. Record actual results against the prediction made last session, and — per the requirement's own wording — change one variable and try again at least once (a different fabric, a different knot, a different fire-lighting technique) to see if the result changes.
 
-**Materials:** whatever each Scout's experiment plan calls for — gathered in advance based on last session's sign-off.
+**Materials:** whatever each Scout's [experiment plan](../../resources/experiment-plan-template.md) calls for — gathered in advance based on last session's sign-off.
 
 ### Art track: Paint a Landscape (90 min)
 

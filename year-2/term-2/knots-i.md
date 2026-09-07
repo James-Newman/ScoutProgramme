@@ -41,7 +41,7 @@ Teach the clove hitch (attaching a rope to a pole or post) — useful for starti
 
 Teach the round turn and two half hitches (securely attaching a rope to a post, ring, or spar, taking the load safely) — a slower teach since it has more steps than the previous two. Practice tying and re-tying until confident, then run a simple test: each Scout ties all three of today's knots from memory while a partner checks them against a reference card.
 
-**Materials:** ropes and poles from above; a knot reference card per patrol.
+**Materials:** ropes and poles from above; a [knot reference card](../../resources/knot-reference-card.md) per patrol.
 
 ### Knot relay (10 min)
 
