@@ -45,7 +45,7 @@ Leaders judge, deadpan, TV-host style.
 
 ### Close (10 min)
 
-Notices, thought for the week, home, and a teaser for Term 2: Science & Art.
+Notices, thought for the week, home, and a teaser for Term 2: Scouting Science.
 
 ## Notes
 

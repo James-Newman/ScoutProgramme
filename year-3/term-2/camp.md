@@ -1,10 +1,10 @@
 # Camp
 
-**Term:** Year 3, Term 2 — Science & Art
+**Term:** Year 3, Term 2 — Scouting Science
 
 **Fits the term because:** every term includes one Camp regardless of theme — it's this term's Nights Away opportunity, and (per the standing convention for every term's Camp) the home for two Outdoor Challenge Award requirements that accumulate passively regardless of the term's own focus badge. By now patrols have had two full years of campcraft and pioneering sessions, so this camp should be fully patrol-led.
 
-**Badge focus:** none for Scientist/Artist Activity Badge — but this session is the standing home for two passive Outdoor Challenge Award requirements (see [`filler-sessions/outdoor-challenge-award/README.md`](../../filler-sessions/outdoor-challenge-award/README.md)) and this term's Nights Away (+2) staged-progression opportunity. A campfire evening is also a natural, low-pressure place for Art track Scouts to bring along a sketchbook, if any want to.
+**Badge focus:** none for Scientist Activity Badge — but this session is the standing home for two passive Outdoor Challenge Award requirements (see [`filler-sessions/outdoor-challenge-award/README.md`](../../filler-sessions/outdoor-challenge-award/README.md)) and this term's Nights Away (+2) staged-progression opportunity.
 
 > "Take an active part in at least eight nights away as a Scout. Four of the nights should be camping."
 

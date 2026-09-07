@@ -39,10 +39,10 @@
 # see their individual entries below for how each is actually covered.
 #
 # RESOLVED (Year 3, Terms 2 and 3): now filled with Scientist Activity
-# Badge or Artist Activity Badge (Term 2) and Environmental Conservation
-# Activity Badge (Term 3) -- resolving two more long-standing displacement
-# flags. Still displaced/TBD after this: Navigator Staged Activity Badge
-# (Stage 3/4), Hiker Activity Badge, and Communicator Activity Badge.
+# Badge (Term 2) and Environmental Conservation Activity Badge (Term 3) --
+# resolving two more long-standing displacement flags. Still displaced/TBD
+# after this: Navigator Staged Activity Badge (Stage 3/4), Hiker Activity
+# Badge, and Communicator Activity Badge.
 #
 # MOVED TO PASSIVE: Navigator Staged Activity Badge (Stage 3/4) is now
 # passive too -- see filler-sessions/navigator-stage-3.md and
@@ -213,18 +213,17 @@ activity_badges:
       safety content is the natural home for the Outdoor Challenge Award's
       pioneering-gadget requirement (requirement 7) — see
       filler-sessions/outdoor-challenge-award/README.md.
-  - name: "Scientist Activity Badge or Artist Activity Badge"
+  - name: "Scientist Activity Badge"
     earned: "Year 3, Term 2"
     notes: >-
-      Scientist requires choosing one of two options: exploring/experimenting
-      with the science behind Scouting activities and explaining the
-      results, or a set of three experiments with predicted/varied outcomes
-      and a real-world link. Artist requires either producing a scene,
-      portrait/object, and landscape plus showing recent work, or taking an
-      active interest in a chosen art form/artist with visits and research.
-      Displaced from Year 2, Term 2 when that term became the Pioneer
-      Activity Badge term; resolved here. Which of the two options each
-      Scout/the term uses isn't decided yet — see the term's overview.md.
+      Uses Option 2: three science experiments or activities, each with a
+      changed variable, a prediction, and a check against what actually
+      happened, plus a real-world link explained to others. Chosen over
+      Option 1 (and over the alternative Artist Activity Badge, previously
+      considered for this slot) so the whole Troop works on one badge
+      together rather than splitting into parallel tracks. Displaced from
+      Year 2, Term 2 when that term became the Pioneer Activity Badge term;
+      resolved here.
   - name: "Chef Activity Badge"
     earned: "Year 1, Term 3"
   - name: "Global Issues Activity Badge"

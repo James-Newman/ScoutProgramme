@@ -1,14 +1,14 @@
 # Experiment Plan Template
 
-Used in: [Plan Your Experiment / Draw a Person or Object](../year-3/term-2/plan-your-experiment-and-draw-a-person-or-object.md) (Science track, "Plan Your Experiment", one per Scout) and carried forward into [Run Your Experiment / Paint a Landscape](../year-3/term-2/run-your-experiment-and-paint-a-landscape.md).
+Used in: [Being a Scientist: Plan Experiment 1](../year-3/term-2/being-a-scientist-plan-experiment-1.md), [Experiment 2: Water Filtration](../year-3/term-2/experiment-2-water-filtration.md), and [Experiment 3: Insulation Test](../year-3/term-2/experiment-3-insulation-test.md) — one per patrol, filled in during the "plan & predict" block of each and carried forward into that experiment's run.
 
-## Scout: _______________ Scouting activity/hobby: _______________
+## Patrol: _______________ Experiment: _______________
 
-## What I'm testing
+## What we're testing
 
 _______________________________________________
 
-## My prediction, and why
+## Our prediction, and why
 
 _______________________________________________
 
@@ -30,12 +30,12 @@ Plan checked and safe to run: _______________ (leader initials, date)
 
 ## Results (fill in after running the experiment)
 
-| Run | What I changed | What happened | Matched my prediction? |
+| Run | What we changed | What happened | Matched our prediction? |
 | :-- | :-- | :-- | :-- |
 | 1 | (none — first run) | | |
 | 2 | | | |
 
-## The science behind it, in my own words
+## The science behind it, in our own words
 
 _______________________________________________
 

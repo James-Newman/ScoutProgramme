@@ -1,8 +1,8 @@
 # Welcome Session
 
-**Term:** Year 3, Term 2 — Science & Art
+**Term:** Year 3, Term 2 — Scouting Science
 
-**Fits the term because:** every term opens the same way — a welcome, an icebreaker, the group setting its own expectations, and Scouts choosing how to spend the rest of the evening. Nothing here is specific to Scientist/Artist Activity Badge, which is why this session is designed to be reused unchanged (bar the term name above) as the opening session of any future term.
+**Fits the term because:** every term opens the same way — a welcome, an icebreaker, the group setting its own expectations, and Scouts choosing how to spend the rest of the evening. Nothing here is specific to Scientist Activity Badge, which is why this session is designed to be reused unchanged (bar the term name above) as the opening session of any future term.
 
 **Badge focus:** none for this term's own focus badge — but the icebreaker and the "agree own rules" block are the standing home for two Teamwork Challenge Award requirements that accumulate passively across every term regardless of theme (see [`filler-sessions/teamwork-challenge-award.md`](../../filler-sessions/teamwork-challenge-award.md)).
 

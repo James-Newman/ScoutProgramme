@@ -20,8 +20,7 @@ See `README.md` for the full directory layout. In short:
   Stage 3), `year-1/term-3/` (Chef Activity Badge), `year-2/term-1/` (Creative
   Challenge Award), `year-2/term-2/` (Pioneer Activity Badge), `year-2/term-3/`
   (Global Issues Activity Badge), `year-3/term-1/` (Skills Challenge Award),
-  `year-3/term-2/` (Scientist Activity Badge or Artist Activity Badge — Scouts
-  choose their track), and `year-3/term-3/` (Environmental Conservation Activity
+  `year-3/term-2/` (Scientist Activity Badge), and `year-3/term-3/` (Environmental Conservation Activity
   Badge). Each term aims to complete exactly one badge in full, from a standing
   start, within that single term — not spread across multiple terms.
 - Some badges are deliberately **never** a dedicated focus-badge term at all, each

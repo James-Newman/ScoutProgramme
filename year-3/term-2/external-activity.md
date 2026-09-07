@@ -1,6 +1,6 @@
 # External Activity (placeholder)
 
-**Term:** Year 3, Term 2 — Science & Art
+**Term:** Year 3, Term 2 — Scouting Science
 
 **Fits the term because:** it deliberately doesn't. This slot is a booked, external, purely-for-fun activity that's unrelated to the term's theme or badge work — a break from scouting content, not an extension of it.
 
@@ -10,7 +10,7 @@ This is a placeholder — the actual activity, venue, and running order depend e
 
 ## Choosing and booking
 
-- Pick something fun and physical that's unrelated to the term's theme — the point is a change of pace, not more science or art work.
+- Pick something fun and physical that's unrelated to the term's theme — the point is a change of pace, not more science work.
 - Book externally well ahead of the term starting — popular slots get booked up. Pick something different from previous terms' bookings so it counts as a genuinely new activity towards the Adventure Challenge Award tally.
 - Confirm costs, transport, numbers/ratios, and any provider-specific requirements before confirming the booking.
 - Sort consent forms and payment collection with enough lead time.

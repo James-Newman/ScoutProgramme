@@ -1,8 +1,8 @@
 # End of Term Fun & Games
 
-**Term:** Year 3, Term 2 — Science & Art
+**Term:** Year 3, Term 2 — Scouting Science
 
-**Fits the term because:** closes the term with a celebration rather than more assessment — the badge work is already done and logged from [Science & Art Showcase Night](science-and-art-showcase-night.md) and the sessions leading up to it.
+**Fits the term because:** closes the term with a celebration rather than more assessment — the badge work is already done and logged from [Science Showcase Night](science-showcase-night.md) and the sessions leading up to it.
 
 **Badge focus:** none — badge sign-off happened last session; this session just presents what's already been earned.
 
@@ -25,9 +25,9 @@ Notices, patrol flags, opening.
 
 ### Badge presentation (10 min)
 
-Roll call by patrol, each Scout called up individually to receive every badge they've completed in full this term: their earned badge from this term's two tracks — **Scientist Activity Badge** or **Artist Activity Badge**, depending on which they followed from [Science & Art Taster](science-and-art-taster.md) through to [Science & Art Showcase Night](science-and-art-showcase-night.md) — and **Entertainer Activity Badge**, via [`filler-sessions/entertainer.md`](../../filler-sessions/entertainer.md). This is a Spring term, so there's no Shooting Session or Little O this time round — Master at Arms and Orienteer simply aren't in play this term. Patrol applause, a quick photo, then move straight on.
+Roll call by patrol, each Scout called up individually to receive every badge they've completed in full this term: **Scientist Activity Badge** (this term's own focus badge, via the term's three experiments and [Science Showcase Night](science-showcase-night.md)) and **Entertainer Activity Badge**, via [`filler-sessions/entertainer.md`](../../filler-sessions/entertainer.md). This is a Spring term, so there's no Shooting Session or Little O this time round — Master at Arms and Orienteer simply aren't in play this term. Patrol applause, a quick photo, then move straight on.
 
-**Materials:** badges/certificates for Scientist, Artist, and Entertainer Activity Badge.
+**Materials:** badges/certificates for Scientist and Entertainer Activity Badge.
 
 ### Taskmaster challenges (90 min)
 

@@ -1,10 +1,10 @@
 # Night Hike
 
-**Term:** Year 3, Term 2 — Science & Art
+**Term:** Year 3, Term 2 — Scouting Science
 
 **Fits the term because:** every term includes one Night Hike regardless of theme — it's this term's Hikes Away opportunity, and (per the standing convention for every term's Night Hike) the home for the Outdoor Challenge Award's Countryside Code requirement, which accumulates passively regardless of the term's own focus badge.
 
-**Badge focus:** none for Scientist/Artist Activity Badge — but this session is the standing home for the passive Outdoor Challenge Award Countryside Code requirement (see [`filler-sessions/outdoor-challenge-award/README.md`](../../filler-sessions/outdoor-challenge-award/README.md)) and this term's optional Hikes Away (+1) staged-progression opportunity. It's also the standing home for Navigator Staged Activity Badge's real navigated routes (see [`filler-sessions/navigator-stage-3.md`](../../filler-sessions/navigator-stage-3.md)/[`navigator-stage-4.md`](../../filler-sessions/navigator-stage-4.md)) — but since neither of those has been slotted into a term yet, no Scout should be expected to have the map-reading knowledge for a genuine navigating turn this early. If any Scout already does, give them the lead for part of the route.
+**Badge focus:** none for Scientist Activity Badge — but this session is the standing home for the passive Outdoor Challenge Award Countryside Code requirement (see [`filler-sessions/outdoor-challenge-award/README.md`](../../filler-sessions/outdoor-challenge-award/README.md)) and this term's optional Hikes Away (+1) staged-progression opportunity. It's also the standing home for Navigator Staged Activity Badge's real navigated routes (see [`filler-sessions/navigator-stage-3.md`](../../filler-sessions/navigator-stage-3.md)/[`navigator-stage-4.md`](../../filler-sessions/navigator-stage-4.md)) — but since neither of those has been slotted into a term yet, no Scout should be expected to have the map-reading knowledge for a genuine navigating turn this early. If any Scout already does, give them the lead for part of the route.
 
 > "Understand the three points of the Countryside Code. Show what action you can take to follow the code."
 

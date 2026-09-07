@@ -1,47 +1,43 @@
-# Year 3, Term 2 (Spring) — Science & Art
+# Year 3, Term 2 (Spring) — Scouting Science
 
 Term summary: [`data/terms.yaml`](../../data/terms.yaml) (year 3, term 2) · [`docs/timeline.md`](../../docs/timeline.md)
 
-Core goals: either exploring the science behind Scouting activities/hobbies through experiments, or developing and showing a body of creative work in a chosen art form — Scouts choose one path and earn the badge through it.
-Badges earned: **Scientist Activity Badge or Artist Activity Badge**.
+Core goals: planning and running three science experiments tied to camping and the outdoors, changing one variable and predicting/checking the outcome each time, and explaining how one experiment links to the real world.
+Badges earned: **Scientist Activity Badge**.
 Optional staged progression: Nights Away (+2), Hikes Away (+1).
 
-This term resolves a TBD flag left open at the top of `data/terms.yaml`: Scientist Activity Badge or Artist Activity Badge was displaced from Year 2, Term 2 when that term became the Pioneer Activity Badge term, and hadn't been re-slotted anywhere until now.
+This term resolves a TBD flag left open at the top of `data/terms.yaml`: Scientist Activity Badge was displaced from Year 2, Term 2 when that term became the Pioneer Activity Badge term, and hadn't been re-slotted anywhere until now.
 
-**This term picks one badge option per track, individually chosen by each Scout, rather than one badge for the whole troop.** Both badges offer two options; this plan uses **Scientist Option 1** (explore the science behind two Scouting activities/hobbies, then plan, run, and explain your own experiment) and **Artist Option 1** (paint/draw/illustrate a scene, a person or object, and a landscape, then show a selection of recent work) — the two options that fit a shared session structure and don't need external visits or months of ongoing practice, unlike Scientist Option 2's three iterated experiments or Artist's Arts Enthusiast option.
+**This term uses Scientist Option 2 (three experiments, each changed and re-tried, plus a real-world link), run as a single whole-troop badge rather than a Scouts'-choice split.** An earlier draft of this term split the Troop into parallel Science and Artist tracks — reflecting the badge catalogue's original "Scientist Activity Badge or Artist Activity Badge" listing — but running two different badges side by side in the same sessions added real complexity for no real benefit, so this term now follows every other term's pattern: one badge, for the whole Troop. Option 2 (rather than Option 1's single experiment) was chosen deliberately, since it gives enough genuine content to fill the term without needing extra padding.
 
 Every term's 12 weeks follow the same shape: one [Welcome Session](welcome-session.md), one [Night Hike](night-hike.md), one [Camp](camp.md), one [External Activity](external-activity.md), and one [End of Term Fun & Games](end-of-term-fun-and-games.md) session — five fixed slots every term, regardless of theme. This is a Spring term, so there's no Shooting Session or Little O this time round — those only recur in each year's Autumn term. That leaves seven weeks for the term's own badge content.
 
-**This term needs 6 of those 7 core-content weeks for Scientist/Artist Activity Badge itself, run as two parallel tracks.** [Science & Art Taster](science-and-art-taster.md) gives every Scout a real taste of both before they choose a track. From there, [Science Behind Scouting / Illustrate a Scene](science-behind-scouting-and-illustrate-a-scene.md), [Plan Your Experiment / Draw a Person or Object](plan-your-experiment-and-draw-a-person-or-object.md), and [Run Your Experiment / Paint a Landscape](run-your-experiment-and-paint-a-landscape.md) run Science and Art content side by side in the same time slots, each Scout attending whichever half matches their chosen track. [Present Your Findings / Prepare Your Showcase](present-your-findings-and-prepare-your-showcase.md) preps both tracks for the term's culmination, [Science & Art Showcase Night](science-and-art-showcase-night.md), where both tracks reunite and complete their final requirement in front of the whole Troop. **That leaves 1 of the term's 7 core-content weeks free**, which carries [Entertainer](../../filler-sessions/entertainer.md) — a complete, standalone badge in its own right, chosen as a shared, whole-troop break partway through the term's Science/Art split, giving both tracks a chance to mix again before the final push.
+**This term needs 6 of those 7 core-content weeks for Scientist Activity Badge itself.** [Being a Scientist: Plan Experiment 1](being-a-scientist-plan-experiment-1.md) and [Experiment 1: Run, Change & Retry](experiment-1-run-change-and-retry.md) introduce the plan/predict/run/change/retry process in full, using a fire-lighting-speed comparison. [Experiment 2: Water Filtration](experiment-2-water-filtration.md) and [Experiment 3: Insulation Test](experiment-3-insulation-test.md) each run the same cycle in a single sitting now that the process is familiar. [Real-World Link Research](real-world-link-research.md) and [Science Showcase Night](science-showcase-night.md) complete the badge's final requirement — researching, then explaining to the whole Troop, how one of the three experiments connects to something real (wildfire science, water treatment and disaster relief, or insulation in camping gear and buildings). **That leaves 1 of the term's 7 core-content weeks free**, which carries [Entertainer](../../filler-sessions/entertainer.md) — a complete, standalone badge in its own right, chosen as a change of pace partway through a term that's otherwise fairly heavy on measurement and note-taking.
 
 | # | Session | Badge focus |
 | :-- | :-- | :-- |
 | 1 | [Welcome Session](welcome-session.md) | None — generic opening session, reused every term |
-| 2 | [Science & Art Taster](science-and-art-taster.md) | None yet — taster for both tracks, sets up each Scout's choice |
+| 2 | [Being a Scientist: Plan Experiment 1](being-a-scientist-plan-experiment-1.md) | Scientist Activity Badge — plan Experiment 1 (fire-lighting speed) |
 | 3 | [Night Hike](night-hike.md) | None — this term's Hikes Away opportunity |
-| 4 | [Science Behind Scouting / Illustrate a Scene](science-behind-scouting-and-illustrate-a-scene.md) | Scientist — science behind two activities/hobbies; Artist — first illustration |
-| 5 | [Plan Your Experiment / Draw a Person or Object](plan-your-experiment-and-draw-a-person-or-object.md) | Scientist — plan an experiment; Artist — second illustration |
+| 4 | [Experiment 1: Run, Change & Retry](experiment-1-run-change-and-retry.md) | Scientist Activity Badge — completes Experiment 1 |
+| 5 | [Experiment 2: Water Filtration](experiment-2-water-filtration.md) | Scientist Activity Badge — completes Experiment 2 |
 | 6 | [Entertainer](../../filler-sessions/entertainer.md) *(filler session)* | Entertainer Activity Badge — complete in full this session |
 | 7 | [External Activity](external-activity.md) *(placeholder)* | None, by design — a fun outing unrelated to the term's theme |
-| 8 | [Run Your Experiment / Paint a Landscape](run-your-experiment-and-paint-a-landscape.md) | Scientist — run the experiment, record findings; Artist — third illustration |
-| 9 | [Present Your Findings / Prepare Your Showcase](present-your-findings-and-prepare-your-showcase.md) | Scientist — prepare to explain results; Artist — prepare the exhibition |
-| 10 | [Camp](camp.md) | None for Scientist/Artist — Outdoor Nights Away and environment requirements |
-| 11 | [Science & Art Showcase Night](science-and-art-showcase-night.md) | Scientist and Artist — final requirement; completes both badges |
-| 12 | [End of Term Fun & Games](end-of-term-fun-and-games.md) | Scientist/Artist and Entertainer presentation |
+| 8 | [Experiment 3: Insulation Test](experiment-3-insulation-test.md) | Scientist Activity Badge — completes Experiment 3 |
+| 9 | [Real-World Link Research](real-world-link-research.md) | Scientist Activity Badge — research the real-world link |
+| 10 | [Camp](camp.md) | None for Scientist Activity Badge — Outdoor Nights Away and environment requirements |
+| 11 | [Science Showcase Night](science-showcase-night.md) | Scientist Activity Badge — final requirement; completes the badge |
+| 12 | [End of Term Fun & Games](end-of-term-fun-and-games.md) | Scientist and Entertainer presentation |
 
 ## Requirement coverage
 
-Both Scientist Activity Badge (Option 1) and Artist Activity Badge (Option 1) are fully covered this term, depending on each Scout's chosen track:
+Both Scientist Activity Badge (Option 2) requirements are covered this term:
 
-> **Scientist:** "Explore and discuss the science behind two Scouting activities or hobbies." — [Science Behind Scouting / Illustrate a Scene](science-behind-scouting-and-illustrate-a-scene.md)
+> "Plan and complete three science experiments or activities. Check your plan with an adult first, then for each experiment: 'Change something about the experiment or activity and try it again, at least once. Predict what you think will happen and find out if you were right.' 'Show that you understand the science behind your experiment or activity.'" — [Being a Scientist: Plan Experiment 1](being-a-scientist-plan-experiment-1.md), [Experiment 1: Run, Change & Retry](experiment-1-run-change-and-retry.md), [Experiment 2: Water Filtration](experiment-2-water-filtration.md), [Experiment 3: Insulation Test](experiment-3-insulation-test.md)
 >
-> **Scientist:** "Plan and complete your own experiment exploring the science behind one Scouting activity or hobby, record your findings, and explain your results to others." — [Plan Your Experiment](plan-your-experiment-and-draw-a-person-or-object.md), [Run Your Experiment](run-your-experiment-and-paint-a-landscape.md), [Present Your Findings](present-your-findings-and-prepare-your-showcase.md), [Science & Art Showcase Night](science-and-art-showcase-night.md)
->
-> **Artist:** "Paint, draw or illustrate each of these: a scene from a story, a person or object, a landscape." — [Science Behind Scouting / Illustrate a Scene](science-behind-scouting-and-illustrate-a-scene.md), [Plan Your Experiment / Draw a Person or Object](plan-your-experiment-and-draw-a-person-or-object.md), [Run Your Experiment / Paint a Landscape](run-your-experiment-and-paint-a-landscape.md)
->
-> **Artist:** "Show a selection of your own recent work." — [Prepare Your Showcase](present-your-findings-and-prepare-your-showcase.md), [Science & Art Showcase Night](science-and-art-showcase-night.md)
+> "Find out how one of your experiments or activities links to the real world. Then, explain it to others." — [Real-World Link Research](real-world-link-research.md), [Science Showcase Night](science-showcase-night.md)
 
-Sources: [Scouts Scientist Activity Badge](https://www.scouts.org.uk/scouts/activity-badges/scientist/) and [Scouts Artist Activity Badge](https://www.scouts.org.uk/scouts/activity-badges/artist/) — check the live pages before formally signing anything off, since requirement wording is occasionally updated by the Scout Association.
+Source: [Scouts Scientist Activity Badge](https://www.scouts.org.uk/scouts/activity-badges/scientist/) — check the live page before formally signing anything off, since requirement wording is occasionally updated by the Scout Association.
 
 ## Passive completion — other badges this term's content touches
 
@@ -61,22 +57,24 @@ Pulled from each session's own Notes — everything a leader needs to organise a
 
 - **[Night Hike](night-hike.md)** — a pre-walked, risk-assessed route, plus a completed risk assessment for night activities.
 - **[Camp](camp.md)** — a completed camp risk assessment.
+- **[Being a Scientist: Plan Experiment 1](being-a-scientist-plan-experiment-1.md)** / **[Experiment 1: Run, Change & Retry](experiment-1-run-change-and-retry.md)** — a fire risk assessment and appropriate supervision/extinguishing equipment, following the group's own safety policy for fire-lighting activities.
+- **[Experiment 3: Insulation Test](experiment-3-insulation-test.md)** — warm (not scalding) water only; check temperature with a thermometer rather than guessing.
 
 ### Content to source or prepare carefully
 
-- **[Science & Art Taster](science-and-art-taster.md)** — needs two leaders (or a leader and a confident helper) able to run the Science and Art tastes simultaneously; note each Scout's chosen track, since every remaining core-content session needs it.
-- **[Plan Your Experiment / Draw a Person or Object](plan-your-experiment-and-draw-a-person-or-object.md)** — Science experiment plans need a leader's sign-off in this session so materials for [Run Your Experiment](run-your-experiment-and-paint-a-landscape.md) can be gathered in the week between sessions.
-- **[Science & Art Showcase Night](science-and-art-showcase-night.md)** — consider inviting parents as an informal open evening; works well for both tracks without extra content.
+- **[Being a Scientist: Plan Experiment 1](being-a-scientist-plan-experiment-1.md)** — every experiment plan needs an adult's safety sign-off before materials get gathered; flag anything unusual early.
+- **[Real-World Link Research](real-world-link-research.md)** — push patrols towards a genuine, specific real-world connection rather than a vague, generic one.
+- **[Science Showcase Night](science-showcase-night.md)** — consider inviting parents as an informal open evening.
 
 ### Equipment & materials to source
 
-See the [material inventory](#material-inventory) below for the full list — the standouts needing advance sourcing are art materials (paper, paints, mounting card) for the Art track across four sessions, and whatever each Science Scout's individual experiment plan calls for.
+See the [material inventory](#material-inventory) below for the full list — the standouts needing advance sourcing are fire-lighting kit and extinguishing equipment (Experiments 1), filter-building materials (Experiment 2), and enough identical cups/thermometers for a fair comparison (Experiment 3).
 
 ### Stock to order
 
-Three badges complete in full this term — order stock from the [Scout Store](https://shop.scouts.org.uk/) ahead of [End of Term Fun & Games](end-of-term-fun-and-games.md):
+Two badges complete in full this term — order stock for both from the [Scout Store](https://shop.scouts.org.uk/) ahead of [End of Term Fun & Games](end-of-term-fun-and-games.md):
 
-- **Scientist Activity Badge** and **Artist Activity Badge** — this term's own focus badge, split by track. Check each Scout's chosen track before ordering.
+- **Scientist Activity Badge** — this term's own focus badge.
 - **Entertainer Activity Badge** — completed via its filler session.
 
 **Not this term:** this is a Spring term, so Master at Arms and Orienteer simply aren't in play — nothing to flag either way.
@@ -85,24 +83,15 @@ Three badges complete in full this term — order stock from the [Scout Store](h
 
 Quantities below assume the group's maximum of 6 patrols; scale down proportionally for a smaller group. Anything not listed (venue, transport, consent forms, risk assessments) is covered in each session's own Notes, not here. [External Activity](external-activity.md) has no fixed materials. [Entertainer](../../filler-sessions/entertainer.md)'s materials are listed in its own file.
 
-### Science track
+### Scouting Science content
 
 | Item | Quantity | Used in | Resource |
 | :-- | :-- | :-- | :-- |
-| Candles/jars, a compass and magnets, a simple pulley/rope set-up | 1 set | [Science & Art Taster](science-and-art-taster.md) | Source it |
-| Research access (internet or pre-printed briefing notes), poster paper/pens | 6 sets | [Science Behind Scouting](science-behind-scouting-and-illustrate-a-scene.md) | Source it |
-| [Experiment-plan template](../../resources/experiment-plan-template.md) | 1 per Scout | [Plan Your Experiment](plan-your-experiment-and-draw-a-person-or-object.md) | [`experiment-plan-template.md`](../../resources/experiment-plan-template.md) |
-| Whatever each Scout's individual [experiment plan](../../resources/experiment-plan-template.md) calls for | Varies per Scout | [Run Your Experiment](run-your-experiment-and-paint-a-landscape.md) | Source it once plans are signed off |
-| Poster paper/card, pens | 1 per Scout | [Present Your Findings](present-your-findings-and-prepare-your-showcase.md) | Source it |
-
-### Art track
-
-| Item | Quantity | Used in | Resource |
-| :-- | :-- | :-- | :-- |
-| Paper, pencils, an object to sketch, a landscape view/photo | 1 set | [Science & Art Taster](science-and-art-taster.md) | Source it |
-| Paper, pencils, paints/coloured pencils/markers, reference material | 1 per Scout | [Science Behind Scouting / Illustrate a Scene](science-behind-scouting-and-illustrate-a-scene.md), [Plan Your Experiment / Draw a Person or Object](plan-your-experiment-and-draw-a-person-or-object.md), [Run Your Experiment / Paint a Landscape](run-your-experiment-and-paint-a-landscape.md) | Source it |
-| Mirrors or willing patrol-member models | Several | [Plan Your Experiment / Draw a Person or Object](plan-your-experiment-and-draw-a-person-or-object.md) | Source it |
-| Mounting card/backing paper, display boards or tables | 1 per Scout | [Present Your Findings / Prepare Your Showcase](present-your-findings-and-prepare-your-showcase.md), [Science & Art Showcase Night](science-and-art-showcase-night.md) | Source it |
+| [Experiment-plan template](../../resources/experiment-plan-template.md) | 1 per patrol | [Being a Scientist: Plan Experiment 1](being-a-scientist-plan-experiment-1.md), [Experiment 2: Water Filtration](experiment-2-water-filtration.md), [Experiment 3: Insulation Test](experiment-3-insulation-test.md) | [`experiment-plan-template.md`](../../resources/experiment-plan-template.md) |
+| Fire-lighting kit (tinder, matches/flint-and-steel, a metal tray, water/extinguisher on hand), stopwatches | 6 sets | [Experiment 1: Run, Change & Retry](experiment-1-run-change-and-retry.md) | Source it |
+| Cut plastic bottles, gravel, sand, charcoal, cloth/cotton wool, a jug of water deliberately dirtied with mud/food colouring, clear collection cups | 6 sets | [Experiment 2: Water Filtration](experiment-2-water-filtration.md) | Source it |
+| Identical cups, insulating materials (wool, bubble wrap, foil, cotton wool, newspaper), thermometers, a kettle or urn of warm water, timers | 6 sets | [Experiment 3: Insulation Test](experiment-3-insulation-test.md) | Source it |
+| Internet access (phones/tablets/laptops), or pre-printed briefing notes as a fallback; poster paper/card, pens | 6 sets | [Real-World Link Research](real-world-link-research.md) | Source it |
 
 ### Camping & hiking
 
