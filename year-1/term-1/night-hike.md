@@ -41,7 +41,7 @@ Walk the outbound leg in patrols, leaders spread front, middle, and back.
 
 ### Halfway stop (20 min)
 
-A short break at a pre-scouted spot — hot chocolate from a flask, a quiet torch-lit game (a Kim's game with a single torch beam works well in the dark), a head-count.
+A short break at a pre-scouted spot — hot chocolate from a flask, a quiet torch-lit game ([Kim's game](https://www.scouts.org.uk/activities/play-kims-game/) with a single torch beam works well in the dark), a head-count.
 
 ### The hike back (40 min)
 

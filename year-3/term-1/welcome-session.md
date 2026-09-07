@@ -24,7 +24,7 @@ Notices, patrol flags up, opening. Reaffirm or reform patrols here if needed.
 
 ### Icebreaker game (20 min)
 
-Any icebreaker the group hasn't played recently works here — this term, try "the minefield" (blindfolded Scouts, guided by a partner's voice only, navigate a floor scattered with soft obstacles), a light nod to the term's problem-solving and self-reliance themes without being actual badge content. Genuinely varying it term to term is what makes it count as a new team-building activity towards the Teamwork Challenge Award.
+Any icebreaker the group hasn't played recently works here — this term, try [the minefield](https://www.icebreakerspot.com/activities/minefield) (blindfolded Scouts, guided by a partner's voice only, navigate a floor scattered with soft obstacles), a light nod to the term's problem-solving and self-reliance themes without being actual badge content. Genuinely varying it term to term is what makes it count as a new team-building activity towards the Teamwork Challenge Award.
 
 ### Scouts agree their own rules (25 min)
 

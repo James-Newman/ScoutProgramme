@@ -34,8 +34,8 @@ Roll call by patrol, each Scout called up individually to receive **Pioneer Acti
 Run five or six short, silly, low-prep challenges in patrols, Taskmaster-TV-show style — score each out of five, keep a running scoreboard on the wall. A mix of pure silliness and a light nod back to the term's themes works well:
 
 - **Blindfold knot relay** — tie a named knot blindfolded, talked through by a teammate.
-- **Human sculpture** — patrols freeze into a shape representing a given word, other patrols guess.
-- **Tallest tower** — build the tallest free-standing tower out of paper and tape in three minutes.
+- **[Human sculpture](https://www.icebreakerspot.com/activities/human-sculptures)** — patrols freeze into a shape representing a given word, other patrols guess.
+- **[Tallest tower](https://www.icebreakerspot.com/activities/newspaper-tower-challenge)** — build the tallest free-standing tower out of paper and tape in three minutes.
 - **Water carry** — carry the most water across the room in a colander in one trip.
 - **Patrol anthem** — three minutes to write and perform a one-verse patrol song about the term.
 

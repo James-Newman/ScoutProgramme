@@ -24,7 +24,7 @@ Notices, patrol flags up, opening. Reaffirm or reform patrols here if needed.
 
 ### Icebreaker game (20 min)
 
-Any icebreaker the group hasn't played recently works here — this term, try "one-word ecosystem" (going round the circle, each person adds one plant, animal, or feature to build an imagined local habitat), a light thematic nod to the term ahead without being actual badge content. Genuinely varying it term to term is what makes it count as a new team-building activity towards the Teamwork Challenge Award.
+Any icebreaker the group hasn't played recently works here — this term, try a nature-themed twist on the [one-word story game](https://collaborationzone.com/one-word-story-a-team-building-icebreaker/) — "one-word ecosystem" (going round the circle, each person adds one plant, animal, or feature to build an imagined local habitat) — a light thematic nod to the term ahead without being actual badge content. Genuinely varying it term to term is what makes it count as a new team-building activity towards the Teamwork Challenge Award.
 
 ### Scouts agree their own rules (25 min)
 

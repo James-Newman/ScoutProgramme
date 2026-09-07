@@ -35,9 +35,9 @@ Run five or six short, silly, low-prep challenges in patrols, Taskmaster-TV-show
 
 - **Mystery flag relay** — race to correctly match national flags to their countries.
 - **Silent charades relay** — patrol charades relay, this time miming famous landmarks or countries.
-- **Tallest tower** — build the tallest free-standing tower out of paper and tape in three minutes.
+- **[Tallest tower](https://www.icebreakerspot.com/activities/newspaper-tower-challenge)** — build the tallest free-standing tower out of paper and tape in three minutes.
 - **Water carry** — carry the most water across the room in a colander in one trip.
-- **One-word story** — patrols build a story about "a Scout visiting another country," one word at a time, no planning.
+- **[One-word story](https://collaborationzone.com/one-word-story-a-team-building-icebreaker/)** — patrols build a story about "a Scout visiting another country," one word at a time, no planning.
 - **Patrol anthem** — three minutes to write and perform a one-verse patrol song about the term.
 
 Leaders judge, deadpan, TV-host style — the format does the entertaining, so it doesn't need performance skill from leaders, just a scoreboard and straight-faced delivery of daft rules.

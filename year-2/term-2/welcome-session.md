@@ -24,7 +24,7 @@ Notices, patrol flags up, opening. Reaffirm or reform patrols here if needed.
 
 ### Icebreaker game (20 min)
 
-Any icebreaker the group hasn't played recently works here — this term, try "human knot" (the group holds hands in a tangle and works together to untangle it without letting go), a nice thematic nod to the term ahead without being actual badge content. Genuinely varying it term to term is what makes it count as a new team-building activity towards the Teamwork Challenge Award.
+Any icebreaker the group hasn't played recently works here — this term, try the "thread the hoop" game from [Happy Hooping](https://www.scouts.org.uk/activities/happy-hooping/) (the group holds hands in a circle and passes a hula hoop all the way round without anyone letting go), a nice thematic nod to a term about pioneering and teamwork without being actual badge content. Genuinely varying it term to term is what makes it count as a new team-building activity towards the Teamwork Challenge Award — this is a different game from Year 1, Term 1's human knot.
 
 ### Scouts agree their own rules (25 min)
 

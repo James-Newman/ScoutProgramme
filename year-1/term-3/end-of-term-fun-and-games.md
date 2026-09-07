@@ -33,10 +33,10 @@ Roll call by patrol, each Scout called up individually to receive every badge th
 
 Run five or six short, silly, low-prep challenges in patrols, Taskmaster-TV-show style — score each out of five, keep a running scoreboard on the wall. A mix of pure silliness and a light nod back to the term's themes works well:
 
-- **Blindfold taste test** — guess the ingredient, blindfolded.
+- **[Blindfold taste test](https://www.scouts.org.uk/activities/crowdie-or-cranachan/)** — guess the ingredient, blindfolded.
 - **Fastest sandwich relay** — race to assemble a simple sandwich correctly, one ingredient at a time, relay-style.
 - **Menu pitch** — 60 seconds to pitch the most ridiculous imaginary two-course menu to the room.
-- **Tallest tower** — build the tallest free-standing tower out of paper and tape in three minutes.
+- **[Tallest tower](https://www.icebreakerspot.com/activities/newspaper-tower-challenge)** — build the tallest free-standing tower out of paper and tape in three minutes.
 - **Water carry** — carry the most water across the room in a colander in one trip.
 - **Patrol anthem** — three minutes to write and perform a one-verse patrol song about the term.
 

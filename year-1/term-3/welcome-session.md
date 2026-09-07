@@ -24,7 +24,7 @@ Notices, patrol flags up, opening. Reaffirm or reform patrols here if needed.
 
 ### Icebreaker game (20 min)
 
-Any icebreaker the group hasn't played recently works here — this term, try "two truths and a lie" in patrols (each Scout states three things about themselves, one false, the rest guess which) rather than repeating a previous term's game. Genuinely varying it term to term is what makes it count as a new team-building activity towards the Teamwork Challenge Award.
+Any icebreaker the group hasn't played recently works here — this term, try [two truths and a lie](https://www.scouts.org.uk/activities/play-two-truths-and-one-lie/) in patrols (each Scout states three things about themselves, one false, the rest guess which) rather than repeating a previous term's game. Genuinely varying it term to term is what makes it count as a new team-building activity towards the Teamwork Challenge Award.
 
 ### Scouts agree their own rules (25 min)
 

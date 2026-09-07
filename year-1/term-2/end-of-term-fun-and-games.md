@@ -36,7 +36,7 @@ Run five or six short, silly, low-prep challenges in patrols, Taskmaster-TV-show
 - **Bandage relay** — race to correctly bandage a "wound" (a balloon taped to an arm) using a roll of bandage, judged on speed and whether it stays on.
 - **999 charades** — mime an emergency scenario, patrol guesses what's happened.
 - **Silent charades relay** — patrol charades relay, miming everyday objects.
-- **Tallest tower** — build the tallest free-standing tower out of paper and tape in three minutes.
+- **[Tallest tower](https://www.icebreakerspot.com/activities/newspaper-tower-challenge)** — build the tallest free-standing tower out of paper and tape in three minutes.
 - **Water carry** — carry the most water across the room in a colander in one trip.
 - **Patrol anthem** — three minutes to write and perform a one-verse patrol song about the term.
 

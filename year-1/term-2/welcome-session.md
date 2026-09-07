@@ -24,7 +24,7 @@ Notices, patrol flags up, opening. Reaffirm or reform patrols here if needed.
 
 ### Icebreaker game (20 min)
 
-Any icebreaker the group hasn't played recently works here — this term, try a "group juggle" (patrols stand in a circle, pass a soft ball around calling the receiver's name, then add more balls into the pattern once the first round's route is set) rather than repeating Term 1's human knot game. Genuinely varying it term to term is what makes it count as a new team-building activity towards the Teamwork Challenge Award.
+Any icebreaker the group hasn't played recently works here — this term, try [a group juggle](https://www.scouts.org.uk/activities/say-hello-wave-good-ball/) (patrols stand in a circle, pass a soft ball around calling the receiver's name, then add more balls into the pattern once the first round's route is set) rather than repeating Term 1's human knot game. Genuinely varying it term to term is what makes it count as a new team-building activity towards the Teamwork Challenge Award.
 
 **Materials:** a few soft balls or bean bags.
 

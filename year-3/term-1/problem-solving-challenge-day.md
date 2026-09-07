@@ -32,13 +32,13 @@ Patrols design and build a small "raft" from limited materials (a few sheets of 
 
 ### Challenge 2: The escape puzzle (35 min)
 
-A simple lock-box or escape-room-style puzzle chain: patrols work through a sequence of 3–4 linked clues/puzzles (a cipher, a riddle, a physical puzzle) to "unlock" a box or envelope at the end. Off-the-shelf puzzle box kits or a home-made paper-clue chain both work.
+A simple lock-box or [escape-room-style](https://www.scouts.org.uk/activities/run-your-own-escape-room/) puzzle chain: patrols work through a sequence of 3–4 linked clues/puzzles (a cipher, a riddle, a physical puzzle) to "unlock" a box or envelope at the end. Off-the-shelf puzzle box kits or a home-made paper-clue chain both work.
 
 **Materials:** a lockable box and a chain of clues/puzzles (bought puzzle-box kit, or home-made), one set per patrol.
 
 ### Challenge 3: The tower of spaghetti (30 min)
 
-The classic marshmallow challenge — patrols build the tallest free-standing tower from dry spaghetti and tape that can support a marshmallow (or similar small weight) on top, within a strict time limit.
+The classic [Marshmallow Challenge](https://marshmallowchallenge.com/Welcome.html) — patrols build the tallest free-standing tower from dry spaghetti and tape that can support a marshmallow (or similar small weight) on top, within a strict time limit.
 
 **Materials:** dry spaghetti, tape, string, a marshmallow (or similar small weight) per patrol.
 
