@@ -14,7 +14,7 @@ Source: [Scouts Outdoor Challenge Award](https://www.scouts.org.uk/scouts/awards
 | 4 | "Prepare and light an open fire or set up a suitable stove. Use it to prepare, cook and serve a meal safely." | [`fire-safety-and-camp-cooking.md`](fire-safety-and-camp-cooking.md) — also a strong passive match if it lands during a Chef Activity Badge term |
 | 5 | "Understand the three points of the Countryside Code..." | **Passive** — every term's standing Night Hike touches on this (see the Night Hike convention in `AGENTS.md`). |
 | 6 | "Find out why personal and campsite hygiene is important..." | [`camp-hygiene-and-food-safety.md`](camp-hygiene-and-food-safety.md) |
-| 7 | "Using knots that you have learned, build a simple pioneering project, object or camp gadget." | **Passive** — [Year 2, Term 2](../../year-2/term-2/overview.md) (Pioneer Activity Badge) teaches the knots and lashings this requirement needs; check its pioneering project against this requirement once real sessions exist. |
+| 7 | "Using knots that you have learned, build a simple pioneering project, object or camp gadget." | **Passive** — [Year 2, Term 2](../../year-2/term-2/overview.md) (Pioneer Activity Badge)'s [Camp](../../year-2/term-2/camp.md) session has patrols build an outdoor pioneering project/camp gadget using the term's own knots and lashings, satisfying this requirement in the same build. |
 | 8 | "Explore the environment of your camp... leave the site as you found it." | **Passive** — every term's standing Camp includes a site walk on arrival and a leave-no-trace check before departure (see the Camp convention in `AGENTS.md`). |
 | 9 | "Find out what accidents and incidents can happen outdoors or during your camp..." | [`outdoor-safety-and-risk-awareness.md`](outdoor-safety-and-risk-awareness.md) |
 | 10 | "Show how to use an axe, saw or knife safely..." | [`fire-safety-and-camp-cooking.md`](fire-safety-and-camp-cooking.md) |
@@ -24,4 +24,4 @@ Source: [Scouts Outdoor Challenge Award](https://www.scouts.org.uk/scouts/awards
 
 - These 6 session files were originally built as a dedicated Year 1, Term 2 term before the group decided to make this badge passive instead — the content itself didn't need to change, only the framing (no more "Term:"/"Fits the term because:" fields, no hard links to a specific term's Camp/Night Hike/Welcome Session).
 - Leaders should track individual Scout progress against the table above themselves (e.g. in OSM) — this repo doesn't track per-Scout completion state, only what each session covers.
-- Requirement 7 (pioneering gadget) now has a natural home in Year 2, Term 2 (Pioneer Activity Badge) — confirm the actual match once that term's sessions are built out, per the note in its `overview.md`.
+- Requirement 7 (pioneering gadget) is satisfied via Year 2, Term 2 (Pioneer Activity Badge)'s Camp session, where patrols build an outdoor pioneering project/camp gadget using that term's own knots and lashings.
