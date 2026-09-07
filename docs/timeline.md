@@ -2,7 +2,7 @@
 
 Rendered view of [`data/terms.yaml`](../data/terms.yaml). This document outlines the 3-year, 9-term continuous cyclical programme plan for a UK Scout Troop (ages 10 to 14). Designed around an inclusive, attendance- and participation-based approach, Scouts achieve their core badge requirements during regular weekly meetings. Optional weekend camps, night hikes, and paddleboarding sessions provide opportunity-based staged progression.
 
-Every term now has a theme and a focus badge, though only Year 1, Term 1 is built out session-by-session so far — the rest are framework only (see the Status note in `README.md`).
+Every term now has a theme and a focus badge, and all 9 terms are built out in full session-by-session detail (see the Status note in `README.md`).
 
 Each term consists of a 12-week framework with a 6- to 7-week core badge content block, ensuring completion within a single term even during shortened school terms.
 
