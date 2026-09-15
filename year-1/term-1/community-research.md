@@ -8,17 +8,17 @@
 
 > "Choose an aspect of local community life and find out as much as you can about it."
 
-Examples the badge itself suggests: local government, local history, different faiths and beliefs, or types of farming/industry found locally.
+Examples the badge itself suggests: local government, local history, different faiths and beliefs, or types of farming/industry found locally. This session uses five prepared local briefing documents — [Local History](../../resources/local-history-wooburn-and-bourne-end.md), [Natural History](../../resources/natural-history-wooburn-and-bourne-end.md), [Environmental Considerations](../../resources/environmental-considerations-wooburn-and-bourne-end.md), [Ancient History](../../resources/ancient-history-wooburn-and-bourne-end.md), and [Geography](../../resources/geography-wooburn-and-bourne-end.md) — as a genuine, specific starting point rather than open-ended research from nothing, since patrols this age often get more out of digging deep into good material than staring at a blank page.
 
 ## Running order
 
 | Time | Duration | Block |
 | --- | --- | --- |
 | 0:00–0:10 | 10 min | Welcome |
-| 0:10–0:25 | 15 min | Choose your aspect |
-| 0:25–1:10 | 45 min | Research |
-| 1:10–1:30 | 20 min | Prepare a short presentation |
-| 1:30–1:50 | 20 min | Present to the room |
+| 0:10–0:20 | 10 min | Icebreaker: Gimme 5 |
+| 0:20–1:15 | 55 min | Research & write a quiz |
+| 1:15–1:25 | 10 min | Quick game: Rush Hour |
+| 1:25–1:50 | 25 min | Quiz time |
 | 1:50–2:00 | 10 min | Close |
 
 ## Session detail
@@ -27,25 +27,27 @@ Examples the badge itself suggests: local government, local history, different f
 
 Notices, patrol flags, opening.
 
-### Choose your aspect (15 min)
+### Icebreaker: Gimme 5 (10 min)
 
-Each patrol (or pairs, if patrols are large) picks one aspect of local community life to dig into: local government, local history, different faiths and beliefs represented locally, or local farming/industry. Encourage genuine variety across patrols so the room ends up with a spread of topics rather than six patrols researching the same thing.
+[Gimme 5](https://www.scouts.org.uk/activities/gimme-5/) — stand in a circle, one hand raised ready for a high five, with one person in the middle. The middle player calls a name; that person has to call someone else's name (at least two people away) before the middle player can slap their raised hand. Miss the call in time and you swap into the middle. A fast, no-materials way to get the room warmed up and names circulating before splitting into patrols.
 
-### Research (45 min)
+### Research & write a quiz (55 min)
 
-Patrols research their chosen aspect as thoroughly as the time allows — internet access, library books, local council websites, or leader-provided information packs all work. Push for specifics over generalities: names of actual local landmarks, real historical dates, the names of real local places of worship, or real local farms/businesses, not just "there's a church nearby."
+Each patrol picks one of the five local briefing documents — [Local History](../../resources/local-history-wooburn-and-bourne-end.md), [Natural History](../../resources/natural-history-wooburn-and-bourne-end.md), [Environmental Considerations](../../resources/environmental-considerations-wooburn-and-bourne-end.md), [Ancient History](../../resources/ancient-history-wooburn-and-bourne-end.md), or [Geography](../../resources/geography-wooburn-and-bourne-end.md) — steering patrols towards a spread across the five rather than everyone picking the same one. Patrols read through their document properly, then write a short quiz (aim for around 8–10 questions) for the rest of the room based on what they found, with an answer sheet for whoever runs it later. This adapts the "Test your knowledge" quiz-writing format from the Scouts' own [Scouts around the globe](https://www.scouts.org.uk/activities/scouts-around-the-globe/) activity, just aimed at local rather than international content.
 
-**Materials:** internet access (phones/tablets/laptops) or pre-prepared local information packs if the group doesn't have internet access at the meeting place.
+Push for genuine depth over a quick skim — a good quiz needs real specifics (actual names, dates, places) rather than vague impressions, which is exactly what "find out as much as you can" is asking for. Patrols can supplement their chosen document with their own internet research or local knowledge if they want to go further, but the provided document is the required minimum, not a suggestion to ignore.
 
-### Prepare a short presentation (20 min)
+**Materials:** the five local briefing documents (printed, one set per patrol, or on tablets), paper and pens for writing quiz questions and an answer sheet.
 
-Each patrol puts together a short (2–3 minute) presentation on what they found — a poster, a few talking points, or slides if available. The point is communicating what they found clearly, not production values.
+### Quick game: Rush Hour (10 min)
 
-**Materials:** poster paper/card, pens.
+[Rush hour](https://www.scouts.org.uk/activities/rush-hour/) — mark out a large square with a smaller 3m x 3m square in the middle, patrols of three at each corner of the big square. One person per group races to the opposite corner through the middle square; if two players collide or get too close, both go back to their corner and try again. A good stretch-the-legs break between the research and quiz blocks.
 
-### Present to the room (20 min)
+**Materials:** something to mark out the two squares (cones, chalk, tape).
 
-Each patrol presents to the rest of the group. Encourage a couple of questions from other patrols after each one — genuine curiosity about what another patrol found is a good sign the research actually landed.
+### Quiz time (25 min)
+
+Each patrol runs their quiz for the rest of the room, quiz-show style, in place of a formal presentation — one patrol reads out their questions while everyone else answers on paper or shouts out, then reveals the answers and awards points. Rotate through all patrols' quizzes; keep pace brisk rather than letting any one patrol's quiz run long.
 
 ### Close (10 min)
 
@@ -53,5 +55,6 @@ Notices, thought for the week, home.
 
 ## Notes
 
-- Leaders should note engagement and depth of research per patrol as the evidence for this requirement.
-- If a patrol's chosen aspect turns out to be thin on local material (a small village with limited local history, say), it's fine to broaden slightly rather than force a weak answer — the requirement is "find out as much as you can," not "find out a fixed amount."
+- Leaders should note each patrol's chosen document, the depth of their quiz questions, and genuine engagement in both writing and running their quiz, as the evidence for this requirement.
+- The five briefing documents are reusable across future years' Year 1, Term 1 — the local research itself doesn't go out of date term to term, only the Scouts doing it.
+- If a leader wants even more variety in future, additional local briefing documents can be added to [`resources/`](../../resources/README.md) alongside these five.

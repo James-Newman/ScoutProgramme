@@ -27,6 +27,11 @@ This directory only covers **informational/printable materials** (cards, templat
 | [`food-and-drink-sorting-cards.md`](food-and-drink-sorting-cards.md) | [Healthy Body, Healthy Choices](../year-3/term-1/healthy-body-healthy-choices.md) |
 | [`experiment-plan-template.md`](experiment-plan-template.md) | [Being a Scientist: Plan Experiment 1](../year-3/term-2/being-a-scientist-plan-experiment-1.md), [Experiment 2: Water Filtration](../year-3/term-2/experiment-2-water-filtration.md), [Experiment 3: Insulation Test](../year-3/term-2/experiment-3-insulation-test.md) |
 | [`energy-and-recycling-audit-checklist.md`](energy-and-recycling-audit-checklist.md) | [Recycling & Energy Audit](../year-3/term-3/recycling-and-energy-audit.md) |
+| [`local-history-wooburn-and-bourne-end.md`](local-history-wooburn-and-bourne-end.md) | [Community Research](../year-1/term-1/community-research.md) |
+| [`natural-history-wooburn-and-bourne-end.md`](natural-history-wooburn-and-bourne-end.md) | [Community Research](../year-1/term-1/community-research.md) |
+| [`environmental-considerations-wooburn-and-bourne-end.md`](environmental-considerations-wooburn-and-bourne-end.md) | [Community Research](../year-1/term-1/community-research.md) |
+| [`ancient-history-wooburn-and-bourne-end.md`](ancient-history-wooburn-and-bourne-end.md) | [Community Research](../year-1/term-1/community-research.md) |
+| [`geography-wooburn-and-bourne-end.md`](geography-wooburn-and-bourne-end.md) | [Community Research](../year-1/term-1/community-research.md) |
 
 ## Real official resources used instead of a local copy
 

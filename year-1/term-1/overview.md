@@ -79,6 +79,7 @@ Pulled from each session's own Notes — everything a leader needs to organise a
 
 ### Content to source or prepare carefully
 
+- **[Community Research](community-research.md)** — the five local briefing documents are ready-made in [`resources/`](../../resources/README.md); on the day, steer patrols towards a spread across all five rather than everyone picking the same one.
 - **[World Faiths](../../filler-sessions/world-faiths.md)** — a text excerpt from the faith being studied, sourced thoughtfully (ideally with input from a faith advisor or community member) — plus a video tour if no guest speaker is arranged.
 - **[Little O](little-o-orienteering.md)** — three pre-set courses of increasing difficulty in the park/woods (or check whether the local park already has a permanent orienteering course installed, which saves this work).
 - **[International Issues & Connections](international-issues-and-connections.md)** — check whether the Group already has any international Scout contacts to draw on.
@@ -105,9 +106,10 @@ Quantities below assume the group's maximum of 6 patrols; scale down proportiona
 
 | Item | Quantity | Used in | Resource |
 | :-- | :-- | :-- | :-- |
-| Internet access (phones/tablets/laptops) | Enough for 6 patrols to research in parallel | [Community Research](community-research.md), [Beliefs, Attitudes & Values](beliefs-attitudes-and-values.md), [International Issues & Connections](international-issues-and-connections.md) | Source it |
-| Pre-prepared local information packs (fallback if no internet) | 6 sets | [Community Research](community-research.md) | Source it — genuinely local, no generic version possible |
-| Poster paper/card, pens | 6 sets | [Community Research](community-research.md) | Source it |
+| Internet access (phones/tablets/laptops) | Enough for 6 patrols to research in parallel | [Beliefs, Attitudes & Values](beliefs-attitudes-and-values.md), [International Issues & Connections](international-issues-and-connections.md) | Source it |
+| Five local briefing documents (printed, one set per patrol, or on tablets) | 1 set of five per patrol | [Community Research](community-research.md) | [`local-history-wooburn-and-bourne-end.md`](../../resources/local-history-wooburn-and-bourne-end.md), [`natural-history-wooburn-and-bourne-end.md`](../../resources/natural-history-wooburn-and-bourne-end.md), [`environmental-considerations-wooburn-and-bourne-end.md`](../../resources/environmental-considerations-wooburn-and-bourne-end.md), [`ancient-history-wooburn-and-bourne-end.md`](../../resources/ancient-history-wooburn-and-bourne-end.md), [`geography-wooburn-and-bourne-end.md`](../../resources/geography-wooburn-and-bourne-end.md) |
+| Paper and pens for quiz questions and an answer sheet | 6 sets | [Community Research](community-research.md) | Source it |
+| Cones/chalk/tape to mark out Rush Hour's two squares | 1 set | [Community Research](community-research.md) | Source it |
 | Paper/journals for personal reflection | 1 per Scout | [Beliefs, Attitudes & Values](beliefs-attitudes-and-values.md) | Source it |
 | Flipchart of words for the relay game, paper and pens per team | 6 sets | [Beliefs, Attitudes & Values](beliefs-attitudes-and-values.md) | Source it |
 | Blindfolds (relay game, round two) | 6 | [Beliefs, Attitudes & Values](beliefs-attitudes-and-values.md) | Source it |
