@@ -15,41 +15,61 @@
 | Time | Duration | Block |
 | --- | --- | --- |
 | 0:00–0:10 | 10 min | Welcome |
-| 0:10–0:50 | 40 min | What do you believe? |
-| 0:50–1:40 | 50 min | Different societies, different attitudes |
-| 1:40–1:50 | 10 min | Connecting the two |
+| 0:10–0:30 | 20 min | What do you believe? |
+| 0:30–1:00 | 30 min | Different societies, different attitudes |
+| 1:00–1:50 | 50 min | Manhunt by torchlight |
 | 1:50–2:00 | 10 min | Close |
 
 ## Session detail
 
 ### Welcome (10 min)
 
-Notices, patrol flags, opening.
+Notices, patrol flags, opening. Read both badge quotes above aloud as part of the introduction, so Scouts know up front what taking part in each half looks like.
 
-### What do you believe? (40 min)
+### What do you believe? (20 min)
 
-Start with the badge's own prompts: "What values do we share as Scouts? Which Scout value means the most to you?" Run this as small-group discussion first (10 min), then individual quiet reflection — each Scout writes or draws something personal to them about what they believe and value (this may or may not touch on religious belief; that's each Scout's call, not a requirement). Close with a voluntary share-back (whoever wants to) rather than making everyone present — the requirement is taking part in the reflection, not performing it for the room.
+Start with the badge's own prompts: get Scouts sitting on the floor with the Scout values listed somewhere visible, and ask "What values do we share as Scouts? Which Scout value means the most to you?" as a short small-group discussion (5 min). Move into individual quiet reflection (10 min): each Scout takes a pen and paper, finds a bit of space to themselves, and writes or draws something personal about what they believe and value (this may or may not touch on religious belief; that's each Scout's call, not a requirement). Ask Scouts to respect each other's privacy around what's written — anyone who'd rather keep theirs private can fold it, write their name on the outside, and hand it to a leader to be given back unopened at the end of the session, rather than share it with anyone else. Close with a voluntary share-back (5 min, whoever wants to) rather than making everyone present — the requirement is taking part in the reflection, not performing it for the room.
 
-**Materials:** paper/journals, pens.
+**Materials:** paper/journals, pens, the Scout values listed somewhere visible (whiteboard/flipchart).
 
-### Different societies, different attitudes (50 min)
+### Different societies, different attitudes (30 min)
 
-Open with a relay game that makes the point physically before discussing it: split into patrol teams lined up opposite a table each, with paper and pens on the table and a handful of words displayed on a flipchart (e.g. "Trusted, Loyal, Friendly, Considerate, Belongs, Courage, Careful, Respect"). On "go," the first Scout in each team runs to their table, writes the first word, runs back, and the next Scout continues the sequence — but everyone must write **with their non-dominant hand only**. Run a second round with the dominant hand but blindfolded. Both rounds penalise Scouts for something they can't control (handedness), which is exactly the point (5 min setup, 15 min to run both rounds).
+Before the session, draw a chalk line across the room roughly 2m out from one end, and set up a board or flip-chart sheet with chalk ready at the far end for each patrol team.
 
-Debrief it directly (10 min): being marked down for something you didn't choose is what the game just simulated — that's the same shape as real inequality based on gender or disability. Then move to the comparative half (20 min): in patrols, research how attitudes toward gender or disability actually differ across real societies, using the badge's own suggested contexts — music, sport, and fashion are concrete, accessible angles (attitudes toward women in sport in different countries, disabled athletes and the Paralympics' global reach, gender expression in fashion across cultures). Each patrol picks one angle and one or two societies/countries to compare and prepares a short summary of what they found.
+Open with the relay game that makes the point physically before discussing it (a well-established World Challenge Award activity shared via [Online Scout Manager's programme library](https://www.onlinescoutmanager.co.uk/programme.php?action=view&id=55477)): patrol teams line up behind the chalk line; on "go," the first Scout in each team runs to their team's board, writes down a value with their non-dominant hand only, runs back, and the next Scout goes. Run a second round the same way but with the dominant hand while blindfolded (neckers work fine if dedicated blindfolds aren't to hand). Both rounds penalise Scouts for something they can't control (handedness, sight), which is exactly the point.
 
-**Materials:** paper and pens per team, a flipchart of words, blindfolds for round two, internet access or pre-prepared case-study material for the comparative research.
+Debrief it directly: being marked down for something you didn't choose is what the game just simulated — that's the same shape as real inequality based on gender or disability.
 
-### Connecting the two (10 min)
+Move into the comparative half: in patrols, hand out one set of the [Gender & Disability Scenario Cards](../../resources/gender-and-disability-scenario-cards.md) — 40 short real and realistic examples of how attitudes toward gender and disability have played out across history and around the world. Patrols read through the set and agree their five best examples as a group, then, one at a time, table by table, each patrol reads just one of their five aloud to the rest of the room — not the full set, and not all five; the point is a spread of examples across the room, not a full readback from every patrol.
 
-Quick group discussion: does anything from the first half (personal values) show up in how a society treats gender or disability? Where do Scout values line up with what patrols found, and where might they differ? No need to resolve this neatly — the discussion itself is the point.
+**Materials:** chalk (3–5 pieces), a board/flip-chart sheet per patrol team, the Scout values still visible, blindfolds or neckers, one set of the [Gender & Disability Scenario Cards](../../resources/gender-and-disability-scenario-cards.md) per patrol.
+
+### Manhunt by torchlight (50 min)
+
+[Manhunt](https://www.scoutingresources.org.uk/games/games_wide.html) — a wide-area night version of hide-and-seek. One Scout ("it") waits a minute while everyone else hides across a large, well-known bounded area; "it" then searches with a torch, and anyone found joins the hunt for whoever's left. A high-energy, physical release after an hour of more reflective, seated activity, and makes good use of the term's early dark evenings.
+
+**Materials:** torches (one per hunter is plenty; head torches work well), a clearly briefed boundary.
 
 ### Close (10 min)
 
-Notices, thought for the week, home.
+Notices, thought for the week, home. Hand back any folded personal reflection papers from the first activity, unopened, to whoever asked for theirs to be kept.
 
 ## Notes
 
 - The relay game is a well-established World Challenge Award activity shared via [Online Scout Manager's programme library](https://www.onlinescoutmanager.co.uk/programme.php?action=view&id=55477) — worth checking that page directly for any leader tips beyond what's summarised here.
+- The [Gender & Disability Scenario Cards](../../resources/gender-and-disability-scenario-cards.md) replace open-ended internet research for the comparative half — unlike [Community Research](community-research.md)'s patrol-directed research, this age group got more out of a fixed, ready-made set of examples to choose from under time pressure than searching from scratch.
+- As actually run, reaching the end of the scenario-card read-out took the full hour budgeted across Welcome, What do you believe?, and Different societies, different attitudes above — the running order reflects that pace, so don't expect spare time before heading out for Manhunt.
+- Manhunt by torchlight replaces what was originally planned as a separate indoor "connecting the two" reflection plus a general games block — the patrol read-outs during the cards activity already serve as the shared reflection point, so there's no need to force a second one before heading outside. If there's ever spare time to revisit it, or as a follow-up next session, these questions connect the two halves:
+  - Which fact surprised you the most, and why?
+  - Did any of these examples seem unfair? What made them unfair?
+  - How do attitudes about gender or disability change over time?
+  - Can you think of an example where society has become more inclusive?
+  - Are there any examples where people were judged for something they did not choose?
+  - Which Scout values connect most strongly to these stories?
+  - How might life feel different if you lived in one of these situations?
+  - Do different societies always have the same idea of what is "normal"? Why not?
+  - What can individuals do when they think a rule or attitude is unfair?
+  - What sort of society would you like to help build as a Scout?
 - This session covers sensitive personal territory (beliefs, values, identity) — set the tone early that there's no "right" answer being looked for, and that Scouts can choose how much to share.
-- Leaders should note participation in both halves as the evidence for these two requirements — they're distinct requirements even though they share a session.
+- Leaders should note participation across the relay, the card read-out, and the personal reflection as the evidence for these two requirements — they're distinct requirements even though they share a session.
+- Manhunt by torchlight needs its own basic safety check before dark falls: confirm the boundary and ground for hazards in daylight, brief Scouts on the limits before starting, and spread adult coverage across the area rather than clustering at one point.

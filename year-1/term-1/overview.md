@@ -86,7 +86,7 @@ Pulled from each session's own Notes — everything a leader needs to organise a
 
 ### Equipment & materials to source
 
-See the [material inventory](#material-inventory) below for the full, quantified list — the standouts needing advance sourcing rather than a last-minute cupboard check are patrol/mess tents and camp kit ([Camp](camp.md)), orienteering maps/symbol key/compasses/control markers ([Little O](little-o-orienteering.md)), and a flipchart of words/blindfolds ([Beliefs, Attitudes & Values](beliefs-attitudes-and-values.md)).
+See the [material inventory](#material-inventory) below for the full, quantified list — the standouts needing advance sourcing rather than a last-minute cupboard check are patrol/mess tents and camp kit ([Camp](camp.md)), orienteering maps/symbol key/compasses/control markers ([Little O](little-o-orienteering.md)), torches for Manhunt by torchlight, and chalk/blindfolds for the relay game ([Beliefs, Attitudes & Values](beliefs-attitudes-and-values.md)).
 
 ### Stock to order
 
@@ -106,14 +106,15 @@ Quantities below assume the group's maximum of 6 patrols; scale down proportiona
 
 | Item | Quantity | Used in | Resource |
 | :-- | :-- | :-- | :-- |
-| Internet access (phones/tablets/laptops) | Enough for 6 patrols to research in parallel | [Beliefs, Attitudes & Values](beliefs-attitudes-and-values.md), [International Issues & Connections](international-issues-and-connections.md) | Source it |
+| Internet access (phones/tablets/laptops) | Enough for 6 patrols to research in parallel | [International Issues & Connections](international-issues-and-connections.md) | Source it |
 | Five local briefing documents (printed, one set per patrol, or on tablets) | 1 set of five per patrol | [Community Research](community-research.md) | [`local-history-wooburn-and-bourne-end.md`](../../resources/local-history-wooburn-and-bourne-end.md), [`natural-history-wooburn-and-bourne-end.md`](../../resources/natural-history-wooburn-and-bourne-end.md), [`environmental-considerations-wooburn-and-bourne-end.md`](../../resources/environmental-considerations-wooburn-and-bourne-end.md), [`ancient-history-wooburn-and-bourne-end.md`](../../resources/ancient-history-wooburn-and-bourne-end.md), [`geography-wooburn-and-bourne-end.md`](../../resources/geography-wooburn-and-bourne-end.md) |
 | Paper and pens for quiz questions and an answer sheet | 6 sets | [Community Research](community-research.md) | Source it |
 | Cones/chalk/tape to mark out Rush Hour's two squares | 1 set | [Community Research](community-research.md) | Source it |
 | Paper/journals for personal reflection | 1 per Scout | [Beliefs, Attitudes & Values](beliefs-attitudes-and-values.md) | Source it |
-| Flipchart of words for the relay game, paper and pens per team | 6 sets | [Beliefs, Attitudes & Values](beliefs-attitudes-and-values.md) | Source it |
-| Blindfolds (relay game, round two) | 6 | [Beliefs, Attitudes & Values](beliefs-attitudes-and-values.md) | Source it |
-| Pre-prepared case-study material on gender/disability attitudes (fallback) | 6 sets | [Beliefs, Attitudes & Values](beliefs-attitudes-and-values.md) | Source it |
+| Chalk and a board/flip-chart sheet per team for the relay game | 6 sets | [Beliefs, Attitudes & Values](beliefs-attitudes-and-values.md) | Source it |
+| Blindfolds (relay game, round two — neckers work as a substitute) | 6 | [Beliefs, Attitudes & Values](beliefs-attitudes-and-values.md) | Source it |
+| Gender & Disability Scenario Cards (printed, one set per patrol) | 6 sets | [Beliefs, Attitudes & Values](beliefs-attitudes-and-values.md) | [`gender-and-disability-scenario-cards.md`](../../resources/gender-and-disability-scenario-cards.md) |
+| Torches (Manhunt by torchlight) | 1 per hunter | [Beliefs, Attitudes & Values](beliefs-attitudes-and-values.md) | Source it |
 | International issue briefing (fallback if no internet) | 1 set | [International Issues & Connections](international-issues-and-connections.md) | [`international-issue-briefing-cards.md`](../../resources/international-issue-briefing-cards.md) |
 | Email/social media access for contacting Scouts abroad | 1 (shared/leader-supervised) | [International Issues & Connections](international-issues-and-connections.md) | [`contacting-scouts-abroad-guide.md`](../../resources/contacting-scouts-abroad-guide.md) |
 

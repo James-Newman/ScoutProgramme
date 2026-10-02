@@ -20,6 +20,7 @@ This directory only covers **informational/printable materials** (cards, templat
 | [`menu-planning-template.md`](menu-planning-template.md) | Camp (every term's standing Camp slot) |
 | [`flag-cards.md`](flag-cards.md) | [End of Term Fun & Games](../year-1/term-1/end-of-term-fun-and-games.md) |
 | [`international-issue-briefing-cards.md`](international-issue-briefing-cards.md) | [International Issues & Connections](../year-1/term-1/international-issues-and-connections.md) |
+| [`gender-and-disability-scenario-cards.md`](gender-and-disability-scenario-cards.md) | [Beliefs, Attitudes & Values](../year-1/term-1/beliefs-attitudes-and-values.md) |
 | [`contacting-scouts-abroad-guide.md`](contacting-scouts-abroad-guide.md) | [International Issues & Connections](../year-1/term-1/international-issues-and-connections.md) |
 | [`knot-reference-card.md`](knot-reference-card.md) | [Knots I](../year-2/term-2/knots-i.md), [Knots II](../year-2/term-2/knots-ii.md) |
 | [`global-issues-briefing-cards.md`](global-issues-briefing-cards.md) | [Clothing & Belongings: Made Where?](../year-2/term-3/clothing-and-belongings-made-where.md), [Natural Disaster Investigation](../year-2/term-3/natural-disaster-investigation.md), [International Sport & Peace](../year-2/term-3/international-sport-and-peace.md), [International Health Issue: Creative Share](../year-2/term-3/international-health-issue-creative-share.md), [Rights Around the World](../year-2/term-3/rights-around-the-world.md) |
