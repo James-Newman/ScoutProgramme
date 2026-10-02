@@ -4,6 +4,8 @@ Used in: [UK Scouts Orienteering Basics & Bingo](../filler-sessions/orienteering
 
 Transcribed from the original *Filler - Orienteering - Basics & Bingo* leader pack PDF: 24 calling cards and 10 boards (Boards 1–10). Boards 11–30 are additional boards in the same format, so a larger group or repeat rounds don't need duplicated boards. Each board is a 4×4 grid of 16 of the 24 answers, spelled as in the session's Bingo Call-Out Cards & Clues table, so whatever the caller reads out has a matching square on any board that carries it. Between them the 30 boards use every answer exactly 20 times, and no new board shares more than 12 of its 16 squares with any other board. Print one board per pair or trio of Scouts, as the session suggests, handing out different boards each round.
 
+A print-ready A4 version (calling cards on page 1, one board per page after) is in [`orienteering-basics-bingo-cards.pdf`](orienteering-basics-bingo-cards.pdf). Print at 100% scale.
+
 ## Bingo call-out cards
 
 Print this page, cut along the borders and place all 24 cards into a hat or bag.
