@@ -26,7 +26,7 @@ Pages containing calling cards and bingo boards are designed to be printed and u
 
 ## Pre-Session Prep
 
-- [ ] Print full plan, including bingo cards
+- [ ] Print full plan, plus the [Orienteering Basics Bingo cards](../resources/orienteering-basics-bingo-cards.md) (30 different boards, one per pair or trio) and calling cards
 - [ ] Cut out the Bingo Calling Cards. Fold each and put in bowl/hat/bag
 - [ ] Get out Pens, working compasses and some OS maps
 - [ ] Bingo prizes - Biscuits, Chocolates, Haribo
@@ -102,6 +102,8 @@ When somebody calls "Bingo!", ask them to explain one or two of the marked terms
 
 ### Bingo Call-Out Cards & Clues
 
+Mix it up: call the answer itself or use the clue instead. The printable calling cards are in [Orienteering Basics Bingo — Calling Cards & Boards](../resources/orienteering-basics-bingo-cards.md).
+
 | Answer | Call this clue |
 | :--- | :--- |
 | North | Which direction is normally at the top of a map? |
@@ -138,4 +140,4 @@ When somebody calls "Bingo!", ask them to explain one or two of the marked terms
 - **Human Compass (5 mins, no equipment):** Everyone faces north. Call instructions such as "$90^\circ$ clockwise", "180°", or "$45^\circ$ anticlockwise". Scouts physically turn to face the answer. Wrong direction = one strike/point rather than sitting out.
 - **Compass Simon Says (5-10 mins, no equipment):** Play Simon Says using navigation instructions: "Simon says face north"; "Simon says turn $90^\circ$ clockwise"; "Simon says point south-west". Anyone who moves when Simon did not say, or chooses the wrong direction, gets a strike.
 - **Map Symbol Charades (5-10 mins, use the bingo cards):** A Scout draws a calling card and mimes the term without speaking. Their Patrol/team gets 30 seconds to identify it. Good cards include river/stream, woodland, steep slope, building, footpath and orienteering control.
-- **Blind Navigation (10 mins, a few chairs/cones):** Create a very simple obstacle route. One Scout closes their eyes while a partner guides them using only compass directions and numbers of steps: "three steps north", "two east", etc. No left/right/towards me. Swap roles.
+- **Blind Navigation (10 mins, a few chairs/cones):** Create a very simple obstacle route. One Scout closes their eyes (or use your normal blindfold approach if appropriate) while a partner guides them using only compass directions and numbers of steps: "three steps north", "two east", etc. No left/right/towards me. Swap roles.
