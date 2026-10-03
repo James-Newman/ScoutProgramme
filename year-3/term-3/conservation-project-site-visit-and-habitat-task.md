@@ -36,5 +36,5 @@ Before everyone leaves, a quick round: one thing they did that genuinely helped,
 ## Notes
 
 - Needs a placement risk assessment and enough leader/adult supervision for the specific task the host organisation sets — follow the group's own safety policy for off-site activities, in the same way as [Camp](camp.md) or [External Activity](external-activity.md).
-- This is a separate, deeper placement from Year 1, Term 1's [Community & Environmental Action Day](../../year-1/term-1/community-and-environmental-action-day.md) (which satisfied World Challenge Award's environmental project requirement) — not a repeat of the same visit, though revisiting the same category of local partner if that placement went well is a reasonable, practical choice.
+- This is a separate, deeper placement from Year 1, Term 1's [Litter Pick](../../year-1/term-1/litter-pick.md) (which satisfied World Challenge Award's environmental project requirement) — not a repeat of the same visit, though revisiting the same category of local partner if that placement went well is a reasonable, practical choice.
 - Leaders should note the hands-on task completed and engagement with the discussion, as evidence for this requirement.

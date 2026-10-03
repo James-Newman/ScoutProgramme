@@ -2,7 +2,7 @@
 
 **Term:** Year 1, Term 1 — Community & Global Citizenship
 
-**Fits the term because:** closes the term with a celebration rather than more assessment — the badge work is already done and logged from [Community Research](community-research.md), [Beliefs, Attitudes & Values](beliefs-attitudes-and-values.md), [International Issues & Connections](international-issues-and-connections.md), [Community & Environmental Action Day](community-and-environmental-action-day.md), [World Faiths](../../filler-sessions/world-faiths.md), and [Little O](little-o-orienteering.md).
+**Fits the term because:** closes the term with a celebration rather than more assessment — the badge work is already done and logged from [Community Research](community-research.md), [Beliefs, Attitudes & Values](beliefs-attitudes-and-values.md), [International Issues & Connections](international-issues-and-connections.md), [Litter Pick](litter-pick.md), [World Faiths](../../filler-sessions/world-faiths.md), and [Little O](little-o-orienteering.md).
 
 **Badge focus:** none — badge sign-off happened earlier in the term; this session just presents what's already been earned.
 
