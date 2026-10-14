@@ -12,7 +12,7 @@ A hearty, hobo-style parcel that each Scout builds themselves and cooks in the e
 
 - 8 pork sausages
 - 8 rashers streaky bacon
-- 2–4 medium potatoes, scrubbed and cut into 1.5 cm cubes
+- 3 large baking potatoes, scrubbed and cut into 1.5 cm cubes
 - 1 onion, peeled and sliced into thin wedges (2 for fuller parcels)
 - 2 tbsp vegetable oil or butter, plus a little more oil for the foil
 - 1 tsp salt

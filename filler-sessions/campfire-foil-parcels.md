@@ -44,7 +44,7 @@ Split each group in two. **Two Scouts go to the altar fire and light it; the oth
 - **Fire-lighters:** use the fire kit already set out at the altar fire. Build up slowly with kindling, then fuel, and keep the fire fed so it burns down evenly. The fire should end up as glowing orange embers with no big flames before anything goes on it.
 - **Food-preppers:** wash hands, scrub and cube the potatoes into 1.5 cm pieces, slice the onions into thin wedges, and toss both with the oil/butter, salt, pepper and herbs in a bowl. Keep raw sausages and bacon on their own board and wash hands again after handling them.
 
-Leaders move between groups; the knife work and the fire are the two things that need an adult watching. Keep the cubes small and even, since potato size decides whether the parcels cook through.
+Leaders move between groups; the knife work and the fire are the two things that need an adult watching. Keep the cubes small and even, since potato size decides whether the parcels cook through. Baking potatoes are floury, so the cubes may break up a little; that's fine inside the foil.
 
 **Materials:** altar fires (one per group), fuel and kindling, fire kit, water and sand buckets, chopping boards, knives, bowls, ingredients, hand-washing kit.
 
@@ -88,13 +88,13 @@ Notices, thought for the week, flag down, home.
 
 ## Shopping list
 
-Portions per Scout: ½–1 potato, ¼ onion, 2 sausages, 2 rashers of streaky bacon, and 2 sheets of foil.
+Portions per Scout: about ¾ of a baking potato (roughly 190 g), ¼ onion, 2 sausages, 2 rashers of streaky bacon, and 2 sheets of foil. The potato figure assumes the [Tesco Baking Potatoes 4 Pack](https://www.tesco.com/shop/en-GB/products/305729979) (£0.85), which Tesco doesn't give a weight for; we've assumed about 250–300 g per potato, so a pack is roughly 1–1.2 kg.
 
 | Item | Per group of 4 | 16 Scouts | 24 Scouts |
 | --- | --- | --- | --- |
 | Pork sausages | 8 | 32 | 48 |
 | Streaky bacon rashers | 8 | 32 | 48 |
-| Medium potatoes | 2–4 | 8–16 | 12–24 |
+| Baking potatoes (Tesco 4 packs) | 3 (¾ of a pack) | 12 (3 packs) | 16 (4 packs) |
 | Onions | 1 | 4 | 6 |
 | Vegetable oil or butter | 3 tbsp (2 for the veg, 1 for the foil) | 12 tbsp | 18 tbsp |
 | Salt | 1 tsp | 4 tsp | 6 tsp |
@@ -102,7 +102,7 @@ Portions per Scout: ½–1 potato, ¼ onion, 2 sausages, 2 rashers of streaky ba
 | Mixed dried herbs (optional) | 1 tsp | 4 tsp | 6 tsp |
 | Heavy-duty foil, ~40 cm sheets | 8 | 32 | 48 |
 
-Buy potatoes at the top of the range if the group is hungry. For a veggie group, swap in veggie sausages and skip the bacon, and use vegetable oil rather than butter if anyone is vegan. If pork is an issue for anyone, buy pork-free sausages for them. For extra flavour, a knob of butter, some grated cheese or a splash of ketchup or BBQ sauce can go in before sealing.
+Buy one spare pack of potatoes if the group is hungry, or if the potatoes turn out smaller than assumed (weigh one when you buy them). For a veggie group, swap in veggie sausages and skip the bacon, and use vegetable oil rather than butter if anyone is vegan. If pork is an issue for anyone, buy pork-free sausages for them. For extra flavour, a knob of butter, some grated cheese or a splash of ketchup or BBQ sauce can go in before sealing.
 
 ## Other materials
 
