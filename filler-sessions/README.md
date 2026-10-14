@@ -21,6 +21,15 @@ Badges already earned elsewhere in the 3-year plan (see `data/awards.yaml`) were
 
 Unlike the seven above, Communicator was displaced from a dedicated term rather than never considered for one — see `data/awards.yaml` for that history. It's included here rather than kept in the guaranteed award catalogue precisely because it's opportunistic: a Scout only earns it if a leader slots this session into a free week, not guaranteed like the passive-progress badges below.
 
+## Standalone sessions (no badge)
+
+Not every filler needs to complete a badge. These are plain fun, hands-on sessions that sit outside the badge requirements, though some give incidental evidence towards a passive-progress badge, noted in each file.
+
+| Session | Notes |
+| :-- | :-- |
+| [Orienteering Basics & Bingo](orienteering-basics-bingo.md) | Indoor map and compass basics, then bingo and games. Prepares Scouts for the Big O and for [Little O](../little-o-orienteering.md), where the Orienteer Activity Badge is earned |
+| [Campfire Foil Parcels](campfire-foil-parcels.md) | Scouts light altar fires and cook sausage, bacon and potato parcels in the embers. Needs an outdoor space where fires are allowed. Also evidence for Outdoor Challenge Award requirement 4 |
+
 ## Using these in a term
 
 Drop one in wherever a term needs an extra week — they don't need to sit in any particular order relative to each other or to a term's own sessions, and none of them assume anything about which term or year they're used in.

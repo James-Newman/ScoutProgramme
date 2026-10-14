@@ -181,6 +181,8 @@ nav:
       - First aid kit checklist: resources/first-aid-kit-checklist.md
       - Site design grid: resources/site-design-grid.md
       - Site inspector scorecard: resources/site-inspector-scorecard.md
+      - Orienteering basics bingo cards: resources/orienteering-basics-bingo-cards.md
+      - Campfire foil parcel recipe card: resources/campfire-foil-parcel-recipe-card.md
       - Menu planning template: resources/menu-planning-template.md
       - Flag cards: resources/flag-cards.md
       - International issue briefing cards: resources/international-issue-briefing-cards.md
@@ -207,6 +209,9 @@ nav:
           - Naturalist: filler-sessions/naturalist.md
           - World Faiths: filler-sessions/world-faiths.md
           - Communicator: filler-sessions/communicator-activity-badge.md
+      - Standalone (no badge):
+          - Orienteering Basics & Bingo: filler-sessions/orienteering-basics-bingo.md
+          - Campfire Foil Parcels: filler-sessions/campfire-foil-parcels.md
       - Passive progress (accumulated across many terms):
           - Outdoor Challenge Award — Index: filler-sessions/outdoor-challenge-award/README.md
           - Outdoor — Tent Pitching: filler-sessions/outdoor-challenge-award/tent-pitching.md

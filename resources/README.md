@@ -17,7 +17,8 @@ This directory only covers **informational/printable materials** (cards, templat
 | [`first-aid-kit-checklist.md`](first-aid-kit-checklist.md) | [Outdoor Safety & Risk Awareness](../filler-sessions/outdoor-challenge-award/outdoor-safety-and-risk-awareness.md) |
 | [`site-design-grid.md`](site-design-grid.md) | [Site Layout & Design](../filler-sessions/outdoor-challenge-award/site-layout-design.md) |
 | [`site-inspector-scorecard.md`](site-inspector-scorecard.md) | [Site Layout & Design](../filler-sessions/outdoor-challenge-award/site-layout-design.md) |
-| [`orienteering-basics-bingo-cards.md`](orienteering-basics-bingo-cards.md) | [Orienteering Basics & Bingo](../filler-sessions/orienteering_basics_bingo.md) |
+| [`orienteering-basics-bingo-cards.md`](orienteering-basics-bingo-cards.md) | [Orienteering Basics & Bingo](../filler-sessions/orienteering-basics-bingo.md) |
+| [`campfire-foil-parcel-recipe-card.md`](campfire-foil-parcel-recipe-card.md) | [Campfire Foil Parcels](../filler-sessions/campfire-foil-parcels.md) |
 | [`litter-pick-route-and-tally-sheet.md`](litter-pick-route-and-tally-sheet.md) | [Litter Pick](../year-1/term-1/litter-pick.md) |
 | [`menu-planning-template.md`](menu-planning-template.md) | Camp (every term's standing Camp slot) |
 | [`flag-cards.md`](flag-cards.md) | [End of Term Fun & Games](../year-1/term-1/end-of-term-fun-and-games.md) |
