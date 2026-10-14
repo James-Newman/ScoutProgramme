@@ -1,5 +1,11 @@
 # UK Scouts Orienteering Basics & Bingo
 
+**Badge:** None — a standalone session. It covers some of the groundwork for the Orienteer Activity Badge (orientating a map, map symbols), but the badge itself is earned at [Little O](../little-o-orienteering.md).
+
+**Why it's a good filler:** all indoors, low setup, and needs only maps, compasses and the printed bingo cards. It works any time before the Big O or an Autumn term's Little O.
+
+**Adaptation needed:** None.
+
 **Aim:** Orienteering Basics, Ahead of the Big O  
 Scouts should leave able to orientate a map, identify the main compass directions, understand the idea of a bearing, and recognise a small set of useful map/orienteering terms.
 
