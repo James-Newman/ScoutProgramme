@@ -16,7 +16,7 @@ Every term's 12 weeks follow the same shape: one [Welcome Session](welcome-sessi
 | 2 | [Community Research](community-research.md) | Local community life research |
 | 3 | [Litter Pick](litter-pick.md) | An environmental project; volunteering with a local service (an evening, adapted from a day). Runs after dark: every Scout brings a torch |
 | 4 | [Beliefs, Attitudes & Values](beliefs-attitudes-and-values.md) | Personal beliefs/values, and societal attitudes to gender/disability |
-| 5 | [World Faiths](../../filler-sessions/world-faiths.md) *(filler session)* | World Faiths Activity Badge — run as written; see the session's Badge coverage for the text-reading requirement |
+| 5 | [World Faiths](../../filler-sessions/world-faiths.md) *(filler session)* | World Faiths Activity Badge — complete in full this session |
 | 6 | [Night Hike](night-hike.md) | None — this term's Hikes Away (1) opportunity |
 | 7 | [International Issues & Connections](international-issues-and-connections.md) | An international issue; contact with Scouts abroad |
 | 8 | [External Activity](external-activity.md) *(placeholder)* | None, by design — a fun outing unrelated to the term's theme |
@@ -80,7 +80,7 @@ Pulled from each session's own Notes — everything a leader needs to organise a
 ### Content to source or prepare carefully
 
 - **[Community Research](community-research.md)** — the five local briefing documents are ready-made in [`resources/`](../../resources/README.md); on the day, steer patrols towards a spread across all five rather than everyone picking the same one.
-- **[World Faiths](../../filler-sessions/world-faiths.md)** — the four patrol research packs and recording sheets are ready-made in [`resources/`](../../resources/world-faiths-patrol-packs.md); the plan has no text-reading step, so nothing further to source.
+- **[World Faiths](../../filler-sessions/world-faiths.md)** — the four patrol research packs and recording sheets are ready-made in [`resources/`](../../resources/world-faiths-patrol-packs.md); nothing further to source.
 - **[Little O](little-o-orienteering.md)** — three pre-set courses of increasing difficulty in the park/woods (or check whether the local park already has a permanent orienteering course installed, which saves this work).
 - **[International Issues & Connections](international-issues-and-connections.md)** — check whether the Group already has any international Scout contacts to draw on.
 
@@ -93,7 +93,7 @@ See the [material inventory](#material-inventory) below for the full, quantified
 Three badges complete in full this term — order stock for all three from the [Scout Store](https://shop.scouts.org.uk/) ahead of [End of Term Fun & Games](end-of-term-fun-and-games.md):
 
 - **World Challenge Award** — this term's own focus badge.
-- **World Faiths Activity Badge** — earned via the filler session, for any Scout who took part (see its Badge coverage).
+- **World Faiths Activity Badge** — earned via the filler session, for any Scout who took part.
 - **Orienteer Activity Badge** — completed in full via [Little O](little-o-orienteering.md).
 
 **Not this term:** Master at Arms Activity Badge needs at least six Shooting Sessions across all three years, plus a supervised contest — this term's Shooting Session is only the first, so there's no badge to order yet for that one. Don't stock it prematurely.
