@@ -12,7 +12,7 @@ Because most real Activity Badges are deliberately *not* single-session (they re
 | [Air Spotter](air-spotter.md) | Air Spotter Activity Badge | None (needs a pre-gathered picture pack — see the session's Materials) |
 | [Local Knowledge](local-knowledge.md) | Local Knowledge Activity Badge | None |
 | [Naturalist](naturalist.md) | Naturalist Activity Badge | None, provided the meeting place has adjacent green space |
-| [World Faiths](world-faiths.md) | World Faiths Activity Badge | Light — a video tour or guest speaker substitutes for an actual place-of-worship visit |
+| [World Faiths](world-faiths.md) | World Faiths Activity Badge | Light to moderate — a video and patrol research substitute for an actual place-of-worship visit; the plan has no text-reading step (see the file's Badge coverage) |
 | [Communicator](communicator-activity-badge.md) | Communicator Activity Badge | Light — needs existing photos/videos from a past Scouting activity (Scouts' own, or a leader's fallback pack) |
 
 ## Why these eight and not others

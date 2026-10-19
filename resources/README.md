@@ -21,6 +21,7 @@ This directory only covers **informational/printable materials** (cards, templat
 | [`campfire-foil-parcel-recipe-card.md`](campfire-foil-parcel-recipe-card.md) | [Campfire Foil Parcels](../filler-sessions/campfire-foil-parcels.md) |
 | [`litter-pick-route-and-tally-sheet.md`](litter-pick-route-and-tally-sheet.md) | [Litter Pick](../year-1/term-1/litter-pick.md) |
 | [`menu-planning-template.md`](menu-planning-template.md) | Camp (every term's standing Camp slot) |
+| [`world-faiths-patrol-packs.md`](world-faiths-patrol-packs.md) | [World Faiths](../filler-sessions/world-faiths.md) |
 | [`flag-cards.md`](flag-cards.md) | [End of Term Fun & Games](../year-1/term-1/end-of-term-fun-and-games.md) |
 | [`international-issue-briefing-cards.md`](international-issue-briefing-cards.md) | [International Issues & Connections](../year-1/term-1/international-issues-and-connections.md) |
 | [`gender-and-disability-scenario-cards.md`](gender-and-disability-scenario-cards.md) | [Beliefs, Attitudes & Values](../year-1/term-1/beliefs-attitudes-and-values.md) |

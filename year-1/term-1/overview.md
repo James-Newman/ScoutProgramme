@@ -16,7 +16,7 @@ Every term's 12 weeks follow the same shape: one [Welcome Session](welcome-sessi
 | 2 | [Community Research](community-research.md) | Local community life research |
 | 3 | [Litter Pick](litter-pick.md) | An environmental project; volunteering with a local service (an evening, adapted from a day). Runs after dark: every Scout brings a torch |
 | 4 | [Beliefs, Attitudes & Values](beliefs-attitudes-and-values.md) | Personal beliefs/values, and societal attitudes to gender/disability |
-| 5 | [World Faiths](../../filler-sessions/world-faiths.md) *(filler session)* | World Faiths Activity Badge — complete in full this session |
+| 5 | [World Faiths](../../filler-sessions/world-faiths.md) *(filler session)* | World Faiths Activity Badge — run as written; see the session's Badge coverage for the text-reading requirement |
 | 6 | [Night Hike](night-hike.md) | None — this term's Hikes Away (1) opportunity |
 | 7 | [International Issues & Connections](international-issues-and-connections.md) | An international issue; contact with Scouts abroad |
 | 8 | [External Activity](external-activity.md) *(placeholder)* | None, by design — a fun outing unrelated to the term's theme |
@@ -68,7 +68,7 @@ Pulled from each session's own Notes — everything a leader needs to organise a
 - **[External Activity](external-activity.md)** — book a venue/provider well ahead, since popular slots get booked up. Confirm costs, transport, numbers/ratios, and any provider-specific requirements (e.g. swimming ability). Sort consent forms and payment collection with lead time.
 - **[Camp](camp.md)** site booking — well ahead of the term.
 - **[Shooting Session](shooting-session.md)** — arrange a qualified instructor and suitable range (an external provider, or a leader holding the relevant NGB qualification); confirm medical/consent requirements the provider needs.
-- **[World Faiths](../../filler-sessions/world-faiths.md)** guest speaker (if going that route rather than a video) — arrange in advance; it's the stronger option over a video tour.
+- **[World Faiths](../../filler-sessions/world-faiths.md)** — choose one of the three intro videos and check it plays on the hall's connection; ideally ask someone from that faith community to look over the video and packs.
 
 ### Risk assessments
 
@@ -80,7 +80,7 @@ Pulled from each session's own Notes — everything a leader needs to organise a
 ### Content to source or prepare carefully
 
 - **[Community Research](community-research.md)** — the five local briefing documents are ready-made in [`resources/`](../../resources/README.md); on the day, steer patrols towards a spread across all five rather than everyone picking the same one.
-- **[World Faiths](../../filler-sessions/world-faiths.md)** — a text excerpt from the faith being studied, sourced thoughtfully (ideally with input from a faith advisor or community member) — plus a video tour if no guest speaker is arranged.
+- **[World Faiths](../../filler-sessions/world-faiths.md)** — the four patrol research packs and recording sheets are ready-made in [`resources/`](../../resources/world-faiths-patrol-packs.md); the plan has no text-reading step, so nothing further to source.
 - **[Little O](little-o-orienteering.md)** — three pre-set courses of increasing difficulty in the park/woods (or check whether the local park already has a permanent orienteering course installed, which saves this work).
 - **[International Issues & Connections](international-issues-and-connections.md)** — check whether the Group already has any international Scout contacts to draw on.
 
@@ -93,7 +93,7 @@ See the [material inventory](#material-inventory) below for the full, quantified
 Three badges complete in full this term — order stock for all three from the [Scout Store](https://shop.scouts.org.uk/) ahead of [End of Term Fun & Games](end-of-term-fun-and-games.md):
 
 - **World Challenge Award** — this term's own focus badge.
-- **World Faiths Activity Badge** — completed via the filler session, for any Scout who took part.
+- **World Faiths Activity Badge** — earned via the filler session, for any Scout who took part (see its Badge coverage).
 - **Orienteer Activity Badge** — completed in full via [Little O](little-o-orienteering.md).
 
 **Not this term:** Master at Arms Activity Badge needs at least six Shooting Sessions across all three years, plus a supervised contest — this term's Shooting Session is only the first, so there's no badge to order yet for that one. Don't stock it prematurely.
@@ -166,7 +166,7 @@ See the filler session's own file for its full materials list:
 
 | Filler session | Materials summary |
 | :-- | :-- |
-| [World Faiths](../../filler-sessions/world-faiths.md) | A device to show video, or a confirmed guest speaker; a sourced text excerpt |
+| [World Faiths](../../filler-sessions/world-faiths.md) | Projector and laptop; 4 patrol research packs and recording sheets ([printable](../../resources/world-faiths-patrol-packs.md)); pens, pencils and A4/A3 paper for 4 patrols; materials for the chosen games |
 
 ## Resources index
 
